@@ -1,0 +1,1233 @@
+Aetherthorn Horror
+	Vitriolic Gallstone - 0.435%
+	Serrated Spike - 0.29%
+
+Aetherial Abomination
+	Mutagenic Ichor - 3.6%
+
+Aetherial Obelisk
+	Aether Cluster - 0.75%
+	Aether Shard - 1.75%
+
+Aetherial Obelisk
+	Aether Cluster - 0.75%
+	Aether Shard - 1.75%
+
+Aetherial Terraformer
+	Aether Cluster - 1.2%
+	Aether Shard - 2.8%
+
+Aetherial Terraformer
+	Aether Cluster - 1.2%
+	Aether Shard - 2.8%
+
+Chilltusk
+	Bristly Fur - 1.6%
+
+Gargantuan Chilltusk
+	Bristly Fur - 1.6%
+
+Frosthide Chilltusk
+	Bristly Fur - 4.0%
+
+Stonetusk
+	Bristly Fur - 1.6%
+
+Gargantuan Stonetusk
+	Bristly Fur - 1.6%
+
+Stonetusk
+	Bristly Fur - 1.6%
+
+Gargantuan Stonetusk
+	Bristly Fur - 1.6%
+
+Ironhide Stonetusk
+	Bristly Fur - 4.0%
+
+Boneback Gnasher
+	Bristly Fur - 1.04%
+
+Rabid Boneback
+	Bristly Fur - 1.4400000000000004%
+
+Boneback Plaguebearer
+	Bristly Fur - 1.4400000000000004%
+
+Boneback
+	Bristly Fur - 1.04%
+
+Frenzied Plaguebeast
+	Bristly Fur - 1.2%
+
+Rotting Plaguebeast
+	Bristly Fur - 2.0%
+
+Dermapteran Weavil
+	Rigid Shell - 0.18%
+	Spined Carapace - 0.06%
+
+Dermapteran Sentinel
+	Rigid Shell - 0.525%
+	Spined Carapace - 0.17500000000000004%
+
+Dermapteran Reaver
+	Rigid Shell - 0.525%
+	Spined Carapace - 0.17500000000000004%
+
+Dermapteran Vizier
+	Rigid Shell - 0.525%
+	Spined Carapace - 0.17500000000000004%
+
+Dermapteran Progenitor
+	Rigid Shell - 0.525%
+	Spined Carapace - 0.17500000000000004%
+
+Bloodsworn Zealot
+	A Strange Key - 6.0%
+
+Bloodsworn Summoner
+	Avalline's Note - Page 3 - 0.56%
+	Chthonic Seal of Binding - 4.760000000000001%
+	Avalline's Note - Page 1 - 0.56%
+	The Call of Blood - 0.56%
+	Avalline's Note - Page 2 - 0.56%
+
+Bloodsworn Void-Caller
+	Avalline's Note - Page 3 - 0.56%
+	Chthonic Seal of Binding - 4.760000000000001%
+	Avalline's Note - Page 1 - 0.56%
+	The Call of Blood - 0.56%
+	Avalline's Note - Page 2 - 0.56%
+
+Bloodsworn Priest
+	A Strange Key - 16.5%
+
+Bloodsworn Doomsayer
+	Avalline's Note - Page 3 - 2.08%
+	Chthonic Seal of Binding - 8.0%
+	Avalline's Note - Page 1 - 2.08%
+	The Call of Blood - 1.92%
+	Avalline's Note - Page 2 - 1.92%
+
+Bloodsworn Zealot
+	A Strange Key - 6.0%
+
+Bloodsworn Summoner
+	Avalline's Note - Page 3 - 0.56%
+	Chthonic Seal of Binding - 4.760000000000001%
+	Avalline's Note - Page 1 - 0.56%
+	The Call of Blood - 0.56%
+	Avalline's Note - Page 2 - 0.56%
+
+Bloodsworn Void-Caller
+	Avalline's Note - Page 3 - 0.56%
+	Chthonic Seal of Binding - 4.760000000000001%
+	Avalline's Note - Page 1 - 0.56%
+	The Call of Blood - 0.56%
+	Avalline's Note - Page 2 - 0.56%
+
+Bloodsworn Priest
+	A Strange Key - 16.5%
+
+Bloodsworn Doomsayer
+	Avalline's Note - Page 3 - 2.08%
+	Chthonic Seal of Binding - 8.0%
+	Avalline's Note - Page 1 - 2.08%
+	The Call of Blood - 1.92%
+	Avalline's Note - Page 2 - 1.92%
+
+Cronley's Gang ~ Chosen
+	"The Bruiser" Romanov's Note - 0.15%
+	Bloodstained Note - 0.15%
+
+Cronley's Gang ~ Chosen
+	"The Bruiser" Romanov's Note - 0.25%
+	Bloodstained Note - 0.25%
+
+Cronley's Gang ~ Destined
+	"The Bruiser" Romanov's Note - 0.5%
+	Bloodstained Note - 0.5%
+
+Cronley's Gang ~ Champion
+	"The Bruiser" Romanov's Note - 0.625%
+	Bloodstained Note - 0.625%
+
+Cronley's Gang ~ Ascended
+	Scrap - 0.2%
+	Dynamite - 1.8%
+
+Cronley's Gang ~ Arsonist
+	Scrap - 0.2%
+	Dynamite - 1.8%
+
+Cronley's Gang ~ Arsonist
+	Scrap - 0.15%
+	Dynamite - 1.35%
+
+Rover
+	Clothing - 33.0%
+	Clothing - 33.0%
+	Clothing - 34.0%
+
+Festerborn Bloodgorger
+	Roiling Blood - 0.20400000000000001%
+
+Festerborn Bloodfiend
+	Roiling Blood - 0.285%
+
+Festerborn Matriarch
+	Roiling Blood - 0.45%
+
+Mireborn Bloodgorger
+	Roiling Blood - 0.20400000000000001%
+
+Mireborn Bloodfiend
+	Roiling Blood - 0.285%
+
+Mireborn Bloodgorger
+	Roiling Blood - 0.45%
+
+Pale Cavern Crawler
+	Battered Shell - 0.27%
+
+Terrorspark Cavern Crawler
+	Battered Shell - 0.27%
+
+Albino Cavern Crawler
+	Battered Shell - 0.27%
+
+Albino Cavern Crawler
+	Battered Shell - 0.33%
+
+Bursting Cavern Crawler
+	Battered Shell - 0.6%
+
+Scrapheap Rift Scourge
+	Battered Shell - 0.27%
+
+Acidbile Rift Scourge
+	Battered Shell - 0.27%
+
+Stormscale Rift Scourge
+	Battered Shell - 0.33%
+
+Bladespine Rift Scourge
+	Battered Shell - 0.33%
+
+Infested Rift Scourge
+	Battered Shell - 0.6%
+
+Eldritch Swarmer
+	Battered Shell - 0.375%
+
+Nightmare Crawler
+	Battered Shell - 0.9%
+
+Plaguehound
+	Chipped Claw - 1.5750000000000002%
+
+Plaguehound ~ Roteater
+	Chipped Claw - 2.7%
+
+Plaguehound ~ Alpha
+	Chipped Claw - 4.05%
+
+Rifthound
+	Chipped Claw - 1.125%
+
+Rifthound ~ Howler
+	Chipped Claw - 2.25%
+
+Rifthound ~ Azure Matriarch
+	Chipped Claw - 3.6%
+
+Eldritch Hound
+	Chipped Claw - 1.8%
+
+Eldritch Alpha
+	Chipped Claw - 4.05%
+
+Scavenger
+	Chipped Claw - 0.5%
+
+Frenzied Scavenger
+	Chipped Claw - 1.25%
+
+Scavenger Alpha
+	Chipped Claw - 1.7500000000000002%
+
+Skeletal Gargantuan
+	Corpse Dust - 0.395%
+	Restless Remains - 0.79%
+
+Skeletal Monstrosity
+	Corpse Dust - 0.595%
+	Restless Remains - 1.19%
+
+Skeletal Warrior
+	Corpse Dust - 0.3%
+
+Skeletal Archer
+	Corpse Dust - 0.3%
+
+Skeletal Deathbolt Archer
+	Corpse Dust - 0.345%
+
+Skeletal Knight
+	Corpse Dust - 0.345%
+
+Skeletal Priest
+	Corpse Dust - 0.345%
+
+Skeletal Warlock
+	Corpse Dust - 0.345%
+
+Flame Revenant
+	Corpse Dust - 0.32199999999999995%
+	Searing Ember - 0.25299999999999995%
+
+Frost Revenant
+	Corpse Dust - 0.32199999999999995%
+	Chilled Steel - 0.25299999999999995%
+
+Storm Revenant
+	Corpse Dust - 0.32199999999999995%
+	Cracked Lodestone - 0.25299999999999995%
+
+Briarthorn Horror
+	Serrated Spike - 0.24%
+	Vicious Spikes - 0.16%
+
+Briarthorn Terror
+	Serrated Spike - 0.48%
+	Vicious Spikes - 0.32%
+
+Briarthorn Monstrosity
+	Serrated Spike - 0.66%
+	Vicious Spikes - 0.44%
+
+Fleshwarped Troll
+	Mutagenic Ichor - 0.18%
+
+Fleshwarped Vanguard
+	Mutagenic Ichor - 0.45%
+
+Fleshwarped Deadeye
+	Mutagenic Ichor - 0.45%
+
+Fleshwarped Flameeye
+	Mutagenic Ichor - 0.45%
+
+Fleshwarped Commander
+	Mutagenic Ichor - 0.75%
+
+Hoarfrost Dreadguard
+	Mutagenic Ichor - 0.75%
+
+Venomwing Drone
+	Battered Shell - 0.03%
+
+Venomwing Stinger
+	Battered Shell - 0.1%
+
+Venomwing Queen
+	Battered Shell - 0.435%
+
+Chillmane Rager
+	Bristly Fur - 2.4%
+
+Chillmane Brute
+	Bristly Fur - 2.4%
+
+Chillmane Rager
+	Bristly Fur - 2.4%
+
+Chillmane Icesplitter
+	Bristly Fur - 2.4%
+
+Chillmane Alpha
+	Bristly Fur - 4.8%
+
+Fleshwarped Butcher
+	Mutagenic Ichor - 0.3225%
+
+Fleshwarped Thrasher
+	Mutagenic Ichor - 0.3225%
+
+Wretcher
+	Mutagenic Ichor - 0.15789473684210525%
+
+Wretcher
+	Mutagenic Ichor - 0.15789473684210525%
+
+Wretcher
+	Mutagenic Ichor - 0.15789473684210525%
+
+Cold One
+	Frozen Heart - 0.5%
+	Chilled Steel - 0.1%
+
+Burning Dead
+	Searing Ember - 0.15789473684210525%
+
+Plague Walker
+	Mutagenic Ichor - 0.16666666666666666%
+
+Rotting Emberguard
+	Searing Ember - 0.22105263157894736%
+
+The Amalgamation
+	Mutagenic Ichor - 12.375%
+
+Commander Lucius
+	Tainted Brain Matter - 15.0%
+	Dynamite - 85.0%
+	Mutagenic Ichor - 9.0%
+
+Herald of the Flame
+	Aether Cluster - 3.0%
+	Aether Shard - 7.0%
+
+Herald of Destruction
+	Aether Cluster - 3.0%
+	Aether Shard - 7.0%
+
+Herald of the Stars
+	Aether Cluster - 3.0%
+	Aether Shard - 7.0%
+
+Jarren the Plaguewarped
+	Tainted Brain Matter - 14.45%
+
+Watcher Ygraad
+	Tainted Brain Matter - 10.0%
+	Dynamite - 20.0%
+	Mutagenic Ichor - 9.0%
+
+Watcher Ordas
+	Tainted Brain Matter - 10.0%
+	Dynamite - 20.0%
+	Mutagenic Ichor - 9.0%
+
+Watcher Brandis
+	Tainted Brain Matter - 10.0%
+	Dynamite - 20.0%
+	Mutagenic Ichor - 9.0%
+
+Darius Cronley
+	Scrap - 80.0%
+	Tainted Brain Matter - 20.0%
+
+Nicholas Balthazar
+	Scrap - 90.0%
+
+Silas "The Skinner"
+	Scrap - 70.0%
+	Dynamite - 30.0%
+
+Dravko "The Torch"
+	Scrap - 70.0%
+	Dynamite - 30.0%
+
+"Madman" Wilcox
+	Scrap - 70.0%
+	Dynamite - 30.0%
+
+Sleyvak "The Breaker"
+	Scrap - 70.0%
+	Dynamite - 30.0%
+
+"Boomer" Slocum
+	Scrap - 70.0%
+	Dynamite - 30.0%
+
+Ashe "The Wall" Farrell
+	Scrap - 70.0%
+	Dynamite - 30.0%
+
+"Moneybags" Martin
+	Scrap - 70.0%
+	Dynamite - 30.0%
+
+Halion "The Rat"
+	Scrap - 70.0%
+	Dynamite - 30.0%
+
+Halion's Wittle Rat
+	Bristly Fur - 12.25%
+
+Salazar, Blade of Ch'thon
+	Shoulderguard - 99.93147555961626%
+
+Bolvar, the Bloodbinder
+	Blood of Ch'thon - 15.75%
+	Chthonic Seal of Binding - 29.25%
+
+Zaria, the Carver
+	Blood of Ch'thon - 15.75%
+	Chthonic Seal of Binding - 29.25%
+
+Thall'Nosh, the Unraveler
+	Blood of Ch'thon - 20.0%
+	Chthonic Seal of Binding - 30.0%
+
+Bloodlord Thalonis
+	Blood of Ch'thon - 20.25%
+	Chthonic Seal of Binding - 30.0%
+
+Rashalga, the Mad Queen
+	Ancient Heart - 20.02%
+	Rigid Shell - 15.0%
+	Spined Carapace - 5.0%
+
+Swarm Queen Ravna
+	Ancient Heart - 20.02%
+	Rigid Shell - 15.0%
+	Spined Carapace - 5.0%
+
+Grand Vizier Lozakal
+	Ancient Heart - 5.0%
+	Rigid Shell - 15.0%
+	Spined Carapace - 5.0%
+
+Grand Vizier Inixil
+	Ancient Heart - 5.0%
+	Rigid Shell - 15.0%
+	Spined Carapace - 5.0%
+
+Hive Guard Anoxis, the Tainted
+	Ancient Heart - 5.0%
+	Rigid Shell - 15.0%
+	Spined Carapace - 5.0%
+
+Bloodfeast the Ruthless
+	Ancient Heart - 15.0%
+	Dynamite - 75.0%
+
+Grundleplith the Hoarder
+	Bristly Fur - 2.8%
+
+Bloodsworn Priest
+	Spaulders - 39.93211540381352%
+
+Bloodsworn Doomsayer
+	Spaulders - 39.93211540381352%
+
+Bloodsworn Priest
+	Spaulders - 39.93211540381352%
+
+Bloodsworn Doomsayer
+	Spaulders - 39.93211540381352%
+
+Bane'Gargoth
+	Blood of Ch'thon - 22.0%
+
+Ikrix, the Ravener
+	Ancient Heart - 15.0%
+	Rigid Shell - 4.5%
+
+Pusquill the Hoarder
+	Bristly Fur - 2.76%
+
+Kalis Ka, the Bonehunter
+	Chipped Claw - 1.5%
+
+Ilgorr, the Eternal
+	Corpse Dust - 5.0%
+	Restless Remains - 10.0%
+
+Uroboruuk's Guardian
+	Corpse Dust - 1.5%
+	Restless Remains - 3.0%
+
+High Priest Rolderathis
+	Rolderathis - 2nd Entry - 30.0%
+	Corpse Dust - 5.4%
+	Sanctified Bone - 3.6%
+
+Robert
+	Corpse Dust - 0.345%
+
+Rockford
+	Corpse Dust - 0.345%
+
+Ryan
+	Corpse Dust - 0.345%
+
+Shade of Elnadrin
+	Corpse Dust - 9.0%
+
+Grand Priest Zarthuzellan
+	Corpse Dust - 5.4%
+	Sanctified Bone - 3.6%
+
+Death Revenant
+	Corpse Dust - 9.0%
+
+Kilrian, the Tainted Soul
+	Corpse Dust - 5.4%
+
+Gutworm, the Maneater
+	Ancient Heart - 17.5%
+
+Ol' Bloodbriar
+	Serrated Spike - 3.6%
+	Vicious Spikes - 2.4%
+
+Harrath the Slaughterer
+	Mutagenic Ichor - 4.5%
+
+Gollus, the Deepdweller
+	Ancient Heart - 15.0%
+
+Voldrak, the Destroyer
+	Ancient Heart - 15.0%
+
+Balegor, the Swamp King
+	Ancient Heart - 15.0%
+
+Ulraprax, the Hive Matriarch
+	Battered Shell - 1.2%
+
+Ronaprax, the Grand Queen
+	Battered Shell - 1.2%
+
+Fleshwarped Butcher
+	Mutagenic Ichor - 0.45%
+
+Fleshwarped Thrasher
+	Mutagenic Ichor - 0.45%
+
+Crimson Bane
+	Tainted Brain Matter - 2.5%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Bolvaris, the Glacierborn
+	Tainted Brain Matter - 2.5%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Aldanar, the Undying
+	Tainted Brain Matter - 2.5%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Rotting Emberguard
+	Molten Skin - 0.25500000000000006%
+
+Darlax, Devourer of Dreams
+	Tainted Brain Matter - 2.5%
+
+Beholdan ~ Reflective
+	Tainted Brain Matter - 2.5%
+
+Sulkarr, the Stormtouched
+	Mutagenic Ichor - 4.5%
+
+Horcris, the Terror
+	Mutagenic Ichor - 4.5%
+
+Corruptis
+	Mutagenic Ichor - 4.5%
+
+Crimson Bane
+	Tainted Brain Matter - 2.5%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Bolvaris, the Glacierborn
+	Tainted Brain Matter - 2.5%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Aldanar, the Undying
+	Tainted Brain Matter - 2.5%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Death Revenant
+	Corpse Dust - 9.0%
+
+Tenebris, the Blood Drinker
+	Corpse Dust - 9.0%
+
+Balrazar, Eternal Servant of Dreeg
+	Corpse Dust - 9.0%
+
+Harros Dred, the Damned
+	Corpse Dust - 9.0%
+
+Hellwraith ~ Burning
+	Corpse Dust - 9.0%
+
+Chillheart ~ Frozen
+	Corpse Dust - 9.0%
+
+Guardian of Bysmiel
+	Ancient Heart - 15.2%
+
+Guardian of Dreeg
+	Ancient Heart - 15.2%
+
+Guardian of Solael
+	Ancient Heart - 15.2%
+
+The Sentinel
+	Ancient Heart - 20.4%
+
+Ragrathar Rageblood
+	Ancient Heart - 15.0%
+	Bristly Fur - 6.0%
+
+Barrog, the Bloodied
+	Mutagenic Ichor - 4.7368421052631575%
+
+Barrog, the Bloodied
+	Tainted Brain Matter - 2.5%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Balros, the Malformed
+	Tainted Brain Matter - 2.5%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Hagra, the Tormented
+	Tainted Brain Matter - 2.5%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Sicrix, the Skittering
+	Ancient Heart - 2.5%
+	Rigid Shell - 4.5%
+
+Emberjaw
+	Serrated Spike - 3.6%
+	Vicious Spikes - 2.4%
+
+Harrath, the Returned
+	Mutagenic Ichor - 4.5%
+
+Ballior ~ Burning
+	Tainted Brain Matter - 5.0%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Caspis, the Blooddrinker
+	Spaulders - 14.677103718199609%
+
+The Locust
+	Ancient Heart - 2.5%
+	Rigid Shell - 4.5%
+	Spined Carapace - 1.5%
+
+Vizier Haxin
+	Ancient Heart - 2.5%
+	Rigid Shell - 4.5%
+	Spined Carapace - 1.5%
+
+Thullon, Chosen of Ch'thon
+	Spaulders - 14.677103718199609%
+
+Narroth, the Behemoth
+	Mutagenic Ichor - 4.5%
+
+Death Revenant
+	Corpse Dust - 3.9%
+	Cracked Lodestone - 4.5%
+	Amber - 2.1%
+
+Mortallis
+	Corpse Dust - 4.5%
+
+Grum
+	Corpse Dust - 1.5%
+	Restless Remains - 3.0%
+
+Direcrix
+	Ancient Heart - 2.5%
+	Battered Shell - 4.5%
+
+Malocrix ~ Voidtouched
+	Ancient Heart - 2.5%
+	Battered Shell - 4.5%
+
+Idricrix ~ Electrified
+	Ancient Heart - 2.5%
+	Battered Shell - 4.5%
+
+Grubwrath ~ Diseased
+	Corpse Dust - 1.5%
+	Restless Remains - 3.0%
+
+Icesharn ~ Frozen
+	Corpse Dust - 1.5%
+	Restless Remains - 3.0%
+
+Flamegore ~ Burning
+	Corpse Dust - 1.5%
+	Restless Remains - 3.0%
+
+Aethergore ~ Corrupted
+	Corpse Dust - 1.5%
+	Restless Remains - 3.0%
+
+Voidreach ~ Voidtouched
+	Corpse Dust - 1.5%
+	Restless Remains - 3.0%
+
+Elledar Bloodthirster
+	Corpse Dust - 5.714285714285714%
+
+Priest Dagoll
+	Corpse Dust - 4.5%
+
+Damnoth
+	Corpse Dust - 4.5%
+
+Everon ~ Burning
+	Corpse Dust - 4.5%
+
+Vengar the Vengeful ~ Reflective
+	Corpse Dust - 4.5%
+
+Rimelord ~ Frozen
+	Corpse Dust - 4.5%
+
+Tenethon
+	Corpse Dust - 2.7%
+
+Alladon the Flamewatcher
+	Corpse Dust - 1.8%
+	Sanctified Bone - 3.6%
+
+Elagorian Darkmarrow
+	Corpse Dust - 3.9%
+	Cracked Lodestone - 4.5%
+	Amber - 2.1%
+
+Ollegon the Icewatcher
+	Corpse Dust - 1.8%
+	Sanctified Bone - 3.6%
+
+Bloodwretch ~ Swift
+	Tainted Brain Matter - 2.5%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Icerot
+	Tainted Brain Matter - 2.5%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Vampireon
+	Tainted Brain Matter - 2.5%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Swiftrot ~ Swift
+	Tainted Brain Matter - 2.5%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Skeletal Warrior
+	Corpse Dust - 0.15%
+
+Skeletal Archer
+	Corpse Dust - 0.15%
+
+Skeletal Deathbolt Archer
+	Corpse Dust - 0.1725%
+
+Skeletal Knight
+	Corpse Dust - 0.1725%
+
+Skeletal Priest
+	Corpse Dust - 0.1725%
+
+Skeletal Warlock
+	Corpse Dust - 0.1725%
+
+Flame Revenant
+	Corpse Dust - 0.1725%
+
+Frost Revenant
+	Corpse Dust - 0.1725%
+
+Storm Revenant
+	Corpse Dust - 0.1725%
+
+Aetheros
+	Serrated Spike - 3.6%
+	Vicious Spikes - 2.4%
+
+Mutallor ~ Regenerator
+	Bristly Fur - 12.0%
+
+Stonemane ~ Defender
+	Bristly Fur - 12.0%
+
+Dreadtusk, the Hunter's Bane
+	Bristly Fur - 12.0%
+
+Ragesnout ~ Swift
+	Bristly Fur - 12.0%
+
+Hellmane ~ Burning
+	Bristly Fur - 12.0%
+
+Rotmane ~ Diseased
+	Bristly Fur - 12.0%
+
+Aetherean ~ Corrupted
+	Bristly Fur - 12.0%
+
+Riftsnout ~ Voidtouched
+	Bristly Fur - 12.0%
+
+Maledictus
+	Bristly Fur - 10.5%
+
+Razorback
+	Bristly Fur - 10.0%
+
+Bilewart ~ Swift
+	Bristly Fur - 10.5%
+
+Rimeclaw ~ Frozen
+	Bristly Fur - 10.5%
+
+Wrathclaw ~ Corrupted
+	Bristly Fur - 10.5%
+
+Rotbite ~ Diseased
+	Bristly Fur - 10.5%
+
+Harpallax, the Suneater
+	Ancient Heart - 2.5%
+	Rigid Shell - 4.5%
+	Spined Carapace - 1.5%
+
+Corrosinax
+	Ancient Heart - 2.5%
+	Rigid Shell - 4.5%
+	Spined Carapace - 1.5%
+
+Wasparex ~ Swift
+	Ancient Heart - 2.5%
+	Rigid Shell - 4.5%
+	Spined Carapace - 1.5%
+
+Olmarix ~ Electrified
+	Ancient Heart - 2.5%
+	Rigid Shell - 4.5%
+	Spined Carapace - 1.5%
+
+Vildrix ~ Voidtouched
+	Ancient Heart - 2.5%
+	Rigid Shell - 4.5%
+	Spined Carapace - 1.5%
+
+Mesmer
+	Tainted Brain Matter - 2.5%
+
+Bane'Zal, the Hellborn
+	Tainted Brain Matter - 2.5%
+
+Darlax, Devourer of Dreams
+	Tainted Brain Matter - 2.5%
+
+Beholdan ~ Reflective
+	Tainted Brain Matter - 2.5%
+
+Garminix ~ Regenerator
+	Tainted Brain Matter - 2.5%
+
+Illumin ~ Electrified
+	Tainted Brain Matter - 2.5%
+
+Julius Crowley, the Mindbender
+	Blood of Ch'thon - 2.5%
+
+Lucius Bloodboil
+	Blood of Ch'thon - 2.5%
+
+Nathalian, the Houndcaller
+	Blood of Ch'thon - 2.5%
+
+Ignacius ~ Burning
+	Blood of Ch'thon - 2.5%
+
+Balvadar the Bloodthirsty ~ Regenerator
+	Blood of Ch'thon - 2.5%
+
+Everett, the Bloodbound ~ Burning
+	Blood of Ch'thon - 2.5%
+
+Vladox, the Bloodletter
+	Roiling Blood - 4.5%
+
+Sarlap ~ Electrified
+	Roiling Blood - 4.5%
+
+Jornax, the Voracious ~ Swift
+	Roiling Blood - 4.5%
+
+Narlax ~ Corrupted
+	Roiling Blood - 4.5%
+
+Oorlax ~ Voidtouched
+	Roiling Blood - 4.5%
+
+Obsidius, the Titan
+	Blood of Ch'thon - 4.5%
+
+Ch'thallis, the Usurper
+	Blood of Ch'thon - 4.5%
+
+Kelphat'Idoth ~ Electrified
+	Blood of Ch'thon - 4.5%
+
+Orudin'Idoth ~ Frozen
+	Blood of Ch'thon - 4.5%
+
+Drygol'Ukog ~ Charger
+	Blood of Ch'thon - 4.5%
+
+Terrocrix
+	Ancient Heart - 2.5%
+	Battered Shell - 4.5%
+
+Chiricrix ~ Frozen
+	Ancient Heart - 2.5%
+	Battered Shell - 4.5%
+
+Blucrix ~ Defender
+	Ancient Heart - 2.5%
+	Battered Shell - 4.5%
+
+Ravacrix, the Ravenous
+	Ancient Heart - 2.5%
+	Battered Shell - 4.5%
+
+Palacrix, the Ancient
+	Ancient Heart - 2.5%
+	Battered Shell - 4.5%
+
+Velacrix, the Plagueswarm
+	Ancient Heart - 2.5%
+	Battered Shell - 4.5%
+
+Elcrix ~ Electrified
+	Ancient Heart - 2.5%
+	Battered Shell - 4.5%
+
+Flocrix ~ Burning
+	Ancient Heart - 2.5%
+	Battered Shell - 4.5%
+
+Charrus
+	Chipped Claw - 9.0%
+
+Plaguelord
+	Chipped Claw - 9.0%
+
+Voidrage
+	Chipped Claw - 9.0%
+
+Wolvin, the Inferno
+	Chipped Claw - 9.0%
+
+Jarlax, Rage of the Swamp ~ Charger
+	Chipped Claw - 9.0%
+
+Garn, the Packhunter ~ Defender
+	Chipped Claw - 9.0%
+
+Scarsnout, the Cannibal
+	Chipped Claw - 7.5%
+
+Bloodclaw
+	Chipped Claw - 7.5%
+
+Whitemane, the Thunderstruck
+	Chipped Claw - 7.5%
+
+Ernol Carrioneater ~ Diseased
+	Chipped Claw - 7.5%
+
+Crimsontail ~ Supporter
+	Chipped Claw - 7.5%
+
+Rav ~ Voidtouched
+	Chipped Claw - 7.5%
+
+Grulgor, the Tormented ~ Diseased
+	Corpse Dust - 1.5%
+	Restless Remains - 3.0%
+
+Falgarr, the Ice Watcher ~ Frozen
+	Corpse Dust - 1.5%
+	Restless Remains - 3.0%
+
+Bralgarr, the Flame Watcher ~ Burning
+	Corpse Dust - 1.5%
+	Restless Remains - 3.0%
+
+Wralgarr, the Aethertouched ~ Corrupted
+	Corpse Dust - 1.5%
+	Restless Remains - 3.0%
+
+Olagarr, the Chaosbringer ~ Voidtouched
+	Corpse Dust - 1.5%
+	Restless Remains - 3.0%
+
+Tenebris, the Blood Drinker
+	Corpse Dust - 8.571428571428571%
+
+Balrazar, Eternal Servant of Dreeg
+	Corpse Dust - 9.0%
+
+Harros Dred, the Damned
+	Corpse Dust - 9.0%
+
+Hellwraith ~ Burning
+	Corpse Dust - 9.0%
+
+Allos Sadarin ~ Reflective
+	Corpse Dust - 9.0%
+
+Chillheart ~ Frozen
+	Corpse Dust - 9.0%
+
+Terrolean, the Pandemonium
+	Serrated Spike - 3.6%
+	Vicious Spikes - 2.4%
+
+Korplax, the Overgrown
+	Serrated Spike - 3.6%
+	Vicious Spikes - 2.4%
+
+Blackthorn ~ Reflective
+	Serrated Spike - 3.6%
+	Vicious Spikes - 2.4%
+
+Rotthorn ~ Diseased
+	Serrated Spike - 3.6%
+	Vicious Spikes - 2.4%
+
+Everbark ~ Regenerator
+	Serrated Spike - 3.6%
+	Vicious Spikes - 2.4%
+
+Rimebark ~ Frozen
+	Serrated Spike - 3.6%
+	Vicious Spikes - 2.4%
+
+Sulkarr, the Stormtouched
+	Mutagenic Ichor - 4.5%
+
+Horcris, the Terror
+	Mutagenic Ichor - 4.5%
+
+Corruptis
+	Mutagenic Ichor - 4.5%
+
+Caladrak ~ Unstoppable
+	Mutagenic Ichor - 4.5%
+
+Faldrak ~ Reflective
+	Mutagenic Ichor - 4.5%
+
+Scarprax, the Frenzied
+	Battered Shell - 4.5%
+
+Caraprax ~ Defender
+	Battered Shell - 4.5%
+
+Harprax, the Queen's Will ~ Supporter
+	Battered Shell - 4.5%
+
+Ralkara ~ Regenerator
+	Battered Shell - 4.5%
+
+Folcrax ~ Frozen
+	Battered Shell - 4.5%
+
+Walacrax ~ Corrupted
+	Battered Shell - 4.5%
+
+Ooldacrax ~ Voidtouched
+	Battered Shell - 4.5%
+
+Bonechill
+	Ancient Heart - 2.5%
+	Bristly Fur - 6.0%
+
+Icesnap
+	Ancient Heart - 2.5%
+	Bristly Fur - 6.0%
+
+Chillblood ~ Regenerator
+	Ancient Heart - 2.5%
+	Bristly Fur - 6.0%
+
+Mallus ~ Corrupted
+	Ancient Heart - 2.5%
+	Bristly Fur - 6.0%
+
+Crimson Bane
+	Tainted Brain Matter - 2.5%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Gilisten, the Reborn
+	Tainted Brain Matter - 2.5%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Bolvaris, the Glacierborn
+	Tainted Brain Matter - 2.5%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Aldanar, the Undying
+	Tainted Brain Matter - 2.5%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Blightfeast ~ Charger
+	Tainted Brain Matter - 2.5%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Valdaran, the Storm Scourge
+	Tainted Brain Matter - 35.75000000000001%
+
+Obligious Foul
+	Tainted Brain Matter - 35.75000000000001%
+
+The Pariah
+	Tainted Brain Matter - 35.75000000000001%
+	Mutagenic Ichor - 6.923076923076923%
+
+Jac'Aran, the Eternal Stone
+	Blood of Ch'thon - 35.75000000000001%
+
+Benn'Jahr, the Colossal
+	Blood of Ch'thon - 35.75000000000001%
+
+Balgoth'Zul, the Endless Hunger
+	Blood of Ch'thon - 35.75000000000001%
+
+Lord Infernus
+	Scrap - 80.0%
+
+The Iron Maiden
+	Scrap - 80.0%
+
+Zantarin, the Immortal
+	Scrap - 80.0%
+
+Cabala Rotweaver
+	Scrap - 80.0%
+
+Fabius "the Unseen" Gonzar
+	Scrap - 80.0%
+
+Thallion Vos
+	Scrap - 80.0%
+
+Dead-Eye
+	Scrap - 80.0%
+
+Allminoxius, the Artificer
+	Corpse Dust - 3.0%
+	Sanctified Bone - 6.0%
+
+Toxemus
+	Corpse Dust - 4.5%
+

@@ -1,0 +1,2109 @@
+Aetherthorn Horror
+	Vitriolic Gallstone - 0.435%
+	Serrated Spike - 0.29%
+
+Aetherial Abomination
+	Mutagenic Ichor - 3.6%
+
+Aetherial Obelisk
+	Aether Cluster - 0.75%
+	Aether Shard - 1.75%
+
+Aetherial Obelisk
+	Aether Cluster - 0.75%
+	Aether Shard - 1.75%
+
+Aetherial Terraformer
+	Aether Cluster - 1.2%
+	Aether Shard - 2.8%
+
+Aetherial Terraformer
+	Aether Cluster - 1.2%
+	Aether Shard - 2.8%
+
+Chilltusk
+	Bristly Fur - 1.6%
+
+Gargantuan Chilltusk
+	Bristly Fur - 1.6%
+
+Frosthide Chilltusk
+	Bristly Fur - 4.0%
+
+Stonetusk
+	Bristly Fur - 1.6%
+
+Gargantuan Stonetusk
+	Bristly Fur - 1.6%
+
+Stonetusk
+	Bristly Fur - 1.6%
+
+Gargantuan Stonetusk
+	Bristly Fur - 1.6%
+
+Ironhide Stonetusk
+	Bristly Fur - 4.0%
+
+Boneback Gnasher
+	Bristly Fur - 1.04%
+
+Rabid Boneback
+	Bristly Fur - 1.4400000000000004%
+
+Boneback Plaguebearer
+	Bristly Fur - 1.4400000000000004%
+
+Boneback
+	Bristly Fur - 1.04%
+
+Frenzied Plaguebeast
+	Bristly Fur - 1.2%
+
+Rotting Plaguebeast
+	Bristly Fur - 2.0%
+
+Chthonian Vanguard
+	Obsidian War Cleaver - 3.570816431468891%
+	Obsidian Headsplitter - 96.41204364966006%
+
+Chthonian Dreadguard
+	Obsidian War Cleaver - 3.5702045013138353%
+	Obsidian Headsplitter - 96.39552153547355%
+
+Chthonian Tyrant
+	Obsidian War Cleaver - 3.56959278085556%
+	Obsidian Headsplitter - 96.37900508310013%
+
+Chthonian Tyrant
+	Obsidian War Cleaver - 3.56959278085556%
+	Obsidian Headsplitter - 96.37900508310013%
+
+Dermapteran Weavil
+	Rigid Shell - 0.18%
+	Spined Carapace - 0.06%
+
+Dermapteran Sentinel
+	Rigid Shell - 0.525%
+	Spined Carapace - 0.17500000000000004%
+	Dermapteran Claw - 11.4%
+	Dermapteran Slicer - 0.6%
+
+Dermapteran Reaver
+	Rigid Shell - 0.525%
+	Spined Carapace - 0.17500000000000004%
+	Dermapteran Claw - 11.4%
+	Dermapteran Slicer - 0.6%
+
+Dermapteran Vizier
+	Rigid Shell - 0.525%
+	Spined Carapace - 0.17500000000000004%
+	Dermapteran Claw - 23.75%
+	Dermapteran Slicer - 1.25%
+
+Dermapteran Progenitor
+	Rigid Shell - 0.525%
+	Spined Carapace - 0.17500000000000004%
+	Dermapteran Claw - 23.75%
+	Dermapteran Slicer - 1.25%
+
+Overseer
+	Gazer Eye - 28.928571428571427%
+	Overseer Eye - 1.0714285714285714%
+
+Overmind
+	Gazer Eye - 38.57142857142857%
+	Overseer Eye - 1.4285714285714286%
+
+Mindrager
+	Gazer Eye - 38.57142857142857%
+	Overseer Eye - 1.4285714285714286%
+
+Haunted Noble
+	Spectral Crossbow - 98.5%
+	Spectral Arbalest - 1.5%
+
+Haunted Noble
+	Spectral Crossbow - 99.3%
+	Spectral Arbalest - 0.7%
+
+Haunted Champion
+	Spectral War Axe - 98.5%
+	Spectral Warmaul - 1.5%
+
+Haunted Champion
+	Spectral War Axe - 99.3%
+	Spectral Warmaul - 0.7%
+
+Bloodsworn Zealot
+	Bloodsworn Scepter - 1.4278574998215179%
+	Bloodsworn Wand - 98.52216748768473%
+
+Bloodsworn Zealot
+	Bloodsworn Scepter - 1.4278574998215179%
+	Bloodsworn Wand - 98.52216748768473%
+	A Strange Key - 6.0%
+
+Bloodsworn Summoner
+	Bloodsworn Pistol - 98.5%
+	Bloodsworn Repeater - 1.5%
+	Avalline's Note - Page 3 - 0.56%
+	Chthonic Seal of Binding - 4.760000000000001%
+	Avalline's Note - Page 1 - 0.56%
+	The Call of Blood - 0.56%
+	Avalline's Note - Page 2 - 0.56%
+
+Bloodsworn Void-Caller
+	Bloodsworn Pistol - 98.5%
+	Bloodsworn Repeater - 1.5%
+	Avalline's Note - Page 3 - 0.56%
+	Chthonic Seal of Binding - 4.760000000000001%
+	Avalline's Note - Page 1 - 0.56%
+	The Call of Blood - 0.56%
+	Avalline's Note - Page 2 - 0.56%
+
+Bloodsworn Priest
+	Bloodsworn Scepter - 1.427592507994518%
+	Bloodsworn Wand - 98.50388305162174%
+
+Bloodsworn Priest
+	Bloodsworn Scepter - 1.427592507994518%
+	Bloodsworn Wand - 98.50388305162174%
+	A Strange Key - 16.5%
+
+Bloodsworn Doomsayer
+	Bloodsworn Wand - 98.5%
+	Bloodsworn Scepter - 1.5%
+	Bloodsworn Vestments - 3.211762186853187%
+	Bloodsworn Robes - 46.74898294197416%
+	Avalline's Note - Page 3 - 2.08%
+	Chthonic Seal of Binding - 8.0%
+	Avalline's Note - Page 1 - 2.08%
+	The Call of Blood - 1.92%
+	Avalline's Note - Page 2 - 1.92%
+
+Bloodsworn Zealot
+	Bloodsworn Scepter - 1.4278574998215179%
+	Bloodsworn Wand - 98.52216748768473%
+
+Bloodsworn Zealot
+	Bloodsworn Scepter - 1.4278574998215179%
+	Bloodsworn Wand - 98.52216748768473%
+	A Strange Key - 6.0%
+
+Bloodsworn Summoner
+	Bloodsworn Pistol - 98.5%
+	Bloodsworn Repeater - 1.5%
+	Avalline's Note - Page 3 - 0.56%
+	Chthonic Seal of Binding - 4.760000000000001%
+	Avalline's Note - Page 1 - 0.56%
+	The Call of Blood - 0.56%
+	Avalline's Note - Page 2 - 0.56%
+
+Bloodsworn Void-Caller
+	Bloodsworn Pistol - 98.5%
+	Bloodsworn Repeater - 1.5%
+	Avalline's Note - Page 3 - 0.56%
+	Chthonic Seal of Binding - 4.760000000000001%
+	Avalline's Note - Page 1 - 0.56%
+	The Call of Blood - 0.56%
+	Avalline's Note - Page 2 - 0.56%
+
+Bloodsworn Priest
+	Bloodsworn Scepter - 1.427592507994518%
+	Bloodsworn Wand - 98.50388305162174%
+
+Bloodsworn Priest
+	Bloodsworn Scepter - 1.427592507994518%
+	Bloodsworn Wand - 98.50388305162174%
+	A Strange Key - 16.5%
+
+Bloodsworn Doomsayer
+	Bloodsworn Wand - 98.5%
+	Bloodsworn Scepter - 1.5%
+	Bloodsworn Vestments - 3.211762186853187%
+	Bloodsworn Robes - 46.74898294197416%
+	Avalline's Note - Page 3 - 2.08%
+	Chthonic Seal of Binding - 8.0%
+	Avalline's Note - Page 1 - 2.08%
+	The Call of Blood - 1.92%
+	Avalline's Note - Page 2 - 1.92%
+
+Cronley's Gang ~ Chosen
+	"The Bruiser" Romanov's Note - 0.15%
+	Bloodstained Note - 0.15%
+
+Cronley's Gang ~ Chosen
+	"The Bruiser" Romanov's Note - 0.25%
+	Bloodstained Note - 0.25%
+
+Cronley's Gang ~ Destined
+	Murderer's Coif - 0.95%
+	Murderer's Cowl - 0.05%
+	"The Bruiser" Romanov's Note - 0.5%
+	Bloodstained Note - 0.5%
+
+Cronley's Gang ~ Champion
+	Murderer's Coif - 0.95%
+	Murderer's Cowl - 0.05%
+	"The Bruiser" Romanov's Note - 0.625%
+	Bloodstained Note - 0.625%
+
+Cronley's Gang ~ Ascended
+	Ascended Shoulderplates - 3.5686246520590963%
+	Ascended Spaulders - 46.392120476768255%
+	Ascended Helm - 18.0%
+	Ascended Casque - 2.0%
+	Scrap - 0.2%
+	Dynamite - 1.8%
+
+Cronley's Gang ~ Arsonist
+	Incendiary Shoulderplates - 3.5686246520590963%
+	Incendiary Spaulders - 46.392120476768255%
+	Incendiary Helm - 18.0%
+	Incendiary Casque - 2.0%
+	Scrap - 0.2%
+	Dynamite - 1.8%
+
+Cronley's Gang ~ Arsonist
+	Incendiary Shoulderplates - 3.5686246520590963%
+	Incendiary Spaulders - 46.392120476768255%
+	Incendiary Helm - 18.0%
+	Incendiary Casque - 2.0%
+	Scrap - 0.15%
+	Dynamite - 1.35%
+
+Cronley's Gang ~ Murderer
+	Murderer's Epaulets - 10.277638997930199%
+	Murderer's Spaulders - 49.67525515666262%
+	Murderer's Breastplate - 2.839094328909078%
+	Murderer's Armor - 22.002981049045353%
+	Murderer's Coif - 23.0%
+	Murderer's Cowl - 2.0%
+
+Cronley's Gang ~ Murderer
+	Murderer's Epaulets - 10.277638997930199%
+	Murderer's Spaulders - 49.67525515666262%
+	Murderer's Breastplate - 2.839094328909078%
+	Murderer's Armor - 22.002981049045353%
+	Murderer's Coif - 23.0%
+	Murderer's Cowl - 2.0%
+
+Rover
+	Clothing - 33.0%
+	Clothing - 33.0%
+	Clothing - 34.0%
+
+Possessed Elementalist
+	Haunted Shoulderpad - 2.5694097494825496%
+	Haunted Mantle - 27.40703732781386%
+	Haunted Vestment - 2.4842075377954433%
+	Haunted Robes - 22.35786784015899%
+
+Possessed Archmage
+	Ascended Epaulets - 4.282349582470916%
+	Ascended Mantle - 45.678395546356434%
+	Ascended Vestment - 4.968415075590887%
+	Ascended Robes - 44.71573568031798%
+	Ascended Circlet - 13.70351866390693%
+	Ascended Diadem - 1.2847048747412748%
+
+Festerborn Bloodgorger
+	Roiling Blood - 0.20400000000000001%
+
+Festerborn Bloodfiend
+	Roiling Blood - 0.285%
+
+Festerborn Matriarch
+	Roiling Blood - 0.45%
+
+Mireborn Bloodgorger
+	Roiling Blood - 0.20400000000000001%
+
+Mireborn Bloodfiend
+	Roiling Blood - 0.285%
+
+Mireborn Bloodgorger
+	Roiling Blood - 0.45%
+
+Obsidian Shaleborn
+	Obsidian Guard - 11.4%
+	Obsidian Bulwark - 0.6%
+
+Obsidian Defiler
+	Obsidian Guard - 19.0%
+	Obsidian Bulwark - 1.0%
+
+Obsidian Ravager
+	Obsidian Guard - 23.75%
+	Obsidian Bulwark - 1.25%
+
+Pale Cavern Crawler
+	Battered Shell - 0.27%
+
+Terrorspark Cavern Crawler
+	Battered Shell - 0.27%
+
+Albino Cavern Crawler
+	Battered Shell - 0.27%
+	Rift Scourge Claw - 14.25%
+	Rift Scourge Slicer - 0.75%
+
+Albino Cavern Crawler
+	Battered Shell - 0.33%
+
+Bursting Cavern Crawler
+	Battered Shell - 0.6%
+	Rift Scourge Claw - 28.5%
+	Rift Scourge Slicer - 1.5%
+
+Scrapheap Rift Scourge
+	Battered Shell - 0.27%
+
+Acidbile Rift Scourge
+	Battered Shell - 0.27%
+
+Stormscale Rift Scourge
+	Battered Shell - 0.33%
+	Rift Scourge Claw - 11.4%
+	Rift Scourge Slicer - 0.6%
+
+Bladespine Rift Scourge
+	Battered Shell - 0.33%
+	Rift Scourge Claw - 11.4%
+	Rift Scourge Slicer - 0.6%
+
+Infested Rift Scourge
+	Battered Shell - 0.6%
+	Rift Scourge Claw - 23.75%
+	Rift Scourge Slicer - 1.25%
+
+Eldritch Swarmer
+	Battered Shell - 0.375%
+
+Nightmare Crawler
+	Battered Shell - 0.9%
+
+Plaguehound
+	Chipped Claw - 1.5750000000000002%
+
+Plaguehound ~ Roteater
+	Chipped Claw - 2.7%
+
+Plaguehound ~ Alpha
+	Chipped Claw - 4.05%
+
+Rifthound
+	Chipped Claw - 1.125%
+
+Rifthound ~ Howler
+	Chipped Claw - 2.25%
+
+Rifthound ~ Azure Matriarch
+	Chipped Claw - 3.6%
+
+Eldritch Hound
+	Chipped Claw - 1.8%
+
+Eldritch Alpha
+	Chipped Claw - 4.05%
+
+Scavenger
+	Chipped Claw - 0.5%
+
+Frenzied Scavenger
+	Chipped Claw - 1.25%
+
+Scavenger Alpha
+	Chipped Claw - 1.7500000000000002%
+
+Skeletal Gargantuan
+	Corpse Dust - 0.395%
+	Restless Remains - 0.79%
+
+Skeletal Monstrosity
+	Corpse Dust - 0.595%
+	Restless Remains - 1.19%
+
+Skeletal Warrior
+	Corpse Dust - 0.3%
+
+Skeletal Archer
+	Corpse Dust - 0.3%
+
+Skeletal Deathbolt Archer
+	Corpse Dust - 0.345%
+
+Skeletal Knight
+	Corpse Dust - 0.345%
+
+Skeletal Priest
+	Corpse Dust - 0.345%
+
+Skeletal Warlock
+	Corpse Dust - 0.345%
+
+Flame Revenant
+	Corpse Dust - 0.32199999999999995%
+	Searing Ember - 0.25299999999999995%
+
+Frost Revenant
+	Corpse Dust - 0.32199999999999995%
+	Chilled Steel - 0.25299999999999995%
+
+Storm Revenant
+	Corpse Dust - 0.32199999999999995%
+	Cracked Lodestone - 0.25299999999999995%
+
+Briarthorn Horror
+	Serrated Spike - 0.24%
+	Vicious Spikes - 0.16%
+
+Briarthorn Terror
+	Serrated Spike - 0.48%
+	Vicious Spikes - 0.32%
+
+Briarthorn Monstrosity
+	Serrated Spike - 0.66%
+	Vicious Spikes - 0.44%
+
+Fleshwarped Troll
+	Mutagenic Ichor - 0.18%
+
+Fleshwarped Vanguard
+	Fleshwarped Spaulders - 19.7%
+	Fleshwarped Pauldrons - 0.3%
+	Fleshwarped Cuirass - 19.7%
+	Fleshwarped Platemail - 0.3%
+	Mutagenic Ichor - 0.45%
+	Fleshwarped Helm - 9.85%
+	Fleshwarped Casque - 0.15%
+
+Fleshwarped Deadeye
+	Fleshwarped Rifle - 93.59737645850048%
+	Fleshwarped Carbine - 6.333657053582739%
+	Mutagenic Ichor - 0.45%
+
+Fleshwarped Flameeye
+	Fleshwarped Conflagrator - 93.59737645850048%
+	Fleshwarped Incinerator - 6.333657053582739%
+	Mutagenic Ichor - 0.45%
+
+Fleshwarped Commander
+	Fleshwarped Spaulders - 47.5%
+	Fleshwarped Pauldrons - 2.5%
+	Fleshwarped Cuirass - 38.0%
+	Fleshwarped Platemail - 2.0%
+	Mutagenic Ichor - 0.75%
+	Fleshwarped Helm - 28.5%
+	Fleshwarped Casque - 1.5%
+
+Hoarfrost Dreadguard
+	Fleshwarped Spaulders - 95.0%
+	Fleshwarped Pauldrons - 5.0%
+	Fleshwarped Cuirass - 95.0%
+	Fleshwarped Platemail - 5.0%
+	Mutagenic Ichor - 0.75%
+	Fleshwarped Helm - 95.0%
+	Fleshwarped Casque - 5.0%
+
+Trog Blood Drinker
+	Boneblade - 0.2%
+	Bonecleaver - 49.8%
+	Bonecarver - 49.8%
+	Bonescythe - 0.2%
+
+Trog Flesh Ripper
+	Boneblade - 0.35%
+	Bonecleaver - 49.65%
+	Bonecarver - 49.65%
+	Bonescythe - 0.35%
+
+Trog Blood Mage
+	Boneshiv - 99.3%
+	Bonespike - 0.7%
+
+Stonewart Troll
+	Troll Bonesmasher - 96.0%
+	Troll Bonecrusher - 4.0%
+
+Stonewart Rager
+	Troll Bonesmasher - 94.0%
+	Troll Bonecrusher - 6.0%
+
+Stonewart Behemoth
+	Troll Bonesmasher - 92.0%
+	Troll Bonecrusher - 8.0%
+
+Underdweller Troll
+	Troll Bonesmasher - 94.0%
+	Troll Bonecrusher - 6.0%
+
+Underdweller Behemoth
+	Troll Bonesmasher - 92.0%
+	Troll Bonecrusher - 8.0%
+
+Plaguewart Troll
+	Troll Bonesmasher - 96.0%
+	Troll Bonecrusher - 4.0%
+
+Plaguewart Rager
+	Troll Bonesmasher - 94.0%
+	Troll Bonecrusher - 6.0%
+
+Plaguewart Behemoth
+	Troll Bonesmasher - 92.0%
+	Troll Bonecrusher - 8.0%
+
+Venomwing Drone
+	Battered Shell - 0.03%
+
+Venomwing Stinger
+	Battered Shell - 0.1%
+
+Venomwing Queen
+	Battered Shell - 0.435%
+
+Chillmane Rager
+	Bristly Fur - 2.4%
+	Chipped Yeti Horn - 19.4%
+	Yeti Horn - 0.6%
+
+Chillmane Brute
+	Bristly Fur - 2.4%
+
+Chillmane Rager
+	Bristly Fur - 2.4%
+	Chipped Yeti Horn - 23.04%
+	Yeti Horn - 0.96%
+
+Chillmane Icesplitter
+	Bristly Fur - 2.4%
+	Chipped Yeti Horn - 23.04%
+	Yeti Horn - 0.96%
+
+Chillmane Alpha
+	Bristly Fur - 4.8%
+	Chipped Yeti Horn - 32.9%
+	Yeti Horn - 2.1%
+
+Fleshwarped Butcher
+	Mutagenic Ichor - 0.3225%
+	Mutant Arm - 17.1%
+	Mutant Bludgeon - 0.9%
+
+Fleshwarped Thrasher
+	Mutagenic Ichor - 0.3225%
+	Mutant Arm - 17.1%
+	Mutant Bludgeon - 0.9%
+
+Wretcher
+	Mutagenic Ichor - 0.15789473684210525%
+
+Wretcher
+	Mutagenic Ichor - 0.15789473684210525%
+
+Wretcher
+	Mutagenic Ichor - 0.15789473684210525%
+
+Cold One
+	Frozen Heart - 0.5%
+	Chilled Steel - 0.1%
+
+Burning Dead
+	Searing Ember - 0.15789473684210525%
+
+Plague Walker
+	Mutagenic Ichor - 0.16666666666666666%
+
+Rotting Emberguard
+	Searing Ember - 0.22105263157894736%
+
+The Amalgamation
+	Pulsing Shard - 24.75%
+	Mutagenic Ichor - 12.375%
+
+Commander Lucius
+	Tainted Brain Matter - 15.0%
+	Dynamite - 85.0%
+	Mutagenic Ichor - 9.0%
+
+Herald of the Flame
+	Aether Cluster - 3.0%
+	Aether Shard - 7.0%
+
+Herald of Destruction
+	Aether Cluster - 3.0%
+	Aether Shard - 7.0%
+
+Herald of the Stars
+	Aether Cluster - 3.0%
+	Aether Shard - 7.0%
+
+Jarren the Plaguewarped
+	Tainted Brain Matter - 14.45%
+	Aetherwarped Cleaver - 70.55%
+
+Watcher Ygraad
+	Tainted Brain Matter - 10.0%
+	Dynamite - 20.0%
+	Chains of Ygraad - 70.0%
+	Mutagenic Ichor - 9.0%
+
+Watcher Ordas
+	Tainted Brain Matter - 10.0%
+	Dynamite - 20.0%
+	Chains of Ordas - 70.0%
+	Mutagenic Ichor - 9.0%
+
+Watcher Brandis
+	Tainted Brain Matter - 10.0%
+	Dynamite - 20.0%
+	Chains of Brandis - 70.0%
+	Mutagenic Ichor - 9.0%
+
+Darius Cronley
+	Scrap - 80.0%
+	Tainted Brain Matter - 20.0%
+	Cronley's Signet - 42.82777523983554%
+
+Nicholas Balthazar
+	Scrap - 90.0%
+
+Silas "The Skinner"
+	Scrap - 70.0%
+	Dynamite - 30.0%
+
+Dravko "The Torch"
+	Scrap - 70.0%
+	Dynamite - 30.0%
+
+"Madman" Wilcox
+	Scrap - 70.0%
+	Dynamite - 30.0%
+
+Sleyvak "The Breaker"
+	Scrap - 70.0%
+	Dynamite - 30.0%
+
+"Boomer" Slocum
+	Scrap - 70.0%
+	Dynamite - 30.0%
+
+Ashe "The Wall" Farrell
+	Scrap - 70.0%
+	Dynamite - 30.0%
+
+"Moneybags" Martin
+	Scrap - 70.0%
+	Dynamite - 30.0%
+
+Halion "The Rat"
+	Scrap - 70.0%
+	Dynamite - 30.0%
+
+Halion's Wittle Rat
+	Bristly Fur - 12.25%
+
+Boris, Master of the Pit
+	Pit Master's Axe - 24.727992087042534%
+
+Harak'Bargoth, Guardian of the Bastion
+	Obsidian War Cleaver - 4.945598417408506%
+	Obsidian Headsplitter - 93.96636993076162%
+
+Shar'Zul, Harbinger of Chaos
+	Obsidian Headsplitter - 90.0%
+
+Salazar, Blade of Ch'thon
+	Salazar's Sovereign Blade - 22.608449908153172%
+	Shoulderguard - 99.93147555961626%
+
+Bolvar, the Bloodbinder
+	Blood of Ch'thon - 15.75%
+	Chthonic Seal of Binding - 29.25%
+	Bloodsworn Repeater - 24.727992087042534%
+	Bloodsworn Pistol - 74.1839762611276%
+	Bloodsworn Vestments - 4.945598417408506%
+	Bloodsworn Robes - 93.96636993076162%
+
+Zaria, the Carver
+	Blood of Ch'thon - 15.75%
+	Chthonic Seal of Binding - 29.25%
+	Bloodsworn Repeater - 24.727992087042534%
+	Bloodsworn Pistol - 74.1839762611276%
+	Bloodsworn Vestments - 4.945598417408506%
+	Bloodsworn Robes - 93.96636993076162%
+
+Thall'Nosh, the Unraveler
+	Blood of Ch'thon - 20.0%
+	Chthonic Seal of Binding - 30.0%
+	Bloodsworn Signet - 30.0%
+
+Bloodlord Thalonis
+	Blood of Ch'thon - 20.25%
+	Chthonic Seal of Binding - 30.0%
+	Bloodsworn Sigil - 24.75%
+	Bloodlord's Blade - 8.565555047967107%
+
+Rashalga, the Mad Queen
+	Ancient Heart - 20.02%
+	Rigid Shell - 15.0%
+	Spined Carapace - 5.0%
+
+Swarm Queen Ravna
+	Ancient Heart - 20.02%
+	Rigid Shell - 15.0%
+	Spined Carapace - 5.0%
+
+Grand Vizier Lozakal
+	Ancient Heart - 5.0%
+	Dermapteran Claw - 70.0%
+	Dermapteran Slicer - 25.0%
+	Rigid Shell - 15.0%
+	Spined Carapace - 5.0%
+
+Grand Vizier Inixil
+	Ancient Heart - 5.0%
+	Dermapteran Claw - 70.0%
+	Dermapteran Slicer - 25.0%
+	Rigid Shell - 15.0%
+	Spined Carapace - 5.0%
+
+Hive Guard Anoxis, the Tainted
+	Ancient Heart - 5.0%
+	Dermapteran Claw - 70.0%
+	Dermapteran Slicer - 25.0%
+	Rigid Shell - 15.0%
+	Spined Carapace - 5.0%
+
+Bloodfeast the Ruthless
+	Ancient Heart - 15.0%
+	Dynamite - 75.0%
+
+Wraith of Sorrows
+	Spectral Crown - 15.0%
+
+Rhovena Kur
+	Spectral Crossbow - 75.0%
+	Spectral Arbalest - 25.0%
+
+Alkamos, Lord Executioner
+	Alkamos' Scythe - 47.5%
+	Alkamos' Warsword - 47.5%
+
+Grundleplith the Hoarder
+	Bristly Fur - 2.8%
+
+Bloodsworn Priest
+	Bloodsworn Scepter - 4.282777523983554%
+	Bloodsworn Wand - 95.6486980356327%
+	Spaulders - 39.93211540381352%
+
+Bloodsworn Doomsayer
+	Bloodsworn Pistol - 98.5%
+	Bloodsworn Repeater - 1.5%
+	Spaulders - 39.93211540381352%
+	Bloodsworn Vestments - 3.211762186853187%
+	Bloodsworn Robes - 46.74898294197416%
+
+Bloodsworn Priest
+	Bloodsworn Scepter - 4.282777523983554%
+	Bloodsworn Wand - 95.6486980356327%
+	Spaulders - 39.93211540381352%
+
+Bloodsworn Doomsayer
+	Bloodsworn Pistol - 98.5%
+	Bloodsworn Repeater - 1.5%
+	Spaulders - 39.93211540381352%
+	Bloodsworn Vestments - 3.211762186853187%
+	Bloodsworn Robes - 46.74898294197416%
+
+Loxmere Nightmage
+	Loxmere's Frostblade - 19.31123270035404%
+	Ascended Epaulets - 8.386916410399776%
+	Ascended Mantle - 89.46044171093095%
+	Haunted Vestment - 97.00644183402804%
+	Ascended Diadem - 22.365110427732738%
+	Ascended Diadem - 2.096729102599944%
+
+Noveria Stormfire
+	Ascended Epaulets - 8.386916410399776%
+	Ascended Mantle - 89.46044171093095%
+	Ascended Vestment - 2.5008683570684265%
+	Ascended Robes - 26.675929142063218%
+	Ascended Diadem - 22.365110427732738%
+	Ascended Diadem - 2.096729102599944%
+
+Archivist Thelon
+	Ascended Epaulets - 8.386916410399776%
+	Ascended Mantle - 89.46044171093095%
+	Ascended Vestment - 2.5008683570684265%
+	Ascended Robes - 26.675929142063218%
+	Ascended Diadem - 22.365110427732738%
+	Ascended Diadem - 2.096729102599944%
+
+Milton Hart
+	Milton's Casque - 14.27592507994518%
+
+Bane'Gargoth
+	Blood of Ch'thon - 22.0%
+	Obsidian Guard - 53.0%
+	Obsidian Bulwark - 25.0%
+
+Ikrix, the Ravener
+	Ancient Heart - 15.0%
+	Ikrix Scale - 15.0%
+	Rigid Shell - 4.5%
+
+Pusquill the Hoarder
+	Bristly Fur - 2.76%
+
+Kalis Ka, the Bonehunter
+	Chipped Claw - 1.5%
+
+Ilgorr, the Eternal
+	Corpse Dust - 5.0%
+	Restless Remains - 10.0%
+
+Uroboruuk's Guardian
+	Corpse Dust - 1.5%
+	Restless Remains - 3.0%
+
+High Priest Rolderathis
+	Rolderathis - 2nd Entry - 30.0%
+	Corpse Dust - 5.4%
+	Sanctified Bone - 3.6%
+
+Robert
+	Corpse Dust - 0.345%
+
+Rockford
+	Corpse Dust - 0.345%
+
+Ryan
+	Corpse Dust - 0.345%
+
+Shade of Elnadrin
+	Corpse Dust - 9.0%
+
+Grand Priest Zarthuzellan
+	Corpse Dust - 5.4%
+	Sanctified Bone - 3.6%
+
+Death Revenant
+	Corpse Dust - 9.0%
+
+Kilrian, the Tainted Soul
+	Kilrian's Skullbreaker - 24.727992087042534%
+	Corpse Dust - 5.4%
+
+Ellena, the First Slith
+	Ellena's Necklace - 25.0%
+
+Primordian, the Forgotten One
+	Putrid Necklace - 25.0%
+
+Gutworm, the Maneater
+	Ancient Heart - 17.5%
+
+Ol' Bloodbriar
+	Serrated Spike - 3.6%
+	Vicious Spikes - 2.4%
+
+Harrath the Slaughterer
+	Mutagenic Ichor - 4.5%
+
+Gollus, the Deepdweller
+	Ancient Heart - 15.0%
+
+Gulgoth, the Rampaging
+	Troll Bonesmasher - 75.0%
+	Troll Bonecrusher - 25.0%
+
+Voldrak, the Destroyer
+	Ancient Heart - 15.0%
+	Troll Bonesmasher - 75.0%
+	Troll Bonecrusher - 25.0%
+
+Balegor, the Swamp King
+	Ancient Heart - 15.0%
+	Troll Bonesmasher - 75.0%
+	Troll Bonecrusher - 25.0%
+
+Viloth, the Corruptor
+	Viloth's Ring - 35.68981269986295%
+
+Warden Krieg
+	Warden's Judgement - 25.0%
+	Warden's Verdict - 75.0%
+	Warden's Fortress - 25.0%
+	Warden's Bulwark - 75.0%
+
+Ulraprax, the Hive Matriarch
+	Battered Shell - 1.2%
+
+Ronaprax, the Grand Queen
+	Battered Shell - 1.2%
+
+Shar'Oruuth
+	Obsidian War Cleaver - 4.945598417408506%
+	Obsidian Headsplitter - 93.96636993076162%
+
+Wen'Kazul, the Hungering Blade
+	Obsidian War Cleaver - 4.945598417408506%
+	Obsidian Headsplitter - 93.96636993076162%
+
+Jugak'Siin ~ Reflective
+	Obsidian War Cleaver - 4.945598417408506%
+	Obsidian Headsplitter - 93.96636993076162%
+
+Fleshwarped Butcher
+	Mutagenic Ichor - 0.45%
+
+Fleshwarped Thrasher
+	Mutagenic Ichor - 0.45%
+
+Crimson Bane
+	Tainted Brain Matter - 2.5%
+	Mutant Arm - 92.5%
+	Mutant Bludgeon - 5.0%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Bolvaris, the Glacierborn
+	Tainted Brain Matter - 2.5%
+	Mutant Arm - 92.5%
+	Mutant Bludgeon - 5.0%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Aldanar, the Undying
+	Tainted Brain Matter - 2.5%
+	Mutant Arm - 92.5%
+	Mutant Bludgeon - 5.0%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Rotting Emberguard
+	Molten Skin - 0.25500000000000006%
+
+Allara Starfire
+	Ascended Epaulets - 8.386916410399776%
+	Ascended Mantle - 89.46044171093095%
+	Ascended Vestment - 2.5008683570684265%
+	Ascended Robes - 26.675929142063218%
+	Ascended Diadem - 22.365110427732738%
+	Ascended Diadem - 2.096729102599944%
+
+Aetherblaze
+	Ascended Epaulets - 8.386916410399776%
+	Ascended Mantle - 89.46044171093095%
+	Ascended Vestment - 2.5008683570684265%
+	Ascended Robes - 26.675929142063218%
+	Ascended Diadem - 22.365110427732738%
+	Ascended Diadem - 2.096729102599944%
+
+Kamladris, the Rimeheart
+	Ascended Epaulets - 8.386916410399776%
+	Ascended Mantle - 89.46044171093095%
+	Ascended Vestment - 2.5008683570684265%
+	Ascended Robes - 26.675929142063218%
+	Ascended Diadem - 22.365110427732738%
+	Ascended Diadem - 2.096729102599944%
+
+Shar'Oruuth
+	Obsidian War Cleaver - 4.945598417408506%
+	Obsidian Headsplitter - 93.96636993076162%
+
+Wen'Kazul, the Hungering Blade
+	Obsidian War Cleaver - 4.945598417408506%
+	Obsidian Headsplitter - 93.96636993076162%
+
+Sarmaz'Din ~ Frozen
+	Obsidian War Cleaver - 4.945598417408506%
+	Obsidian Headsplitter - 93.96636993076162%
+
+Darlax, Devourer of Dreams
+	Tainted Brain Matter - 2.5%
+	Gazer Eye - 87.5%
+	Overseer Eye - 10.0%
+
+Beholdan ~ Reflective
+	Tainted Brain Matter - 2.5%
+	Gazer Eye - 87.5%
+	Overseer Eye - 10.0%
+
+Allara Starfire
+	Ascended Epaulets - 16.77383282079955%
+	Ascended Mantle - 81.07352530053117%
+	Ascended Vestment - 5.001736714136853%
+	Ascended Robes - 24.17506078499479%
+	Ascended Circlet - 20.268381325132793%
+	Ascended Diadem - 4.193458205199888%
+
+Aetherblaze
+	Ascended Epaulets - 16.77383282079955%
+	Ascended Mantle - 81.07352530053117%
+	Ascended Vestment - 5.001736714136853%
+	Ascended Robes - 24.17506078499479%
+	Ascended Circlet - 20.268381325132793%
+	Ascended Diadem - 4.193458205199888%
+
+Kamladris, the Rimeheart
+	Ascended Epaulets - 16.77383282079955%
+	Ascended Mantle - 81.07352530053117%
+	Ascended Vestment - 5.001736714136853%
+	Ascended Robes - 24.17506078499479%
+	Ascended Circlet - 20.268381325132793%
+	Ascended Diadem - 4.193458205199888%
+
+Sulkarr, the Stormtouched
+	Fleshwarped Spaulders - 90.0%
+	Fleshwarped Pauldrons - 10.0%
+	Fleshwarped Cuirass - 90.0%
+	Fleshwarped Platemail - 10.0%
+	Mutagenic Ichor - 4.5%
+	Fleshwarped Helm - 90.0%
+	Fleshwarped Casque - 10.0%
+
+Horcris, the Terror
+	Fleshwarped Spaulders - 90.0%
+	Fleshwarped Pauldrons - 10.0%
+	Fleshwarped Cuirass - 90.0%
+	Fleshwarped Platemail - 10.0%
+	Mutagenic Ichor - 4.5%
+	Fleshwarped Helm - 90.0%
+	Fleshwarped Casque - 10.0%
+
+Corruptis
+	Fleshwarped Spaulders - 90.0%
+	Fleshwarped Pauldrons - 10.0%
+	Fleshwarped Cuirass - 90.0%
+	Fleshwarped Platemail - 10.0%
+	Mutagenic Ichor - 4.5%
+	Fleshwarped Helm - 90.0%
+	Fleshwarped Casque - 10.0%
+
+Crimson Bane
+	Tainted Brain Matter - 2.5%
+	Mutant Arm - 87.5%
+	Mutant Bludgeon - 10.0%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Bolvaris, the Glacierborn
+	Tainted Brain Matter - 2.5%
+	Mutant Arm - 87.5%
+	Mutant Bludgeon - 10.0%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Aldanar, the Undying
+	Tainted Brain Matter - 2.5%
+	Mutant Arm - 87.5%
+	Mutant Bludgeon - 10.0%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Death Revenant
+	Corpse Dust - 9.0%
+
+Rosena Malgos ~ Regenerator
+	Spectral Crossbow - 95.0%
+	Spectral Arbalest - 5.0%
+
+Oldrakan Pald ~ Swift
+	Spectral War Axe - 95.0%
+	Spectral Warmaul - 5.0%
+
+Aetherwraith ~ Corrupted
+	Spectral War Axe - 95.0%
+	Spectral Warmaul - 5.0%
+
+Tenebris, the Blood Drinker
+	Corpse Dust - 9.0%
+
+Balrazar, Eternal Servant of Dreeg
+	Corpse Dust - 9.0%
+
+Harros Dred, the Damned
+	Corpse Dust - 9.0%
+
+Hellwraith ~ Burning
+	Corpse Dust - 9.0%
+
+Chillheart ~ Frozen
+	Corpse Dust - 9.0%
+
+Guardian of Bysmiel
+	Ancient Heart - 15.2%
+	Bysmiel-Sect Legguards - 24.8%
+
+Guardian of Dreeg
+	Ancient Heart - 15.2%
+	Dreeg-Sect Legguards - 24.8%
+
+Guardian of Solael
+	Ancient Heart - 15.2%
+	Solael-Sect Legguards - 24.8%
+
+The Sentinel
+	Ancient Heart - 20.4%
+
+Ragrathar Rageblood
+	Ancient Heart - 15.0%
+	Chipped Yeti Horn - 52.0%
+	Yeti Horn - 18.0%
+	Bristly Fur - 6.0%
+
+Barrog, the Bloodied
+	Mutagenic Ichor - 4.7368421052631575%
+
+Barrog, the Bloodied
+	Tainted Brain Matter - 2.5%
+	Mutant Arm - 72.5%
+	Mutant Bludgeon - 25.0%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Balros, the Malformed
+	Tainted Brain Matter - 2.5%
+	Mutant Arm - 72.5%
+	Mutant Bludgeon - 25.0%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Hagra, the Tormented
+	Tainted Brain Matter - 2.5%
+	Mutant Arm - 72.5%
+	Mutant Bludgeon - 25.0%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Sicrix, the Skittering
+	Ancient Heart - 2.5%
+	Rift Scourge Claw - 92.5%
+	Rift Scourge Slicer - 5.0%
+	Rigid Shell - 4.5%
+
+Emberjaw
+	Serrated Spike - 3.6%
+	Vicious Spikes - 2.4%
+
+Harrath, the Returned
+	Mutagenic Ichor - 4.5%
+
+Padmanestia
+	Ascended Epaulets - 8.386916410399776%
+	Ascended Mantle - 89.46044171093095%
+	Ascended Vestment - 2.5008683570684265%
+	Ascended Robes - 26.675929142063218%
+	Ascended Diadem - 22.365110427732738%
+	Ascended Diadem - 2.096729102599944%
+
+"The Bruiser" Romanov
+	Murderer's Coif - 4.75%
+	Murderer's Cowl - 0.25%
+
+Ballior ~ Burning
+	Tainted Brain Matter - 5.0%
+	Mutant Arm - 90.0%
+	Mutant Bludgeon - 5.0%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Igor "The Brawler"
+	Ascended Spaulders - 70.0%
+	Ascended Shoulderplates - 30.0%
+
+Caspis, the Blooddrinker
+	Spaulders - 14.677103718199609%
+
+Rostov, the Aetherflame
+	Ascended Spaulders - 70.0%
+	Ascended Shoulderplates - 30.0%
+	Murderer's Coif - 4.75%
+	Murderer's Cowl - 0.25%
+
+Conastaria
+	Ascended Epaulets - 8.386916410399776%
+	Ascended Mantle - 89.46044171093095%
+	Ascended Vestment - 2.5008683570684265%
+	Ascended Robes - 26.675929142063218%
+	Ascended Diadem - 22.365110427732738%
+	Ascended Diadem - 2.096729102599944%
+
+Ludia Starfire
+	Ascended Epaulets - 8.386916410399776%
+	Ascended Mantle - 89.46044171093095%
+	Ascended Vestment - 2.5008683570684265%
+	Ascended Robes - 26.675929142063218%
+	Ascended Diadem - 22.365110427732738%
+	Ascended Diadem - 2.096729102599944%
+
+Bogloth the Marrowdrinker
+	Troll Bonesmasher - 95.0%
+	Troll Bonecrusher - 5.0%
+
+The Locust
+	Ancient Heart - 2.5%
+	Dermapteran Claw - 92.5%
+	Dermapteran Slicer - 5.0%
+	Rigid Shell - 4.5%
+	Spined Carapace - 1.5%
+
+Vizier Haxin
+	Ancient Heart - 2.5%
+	Dermapteran Claw - 92.5%
+	Dermapteran Slicer - 5.0%
+	Rigid Shell - 4.5%
+	Spined Carapace - 1.5%
+
+Glukrog Lifedrinker
+	Boneblade - 2.5%
+	Bonecleaver - 47.5%
+	Bonecarver - 47.5%
+	Bonescythe - 2.5%
+
+Thullon, Chosen of Ch'thon
+	Spaulders - 14.677103718199609%
+
+Ludia Bloodwhisper
+	Bloodsworn Scepter - 4.945598417408506%
+	Bloodsworn Wand - 93.96636993076162%
+	Bloodsworn Vestments - 4.945598417408506%
+	Bloodsworn Robes - 93.96636993076162%
+
+Halvastra Wrathfire
+	Ascended Epaulets - 8.386916410399776%
+	Ascended Mantle - 89.46044171093095%
+	Ascended Vestment - 2.5008683570684265%
+	Ascended Robes - 26.675929142063218%
+	Ascended Diadem - 22.365110427732738%
+	Ascended Diadem - 2.096729102599944%
+
+Narroth, the Behemoth
+	Fleshwarped Spaulders - 95.0%
+	Fleshwarped Pauldrons - 5.0%
+	Fleshwarped Cuirass - 95.0%
+	Fleshwarped Platemail - 5.0%
+	Mutagenic Ichor - 4.5%
+	Fleshwarped Helm - 95.0%
+	Fleshwarped Casque - 5.0%
+
+Death Revenant
+	Corpse Dust - 3.9%
+	Cracked Lodestone - 4.5%
+	Amber - 2.1%
+
+Oligeane Dar
+	Spectral Crossbow - 95.0%
+	Spectral Arbalest - 5.0%
+
+Mortallis
+	Corpse Dust - 4.5%
+
+Grum
+	Corpse Dust - 1.5%
+	Restless Remains - 3.0%
+
+Serethal'Siin
+	Obsidian War Cleaver - 9.891196834817013%
+	Obsidian Headsplitter - 89.02077151335311%
+
+Wallan'Siin
+	Obsidian War Cleaver - 9.891196834817013%
+	Obsidian Headsplitter - 89.02077151335311%
+
+Zagal'Udal ~ Electrified
+	Obsidian War Cleaver - 9.891196834817013%
+	Obsidian Headsplitter - 89.02077151335311%
+
+Rigak'Doth ~ Reflective
+	Obsidian War Cleaver - 9.891196834817013%
+	Obsidian Headsplitter - 89.02077151335311%
+
+Palloth'Dar ~ Frozen
+	Obsidian War Cleaver - 9.891196834817013%
+	Obsidian Headsplitter - 89.02077151335311%
+
+Agalla Varos ~ Regenerator
+	Spectral Crossbow - 90.0%
+	Spectral Arbalest - 10.0%
+
+Stormbane ~ Electrified
+	Spectral War Axe - 90.0%
+	Spectral Warmaul - 10.0%
+
+Baullos Gar ~ Voidtouched
+	Spectral War Axe - 90.0%
+	Spectral Warmaul - 10.0%
+
+Senal Thandris ~ Corrupted
+	Spectral War Axe - 90.0%
+	Spectral Warmaul - 10.0%
+
+Direcrix
+	Ancient Heart - 2.5%
+	Rift Scourge Claw - 87.5%
+	Rift Scourge Slicer - 10.0%
+	Battered Shell - 4.5%
+
+Malocrix ~ Voidtouched
+	Ancient Heart - 2.5%
+	Rift Scourge Claw - 87.5%
+	Rift Scourge Slicer - 10.0%
+	Battered Shell - 4.5%
+
+Idricrix ~ Electrified
+	Ancient Heart - 2.5%
+	Rift Scourge Claw - 87.5%
+	Rift Scourge Slicer - 10.0%
+	Battered Shell - 4.5%
+
+Grubwrath ~ Diseased
+	Corpse Dust - 1.5%
+	Restless Remains - 3.0%
+
+Icesharn ~ Frozen
+	Corpse Dust - 1.5%
+	Restless Remains - 3.0%
+
+Flamegore ~ Burning
+	Corpse Dust - 1.5%
+	Restless Remains - 3.0%
+
+Aethergore ~ Corrupted
+	Corpse Dust - 1.5%
+	Restless Remains - 3.0%
+
+Voidreach ~ Voidtouched
+	Corpse Dust - 1.5%
+	Restless Remains - 3.0%
+
+Elledar Bloodthirster
+	Corpse Dust - 5.714285714285714%
+
+Priest Dagoll
+	Corpse Dust - 4.5%
+
+Damnoth
+	Corpse Dust - 4.5%
+
+Everon ~ Burning
+	Corpse Dust - 4.5%
+
+Vengar the Vengeful ~ Reflective
+	Corpse Dust - 4.5%
+
+Rimelord ~ Frozen
+	Corpse Dust - 4.5%
+
+Tenethon
+	Corpse Dust - 2.7%
+
+Alladon the Flamewatcher
+	Corpse Dust - 1.8%
+	Sanctified Bone - 3.6%
+
+Elagorian Darkmarrow
+	Corpse Dust - 3.9%
+	Cracked Lodestone - 4.5%
+	Amber - 2.1%
+
+Ollegon the Icewatcher
+	Corpse Dust - 1.8%
+	Sanctified Bone - 3.6%
+
+Bloodwretch ~ Swift
+	Tainted Brain Matter - 2.5%
+	Mutant Arm - 87.5%
+	Mutant Bludgeon - 10.0%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Icerot
+	Tainted Brain Matter - 2.5%
+	Mutant Arm - 87.5%
+	Mutant Bludgeon - 10.0%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Vampireon
+	Tainted Brain Matter - 2.5%
+	Mutant Arm - 87.5%
+	Mutant Bludgeon - 10.0%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Swiftrot ~ Swift
+	Tainted Brain Matter - 2.5%
+	Mutant Arm - 87.5%
+	Mutant Bludgeon - 10.0%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Skeletal Warrior
+	Corpse Dust - 0.15%
+
+Skeletal Archer
+	Corpse Dust - 0.15%
+
+Skeletal Deathbolt Archer
+	Corpse Dust - 0.1725%
+
+Skeletal Knight
+	Corpse Dust - 0.1725%
+
+Skeletal Priest
+	Corpse Dust - 0.1725%
+
+Skeletal Warlock
+	Corpse Dust - 0.1725%
+
+Flame Revenant
+	Corpse Dust - 0.1725%
+
+Frost Revenant
+	Corpse Dust - 0.1725%
+
+Storm Revenant
+	Corpse Dust - 0.1725%
+
+Aetheros
+	Serrated Spike - 3.6%
+	Vicious Spikes - 2.4%
+
+Mutallor ~ Regenerator
+	Bristly Fur - 12.0%
+
+Stonemane ~ Defender
+	Bristly Fur - 12.0%
+
+Dreadtusk, the Hunter's Bane
+	Bristly Fur - 12.0%
+
+Ragesnout ~ Swift
+	Bristly Fur - 12.0%
+
+Hellmane ~ Burning
+	Bristly Fur - 12.0%
+
+Rotmane ~ Diseased
+	Bristly Fur - 12.0%
+
+Aetherean ~ Corrupted
+	Bristly Fur - 12.0%
+
+Riftsnout ~ Voidtouched
+	Bristly Fur - 12.0%
+
+Maledictus
+	Bristly Fur - 10.5%
+
+Razorback
+	Bristly Fur - 10.0%
+
+Bilewart ~ Swift
+	Bristly Fur - 10.5%
+
+Rimeclaw ~ Frozen
+	Bristly Fur - 10.5%
+
+Wrathclaw ~ Corrupted
+	Bristly Fur - 10.5%
+
+Rotbite ~ Diseased
+	Bristly Fur - 10.5%
+
+Shar'Oruuth
+	Obsidian War Cleaver - 9.891196834817013%
+	Obsidian Headsplitter - 89.02077151335311%
+
+Wen'Kazul, the Hungering Blade
+	Obsidian War Cleaver - 9.891196834817013%
+	Obsidian Headsplitter - 89.02077151335311%
+
+Zalyth'Uthax ~ Electrified
+	Obsidian War Cleaver - 9.891196834817013%
+	Obsidian Headsplitter - 89.02077151335311%
+
+Jugak'Siin ~ Reflective
+	Obsidian War Cleaver - 9.891196834817013%
+	Obsidian Headsplitter - 89.02077151335311%
+
+Sarmaz'Din ~ Frozen
+	Obsidian War Cleaver - 9.891196834817013%
+	Obsidian Headsplitter - 89.02077151335311%
+
+Harpallax, the Suneater
+	Ancient Heart - 2.5%
+	Dermapteran Claw - 87.5%
+	Dermapteran Slicer - 10.0%
+	Rigid Shell - 4.5%
+	Spined Carapace - 1.5%
+
+Corrosinax
+	Ancient Heart - 2.5%
+	Dermapteran Claw - 87.5%
+	Dermapteran Slicer - 10.0%
+	Rigid Shell - 4.5%
+	Spined Carapace - 1.5%
+
+Wasparex ~ Swift
+	Ancient Heart - 2.5%
+	Dermapteran Claw - 87.5%
+	Dermapteran Slicer - 10.0%
+	Rigid Shell - 4.5%
+	Spined Carapace - 1.5%
+
+Olmarix ~ Electrified
+	Ancient Heart - 2.5%
+	Dermapteran Claw - 87.5%
+	Dermapteran Slicer - 10.0%
+	Rigid Shell - 4.5%
+	Spined Carapace - 1.5%
+
+Vildrix ~ Voidtouched
+	Ancient Heart - 2.5%
+	Dermapteran Claw - 87.5%
+	Dermapteran Slicer - 10.0%
+	Rigid Shell - 4.5%
+	Spined Carapace - 1.5%
+
+Mesmer
+	Tainted Brain Matter - 2.5%
+	Gazer Eye - 87.5%
+	Overseer Eye - 10.0%
+
+Bane'Zal, the Hellborn
+	Tainted Brain Matter - 2.5%
+	Gazer Eye - 87.5%
+	Overseer Eye - 10.0%
+
+Darlax, Devourer of Dreams
+	Tainted Brain Matter - 2.5%
+	Gazer Eye - 87.5%
+	Overseer Eye - 10.0%
+
+Beholdan ~ Reflective
+	Tainted Brain Matter - 2.5%
+	Gazer Eye - 87.5%
+	Overseer Eye - 10.0%
+
+Garminix ~ Regenerator
+	Tainted Brain Matter - 2.5%
+	Gazer Eye - 87.5%
+	Overseer Eye - 10.0%
+
+Illumin ~ Electrified
+	Tainted Brain Matter - 2.5%
+	Gazer Eye - 87.5%
+	Overseer Eye - 10.0%
+
+Rosena Malgos ~ Regenerator
+	Spectral Crossbow - 90.0%
+	Spectral Arbalest - 10.0%
+
+Stormshriek ~ Electrified
+	Spectral War Axe - 90.0%
+	Spectral Warmaul - 10.0%
+
+Oldrakan Pald ~ Swift
+	Spectral War Axe - 90.0%
+	Spectral Warmaul - 10.0%
+
+Aetherwraith ~ Corrupted
+	Spectral War Axe - 90.0%
+	Spectral Warmaul - 10.0%
+
+Julius Crowley, the Mindbender
+	Blood of Ch'thon - 2.5%
+	Bloodsworn Scepter - 9.891196834817013%
+	Bloodsworn Wand - 89.02077151335311%
+	Bloodsworn Vestments - 4.945598417408506%
+	Bloodsworn Robes - 93.96636993076162%
+
+Lucius Bloodboil
+	Blood of Ch'thon - 2.5%
+	Bloodsworn Scepter - 9.891196834817013%
+	Bloodsworn Wand - 89.02077151335311%
+	Bloodsworn Vestments - 4.945598417408506%
+	Bloodsworn Robes - 93.96636993076162%
+
+Nathalian, the Houndcaller
+	Blood of Ch'thon - 2.5%
+	Bloodsworn Repeater - 9.891196834817013%
+	Bloodsworn Pistol - 89.02077151335311%
+	Bloodsworn Vestments - 4.945598417408506%
+	Bloodsworn Robes - 93.96636993076162%
+
+Ignacius ~ Burning
+	Blood of Ch'thon - 2.5%
+	Bloodsworn Scepter - 9.891196834817013%
+	Bloodsworn Wand - 89.02077151335311%
+	Bloodsworn Vestments - 4.945598417408506%
+	Bloodsworn Robes - 93.96636993076162%
+
+Balvadar the Bloodthirsty ~ Regenerator
+	Blood of Ch'thon - 2.5%
+	Bloodsworn Scepter - 9.891196834817013%
+	Bloodsworn Wand - 89.02077151335311%
+	Bloodsworn Vestments - 4.945598417408506%
+	Bloodsworn Robes - 93.96636993076162%
+
+Meric Aether-Touched ~ Charger
+	Murderer's Coif - 4.75%
+	Murderer's Cowl - 0.25%
+
+Eldon "Snakeskin" ~ Regenerator
+	Ascended Shoulderplates - 0.34972521590179145%
+	Ascended Spaulders - 34.62279637427736%
+	Ascended Helm - 4.75%
+	Ascended Casque - 0.25%
+
+Everett, the Bloodbound ~ Burning
+	Blood of Ch'thon - 2.5%
+	Bloodsworn Scepter - 4.945598417408506%
+	Bloodsworn Wand - 93.96636993076162%
+	Bloodsworn Vestments - 4.945598417408506%
+	Bloodsworn Robes - 93.96636993076162%
+
+Allara Starfire
+	Ascended Epaulets - 16.77383282079955%
+	Ascended Mantle - 81.07352530053117%
+	Ascended Vestment - 5.001736714136853%
+	Ascended Robes - 24.17506078499479%
+	Ascended Circlet - 20.268381325132793%
+	Ascended Diadem - 4.193458205199888%
+
+Aetherblaze
+	Ascended Epaulets - 16.77383282079955%
+	Ascended Mantle - 81.07352530053117%
+	Ascended Vestment - 5.001736714136853%
+	Ascended Robes - 24.17506078499479%
+	Ascended Circlet - 20.268381325132793%
+	Ascended Diadem - 4.193458205199888%
+
+Kamladris, the Rimeheart
+	Ascended Epaulets - 16.77383282079955%
+	Ascended Mantle - 81.07352530053117%
+	Ascended Vestment - 5.001736714136853%
+	Ascended Robes - 24.17506078499479%
+	Ascended Circlet - 20.268381325132793%
+	Ascended Diadem - 4.193458205199888%
+
+Corpusia ~ Reflective
+	Ascended Epaulets - 16.77383282079955%
+	Ascended Mantle - 81.07352530053117%
+	Ascended Vestment - 5.001736714136853%
+	Ascended Robes - 24.17506078499479%
+	Ascended Circlet - 20.268381325132793%
+	Ascended Diadem - 4.193458205199888%
+
+Espiria ~ Supporter
+	Ascended Epaulets - 16.77383282079955%
+	Ascended Mantle - 81.07352530053117%
+	Ascended Vestment - 5.001736714136853%
+	Ascended Robes - 24.17506078499479%
+	Ascended Circlet - 20.268381325132793%
+	Ascended Diadem - 4.193458205199888%
+
+Vladox, the Bloodletter
+	Roiling Blood - 4.5%
+
+Sarlap ~ Electrified
+	Roiling Blood - 4.5%
+
+Jornax, the Voracious ~ Swift
+	Roiling Blood - 4.5%
+
+Narlax ~ Corrupted
+	Roiling Blood - 4.5%
+
+Oorlax ~ Voidtouched
+	Roiling Blood - 4.5%
+
+Obsidius, the Titan
+	Blood of Ch'thon - 4.5%
+	Obsidian Guard - 85.5%
+	Obsidian Bulwark - 10.0%
+
+Ch'thallis, the Usurper
+	Blood of Ch'thon - 4.5%
+	Obsidian Guard - 85.5%
+	Obsidian Bulwark - 10.0%
+
+Kelphat'Idoth ~ Electrified
+	Blood of Ch'thon - 4.5%
+	Obsidian Guard - 85.5%
+	Obsidian Bulwark - 10.0%
+
+Orudin'Idoth ~ Frozen
+	Blood of Ch'thon - 4.5%
+	Obsidian Guard - 85.5%
+	Obsidian Bulwark - 10.0%
+
+Drygol'Ukog ~ Charger
+	Blood of Ch'thon - 4.5%
+	Obsidian Guard - 85.5%
+	Obsidian Bulwark - 10.0%
+
+Terrocrix
+	Ancient Heart - 2.5%
+	Rift Scourge Claw - 87.5%
+	Rift Scourge Slicer - 10.0%
+	Battered Shell - 4.5%
+
+Chiricrix ~ Frozen
+	Ancient Heart - 2.5%
+	Rift Scourge Claw - 87.5%
+	Rift Scourge Slicer - 10.0%
+	Battered Shell - 4.5%
+
+Blucrix ~ Defender
+	Ancient Heart - 2.5%
+	Rift Scourge Claw - 87.5%
+	Rift Scourge Slicer - 10.0%
+	Battered Shell - 4.5%
+
+Ravacrix, the Ravenous
+	Ancient Heart - 2.5%
+	Rift Scourge Claw - 87.5%
+	Rift Scourge Slicer - 10.0%
+	Battered Shell - 4.5%
+
+Palacrix, the Ancient
+	Ancient Heart - 2.5%
+	Rift Scourge Claw - 87.5%
+	Rift Scourge Slicer - 10.0%
+	Battered Shell - 4.5%
+
+Velacrix, the Plagueswarm
+	Ancient Heart - 2.5%
+	Rift Scourge Claw - 87.5%
+	Rift Scourge Slicer - 10.0%
+	Battered Shell - 4.5%
+
+Elcrix ~ Electrified
+	Ancient Heart - 2.5%
+	Rift Scourge Claw - 87.5%
+	Rift Scourge Slicer - 10.0%
+	Battered Shell - 4.5%
+
+Flocrix ~ Burning
+	Ancient Heart - 2.5%
+	Rift Scourge Claw - 87.5%
+	Rift Scourge Slicer - 10.0%
+	Battered Shell - 4.5%
+
+Charrus
+	Chipped Claw - 9.0%
+
+Plaguelord
+	Chipped Claw - 9.0%
+
+Voidrage
+	Chipped Claw - 9.0%
+
+Wolvin, the Inferno
+	Chipped Claw - 9.0%
+
+Jarlax, Rage of the Swamp ~ Charger
+	Chipped Claw - 9.0%
+
+Garn, the Packhunter ~ Defender
+	Chipped Claw - 9.0%
+
+Scarsnout, the Cannibal
+	Chipped Claw - 7.5%
+
+Bloodclaw
+	Chipped Claw - 7.5%
+
+Whitemane, the Thunderstruck
+	Chipped Claw - 7.5%
+
+Ernol Carrioneater ~ Diseased
+	Chipped Claw - 7.5%
+
+Crimsontail ~ Supporter
+	Chipped Claw - 7.5%
+
+Rav ~ Voidtouched
+	Chipped Claw - 7.5%
+
+Grulgor, the Tormented ~ Diseased
+	Corpse Dust - 1.5%
+	Restless Remains - 3.0%
+
+Falgarr, the Ice Watcher ~ Frozen
+	Corpse Dust - 1.5%
+	Restless Remains - 3.0%
+
+Bralgarr, the Flame Watcher ~ Burning
+	Corpse Dust - 1.5%
+	Restless Remains - 3.0%
+
+Wralgarr, the Aethertouched ~ Corrupted
+	Corpse Dust - 1.5%
+	Restless Remains - 3.0%
+
+Olagarr, the Chaosbringer ~ Voidtouched
+	Corpse Dust - 1.5%
+	Restless Remains - 3.0%
+
+Tenebris, the Blood Drinker
+	Corpse Dust - 8.571428571428571%
+
+Balrazar, Eternal Servant of Dreeg
+	Corpse Dust - 9.0%
+
+Harros Dred, the Damned
+	Corpse Dust - 9.0%
+
+Hellwraith ~ Burning
+	Corpse Dust - 9.0%
+
+Allos Sadarin ~ Reflective
+	Corpse Dust - 9.0%
+
+Chillheart ~ Frozen
+	Corpse Dust - 9.0%
+
+Terrolean, the Pandemonium
+	Serrated Spike - 3.6%
+	Vicious Spikes - 2.4%
+
+Korplax, the Overgrown
+	Serrated Spike - 3.6%
+	Vicious Spikes - 2.4%
+
+Blackthorn ~ Reflective
+	Serrated Spike - 3.6%
+	Vicious Spikes - 2.4%
+
+Rotthorn ~ Diseased
+	Serrated Spike - 3.6%
+	Vicious Spikes - 2.4%
+
+Everbark ~ Regenerator
+	Serrated Spike - 3.6%
+	Vicious Spikes - 2.4%
+
+Rimebark ~ Frozen
+	Serrated Spike - 3.6%
+	Vicious Spikes - 2.4%
+
+Sulkarr, the Stormtouched
+	Fleshwarped Spaulders - 90.0%
+	Fleshwarped Pauldrons - 10.0%
+	Fleshwarped Cuirass - 90.0%
+	Fleshwarped Platemail - 10.0%
+	Mutagenic Ichor - 4.5%
+	Fleshwarped Helm - 90.0%
+	Fleshwarped Casque - 10.0%
+
+Horcris, the Terror
+	Fleshwarped Spaulders - 90.0%
+	Fleshwarped Pauldrons - 10.0%
+	Fleshwarped Cuirass - 90.0%
+	Fleshwarped Platemail - 10.0%
+	Mutagenic Ichor - 4.5%
+	Fleshwarped Helm - 90.0%
+	Fleshwarped Casque - 10.0%
+
+Corruptis
+	Fleshwarped Spaulders - 90.0%
+	Fleshwarped Pauldrons - 10.0%
+	Fleshwarped Cuirass - 90.0%
+	Fleshwarped Platemail - 10.0%
+	Mutagenic Ichor - 4.5%
+	Fleshwarped Helm - 90.0%
+	Fleshwarped Casque - 10.0%
+
+Caladrak ~ Unstoppable
+	Fleshwarped Spaulders - 90.0%
+	Fleshwarped Pauldrons - 10.0%
+	Fleshwarped Cuirass - 90.0%
+	Fleshwarped Platemail - 10.0%
+	Mutagenic Ichor - 4.5%
+	Fleshwarped Helm - 90.0%
+	Fleshwarped Casque - 10.0%
+
+Faldrak ~ Reflective
+	Fleshwarped Spaulders - 90.0%
+	Fleshwarped Pauldrons - 10.0%
+	Fleshwarped Cuirass - 90.0%
+	Fleshwarped Platemail - 10.0%
+	Mutagenic Ichor - 4.5%
+	Fleshwarped Helm - 90.0%
+	Fleshwarped Casque - 10.0%
+
+Glavrok, the Darkdweller
+	Boneblade - 2.5%
+	Bonecleaver - 47.5%
+	Bonecarver - 47.5%
+	Bonescythe - 2.5%
+
+Algrok, the Blind Berserker
+	Boneblade - 2.5%
+	Bonecleaver - 47.5%
+	Bonecarver - 47.5%
+	Bonescythe - 2.5%
+
+Savarok ~ Shielded
+	Boneshiv - 95.0%
+	Bonespike - 5.0%
+
+Uglak, the Immortal
+	Troll Bonesmasher - 90.0%
+	Troll Bonecrusher - 10.0%
+
+Surrlak, the Earthmover
+	Troll Bonesmasher - 90.0%
+	Troll Bonecrusher - 10.0%
+
+Troglak ~ Unstoppable
+	Troll Bonesmasher - 90.0%
+	Troll Bonecrusher - 10.0%
+
+Oldak, the Miasma ~ Diseased
+	Troll Bonesmasher - 90.0%
+	Troll Bonecrusher - 10.0%
+
+Wontlak ~ Frozen
+	Troll Bonesmasher - 90.0%
+	Troll Bonecrusher - 10.0%
+
+Balglak, the Swamp Warden
+	Troll Bonesmasher - 90.0%
+	Troll Bonecrusher - 10.0%
+
+Rovos ~ Reflective
+	Troll Bonesmasher - 90.0%
+	Troll Bonecrusher - 10.0%
+
+Malgalok ~ Voidtouched
+	Troll Bonesmasher - 90.0%
+	Troll Bonecrusher - 10.0%
+
+Avalgal ~ Corrupted
+	Troll Bonesmasher - 90.0%
+	Troll Bonecrusher - 10.0%
+
+Scarprax, the Frenzied
+	Battered Shell - 4.5%
+
+Caraprax ~ Defender
+	Battered Shell - 4.5%
+
+Harprax, the Queen's Will ~ Supporter
+	Battered Shell - 4.5%
+
+Ralkara ~ Regenerator
+	Battered Shell - 4.5%
+
+Folcrax ~ Frozen
+	Battered Shell - 4.5%
+
+Walacrax ~ Corrupted
+	Battered Shell - 4.5%
+
+Ooldacrax ~ Voidtouched
+	Battered Shell - 4.5%
+
+Bonechill
+	Ancient Heart - 2.5%
+	Chipped Yeti Horn - 87.5%
+	Yeti Horn - 10.0%
+	Bristly Fur - 6.0%
+
+Icesnap
+	Ancient Heart - 2.5%
+	Chipped Yeti Horn - 87.5%
+	Yeti Horn - 10.0%
+	Bristly Fur - 6.0%
+
+Chillblood ~ Regenerator
+	Ancient Heart - 2.5%
+	Chipped Yeti Horn - 87.5%
+	Yeti Horn - 10.0%
+	Bristly Fur - 6.0%
+
+Mallus ~ Corrupted
+	Ancient Heart - 2.5%
+	Chipped Yeti Horn - 87.5%
+	Yeti Horn - 10.0%
+	Bristly Fur - 6.0%
+
+Crimson Bane
+	Tainted Brain Matter - 2.5%
+	Mutant Arm - 87.5%
+	Mutant Bludgeon - 10.0%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Gilisten, the Reborn
+	Tainted Brain Matter - 2.5%
+	Mutant Arm - 87.5%
+	Mutant Bludgeon - 10.0%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Bolvaris, the Glacierborn
+	Tainted Brain Matter - 2.5%
+	Mutant Arm - 87.5%
+	Mutant Bludgeon - 10.0%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Aldanar, the Undying
+	Tainted Brain Matter - 2.5%
+	Mutant Arm - 87.5%
+	Mutant Bludgeon - 10.0%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Blightfeast ~ Charger
+	Tainted Brain Matter - 2.5%
+	Mutant Arm - 87.5%
+	Mutant Bludgeon - 10.0%
+	Mutagenic Ichor - 4.7368421052631575%
+
+Valdaran, the Storm Scourge
+	Tainted Brain Matter - 35.75000000000001%
+
+Obligious Foul
+	Tainted Brain Matter - 35.75000000000001%
+
+The Pariah
+	Tainted Brain Matter - 35.75000000000001%
+	Pulsing Shard - 6.923076923076923%
+	Mutagenic Ichor - 6.923076923076923%
+
+Jac'Aran, the Eternal Stone
+	Blood of Ch'thon - 35.75000000000001%
+
+Benn'Jahr, the Colossal
+	Blood of Ch'thon - 35.75000000000001%
+
+Balgoth'Zul, the Endless Hunger
+	Blood of Ch'thon - 35.75000000000001%
+
+Lord Infernus
+	Scrap - 80.0%
+
+The Iron Maiden
+	Scrap - 80.0%
+
+Zantarin, the Immortal
+	Scrap - 80.0%
+
+Cabala Rotweaver
+	Scrap - 80.0%
+
+Fabius "the Unseen" Gonzar
+	Scrap - 80.0%
+
+Thallion Vos
+	Scrap - 80.0%
+	Ascended Shoulderplates - 0.6423524373706374%
+	Ascended Spaulders - 49.318392691456715%
+	Ascended Helm - 4.75%
+	Ascended Casque - 0.25%
+
+Dead-Eye
+	Scrap - 80.0%
+
+Allminoxius, the Artificer
+	Corpse Dust - 3.0%
+	Sanctified Bone - 6.0%
+
+Toxemus
+	Kilrian's Skullbreaker - 11.988011988011989%
+	Corpse Dust - 4.5%
+
