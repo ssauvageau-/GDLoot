@@ -21,7 +21,7 @@ mastertables = {}
 debug = False
 
 #common, rare, epic, legendary
-tiers = {1: False, 2: False, 3: True, 4: False}
+tiers = {1: False, 2: True, 3: True, 4: True}
 
 def get_quality(line):
     if "_a0" in line or "_a1" in line:
@@ -154,6 +154,7 @@ def handle_tdyn(inpt, chance):
     
 def handle_master(mt, chance):
     sum1 = 0.0
+    chance = str(float(chance) * 100.0)
     master = mastertables[mt]
     res = []
     for key in master:
