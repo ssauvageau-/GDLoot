@@ -2096,7 +2096,7 @@ Ashe "The Wall" Farrell
 "Moneybags" Martin
 
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeswords1h_c01.dbr
-	Dynamite - 1.0%
+	Dynamite - 100.0%
 	Dynamite - 30.0%
 	Scrap - 70.0%
 
@@ -2505,12 +2505,12 @@ Warden Krieg
 Ulraprax, the Hive Matriarch
 
 	Battered Shell - 1.2%
-	Royal Jelly - 1.0%
+	Royal Jelly - 100.0%
 
 Ronaprax, the Grand Queen
 
 	Battered Shell - 1.2%
-	Royal Jelly - 1.0%
+	Royal Jelly - 100.0%
 
 Nur'Garu, Jaws of Oblivion
 
@@ -5047,7 +5047,7 @@ Toxemus
 
 The Actually Final Form of the Clone of John Bourbon
 
-	Gazer Man - 1.0%
+	Gazer Man - 100.0%
 
 mt_gearweaponsmelee2h_d01.dbr
 	Ultos' Stormseeker - 7.9787234042553195%

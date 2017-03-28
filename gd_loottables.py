@@ -21,7 +21,7 @@ mastertables = {}
 debug = False
 
 #common, rare, epic, legendary
-tiers = {1: False, 2: True, 3: True, 4: True}
+tiers = {1: False, 2: False, 3: False, 4: False}
 
 def get_quality(line):
     if "_a0" in line or "_a1" in line:
@@ -303,6 +303,9 @@ def main():
                 elif " - " in line:
                     lines = True
                     split = line.rsplit(" - ")
+                    if "1.0" in split[1] and "potion" not in split[0] and "bristly" not in split[0] and "scrap" not in split[0] and "gear" not in split[0]:
+                        split[1] = "100.0%\n"
+                    
                     res.append("\t" + handle_direct(split[0]) + " - " + split[1])
                 else:
                     if "f_" in enemy:
