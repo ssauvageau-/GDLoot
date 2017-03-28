@@ -1,6 +1,5 @@
 import os
 
-
 root_base = r"C:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\database\records"
 
 root1 = r"\creatures\enemies"
@@ -22,7 +21,7 @@ mastertables = {}
 debug = False
 
 #common, rare, epic, legendary
-tiers = {1: False, 2: False, 3: False, 4: False}
+tiers = {1: False, 2: False, 3: True, 4: False}
 
 def get_quality(line):
     if "_a0" in line or "_a1" in line:
@@ -71,7 +70,7 @@ def get_name_for_item(record):
                     style = item_names[split[1]]
                 elif "Quality" in line:
                     style = item_names[split[1]]
-                elif "Name" in line:
+                elif "Name" in line or ("Booster" in line and "Desc" not in line):
                     name = item_names[split[1]]
     return (style + " " + name).strip()
 
@@ -99,7 +98,10 @@ def build_tdyn(tdyn):
     for line in f:
         if "lootName" in line and ",," not in line:
             split = line.rsplit(",")
-            name = get_name_for_item(split[1])
+            if "tdyn_constitution" in tdyn:
+                name = "Vital Essence/Food Ration"
+            else:
+                name = get_name_for_item(split[1])
             loot[split[0]] = {"name": name, "weight": 0}
         elif "lootWeight" in line and ",," not in line and ",0," not in line:
             split = line.rsplit(",")
@@ -138,7 +140,10 @@ def handle_tdyn(inpt, chance):
     res = []
     if len(tdyn) == 1:
         for key in tdyn:
-            res.append("\t" + tdyn[key]["name"] + " - " + chance + "%")
+            if "tdyn_constitution" not in inpt:
+                res.append("\t" + tdyn[key]["name"] + " - " + chance + "%")
+            else:
+                res.append("\t" + tdyn[key]["name"] + " - " + str(float(chance) * 100.0) + "%")
     else:
         sum1 = 0
         for key in tdyn:
@@ -148,10 +153,9 @@ def handle_tdyn(inpt, chance):
     return res
     
 def handle_master(mt, chance):
-    master = mastertables[mt]
     sum1 = 0.0
+    master = mastertables[mt]
     res = []
-    res.append("From " + mt + " with " + chance + "% chance to use")
     for key in master:
         sum1 += float(master[key]["weight"])
     for key in master:
@@ -159,11 +163,14 @@ def handle_master(mt, chance):
         weight1 = float(master[key]["weight"])
         sum2 = 0.0
         sub = master[key]["loot"]
-        for key2 in sub:
-            sum2 += float(sub[key2]["weight"])
-        for key2 in sub:
-            sub[key2]["weight"] = float(sub[key2]["weight"])/sum2
-            sub[key2]["weight"] = float(sub[key2]["weight"])*(weight1*float(chance))
+        try:
+            for key2 in sub:
+                sum2 += float(sub[key2]["weight"])
+            for key2 in sub:
+                sub[key2]["weight"] = float(sub[key2]["weight"])/sum2
+                sub[key2]["weight"] = float(sub[key2]["weight"])*(weight1*float(chance))
+        except:
+            return ""
     for key in master:
         for key2 in master[key]["loot"]:
             res.append("\t" + master[key]["loot"][key2]["name"] + " - " + str(master[key]["loot"][key2]["weight"]) + "%")
@@ -188,7 +195,6 @@ def handle_enemy(enemy):
             "chanceToEquipMisc2": {"chance": 0},
             "chanceToEquipMisc3": {"chance": 0}
              }
-             
     for line in f:
         if "chanceToEquip" in line and not ",0.000000," in line and not "Item" in line:
             changed = True
@@ -227,6 +233,16 @@ def handle_enemy(enemy):
                                     print("Error with " + after(enemy, "database") + " - " + str(e))
                                 else:
                                     continue
+                elif len(ddict[key]) == 3:
+                    for entry in ddict[key]:
+                        if "Item" in entry and "loot" not in entry:
+                            try:
+                                output.append(ddict[key]["lootItem" + str(after(entry, "Item")[4:])] + " - " + str(ddict[key]["chance"]) + "%\n")
+                            except KeyError as e:
+                                if debug:
+                                    print("Error with " + after(enemy, "database") + " - " + str(e))
+                                else:
+                                    continue
         return output
     else:
         return []
@@ -246,7 +262,7 @@ def main():
     for line in open(enemy_fn):
         if "=" in line:
             string = line.rsplit("=")
-            enemy_names[string[0]] = string[1]
+            enemy_names[string[0]] = string[1].strip()
     for line in open(item_fn):
         if "=" in line:
             string = line.rsplit("=")
@@ -264,35 +280,53 @@ def main():
             mastertables[name] = build_master("/records" + root2 + "\\" + name)
     with open(get_output(), 'w') as out:
         for enemy in enemies:
-            res = ""
+            res = []
             lines = False
+            name = ""
             for line in handle_enemy(enemy):
                 chance = 0.0
-                if "mt_hu_" in line or "crafting_blueprints" in line:
-                    continue
                 if " - " in line:
                     chance = after(line, " - ").rsplit("%")[0][3:]
                 if "mastertables" in line:
                     quality = get_quality(line)
                     if quality:
                         lines = True
-                        prior = before(line, " - ").rsplit("/")
-                        for line in handle_master(prior[len(prior) - 1], chance):
-                            res += line + "\n"
+                        split = line.rsplit("/")
+                        res.append("\t" + chance + " chance to roll an item from table " + before(split[len(split) - 1], " - ") + "\n")
                 elif "tdyn" in line:
                     quality = get_quality(line)
                     if quality:
                         lines = True
                         for line in handle_tdyn(before(line, " - "), chance):
-                            res += line + "\n"
+                            res.append(line + "\n")
                 elif " - " in line:
                     lines = True
                     split = line.rsplit(" - ")
-                    res += "\t" + handle_direct(split[0]) + " - " + split[1]
+                    res.append("\t" + handle_direct(split[0]) + " - " + split[1])
                 else:
-                    res += line.strip() + "\n"
-            if lines:
-                out.write(res + "\n")
+                    if "f_" in enemy:
+                        name += line.strip() + " - Female\n"
+                    else:
+                        name += line.strip() + "\n"
+            if lines and name != "\n":
+                out.write(name + "\n")
+                for line in sorted(res):
+                    out.write(line)
+                out.write("\n")
+        for table in mastertables:
+            out.write(table + "\n")
+            if "mt_crafting_bloodchthon_a01" in table:
+                out.write("\tBlood of Ch'thon - 100%\n")
+            elif "mt_crafting_ancientheart_a01" in table:
+                out.write("\tAncient Heart - 100%\n")
+            elif "mt_crafting_cultistsigil_a01" in table:
+                out.write("\tChthonic Seal of Binding - 100%\n")
+            elif "mt_crafting_taintedbrain_a01" in table:
+                out.write("\tTainted Brain Matter - 100%\n")
+            else:
+                for line in handle_master(table, "1.0"):
+                    out.write(line + "\n")
+            out.write("\n")
         out.close()
         
 if __name__ == '__main__':
