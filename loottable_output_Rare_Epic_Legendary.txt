@@ -1442,7 +1442,7 @@ Cronley's Gang ~ Heretic - Female
 	0.047118624707293395 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	0.051755961289035216 chance to roll an item from table mt_hu_equippedreduced_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Scrap - 0.003%
+	Scrap - 0.3%
 
 Cronley's Gang ~ Heretic
 
@@ -1458,7 +1458,7 @@ Cronley's Gang ~ Heretic
 	0.047118624707293395 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	0.051755961289035216 chance to roll an item from table mt_hu_equippedreduced_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Scrap - 0.003%
+	Scrap - 0.3%
 
 Cronley's Gang ~ Lackey - Female
 
@@ -1529,7 +1529,7 @@ Cronley's Gang ~ Murderer - Female
 	Murderer's Cowl - 2.0%
 	Murderer's Epaulets - 10.277638997930199%
 	Murderer's Spaulders - 49.67525515666262%
-	Scrap - 0.005%
+	Scrap - 0.5%
 
 Cronley's Gang ~ Murderer
 
@@ -1549,7 +1549,7 @@ Cronley's Gang ~ Murderer
 	Murderer's Cowl - 2.0%
 	Murderer's Epaulets - 10.277638997930199%
 	Murderer's Spaulders - 49.67525515666262%
-	Scrap - 0.005%
+	Scrap - 0.5%
 
 Cronley's Gang ~ Gunman - Female
 
@@ -1741,14 +1741,14 @@ Manticore Nightstalker
 	0.005789054329963648 chance to roll an item from table mt_beast_small_d01.dbr
 	0.05471590060255963 chance to roll an item from table mt_beast_small_c01.dbr
 	1.8674368806334345 chance to roll an item from table mt_hu_miscconstitution_b01.dbr
-	Manticore Eye - 0.015%
+	Manticore Eye - 1.5%
 
 Manticore Alpha
 
 	0.006114757780717298 chance to roll an item from table mt_beast_small_d01.dbr
 	0.05241220954900542 chance to roll an item from table mt_beast_small_c01.dbr
 	4.367684129083784 chance to roll an item from table mt_hu_miscconstitution_b01.dbr
-	Manticore Eye - 0.04%
+	Manticore Eye - 4.0%
 
 Manticore Whitemane
 
@@ -1767,28 +1767,28 @@ Fleshwarped Wastestalker
 	0.005789054329963648 chance to roll an item from table mt_beast_small_d01.dbr
 	0.05471590060255963 chance to roll an item from table mt_beast_small_c01.dbr
 	1.8674368806334345 chance to roll an item from table mt_hu_miscconstitution_b01.dbr
-	Manticore Eye - 0.02%
+	Manticore Eye - 2.0%
 
 Fleshwarped Aethermane
 
 	0.006114757780717298 chance to roll an item from table mt_beast_small_d01.dbr
 	0.05241220954900542 chance to roll an item from table mt_beast_small_c01.dbr
 	4.367684129083784 chance to roll an item from table mt_hu_miscconstitution_b01.dbr
-	Manticore Eye - 0.055%
+	Manticore Eye - 5.5%
 
 Manticore Wastestalker
 
 	0.005789054329963648 chance to roll an item from table mt_beast_small_d01.dbr
 	0.05471590060255963 chance to roll an item from table mt_beast_small_c01.dbr
 	1.8674368806334345 chance to roll an item from table mt_hu_miscconstitution_b01.dbr
-	Manticore Eye - 0.015%
+	Manticore Eye - 1.5%
 
 Manticore Alpha
 
 	0.006114757780717298 chance to roll an item from table mt_beast_small_d01.dbr
 	0.05241220954900542 chance to roll an item from table mt_beast_small_c01.dbr
 	4.367684129083784 chance to roll an item from table mt_hu_miscconstitution_b01.dbr
-	Manticore Eye - 0.04%
+	Manticore Eye - 4.0%
 
 Festerborn Bloodgorger
 
@@ -2782,7 +2782,7 @@ Venomwing Queen
 	0.2045772771768088 chance to roll an item from table mt_beast_small_c01.dbr
 	3.2216894043591937 chance to roll an item from table mt_hu_miscconstitution_b01.dbr
 	Battered Shell - 0.435%
-	Royal Jelly - 0.05%
+	Royal Jelly - 5.0%
 
 Poison Wind Devil
 
@@ -2906,7 +2906,7 @@ Walking Dead
 
 	0.004991182244701028 chance to roll an item from table mt_hu_miscall_d01.dbr
 	0.04791534954912987 chance to roll an item from table mt_hu_miscall_c01.dbr
-	Tonic of Mending - 1.0%
+	Tonic of Mending - 100.0%
 
 Walking Dead
 
@@ -2980,11 +2980,11 @@ Rotting Soldier
 	0.008570571514277144 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.01499678640291366 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	0.02617442135832783 chance to roll an item from table mt_hu_miscall_c01.dbr
-	Scrap - 0.045%
+	Scrap - 4.5%
 
 Walking Dead
 
-	Scrap - 0.045%
+	Scrap - 4.5%
 
 Rotting Soldier
 
@@ -3001,7 +3001,7 @@ Rotting Emberguard
 	0.0018710474123414288 chance to roll an item from table mt_hu_miscall_d01.dbr
 	0.008822621200758746 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.01920942010003867 chance to roll an item from table mt_hu_miscall_c01.dbr
-	Scrap - 0.045%
+	Scrap - 4.5%
 	Searing Ember - 0.22105263157894736%
 
 Rotting Emberguard
@@ -3052,7 +3052,7 @@ The Amalgamation
 
 	Mutagenic Ichor - 12.375%
 	Pulsing Shard - 24.75%
-	Tainted Brain Matter - 0.2%
+	Tainted Brain Matter - 20.0%
 
 Commander Lucius
 
@@ -3064,36 +3064,36 @@ Herald of the Flame
 
 	Aether Cluster - 3.0%
 	Aether Shard - 7.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Herald of Destruction
 
 	Aether Cluster - 3.0%
 	Aether Shard - 7.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Herald of the Stars
 
 	Aether Cluster - 3.0%
 	Aether Shard - 7.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Venarius, the Backbreaker
 
-	Tainted Brain Matter - 0.15%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 15.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Jarren the Plaguewarped
 
 	Aetherwarped Cleaver - 70.55%
 	Tainted Brain Matter - 14.45%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Overlord Van Aldritch
 
 	Decree of Aldritch - 1.6666666666666667%
 	Scepter of Aldritch - 3.3333333333333335%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Watcher Ygraad
 
@@ -3121,10 +3121,10 @@ Darius Cronley
 	0.005710370031978072 chance to roll an item from table mt_accessories_rings_d01.dbr
 	0.06281407035175879 chance to roll an item from table mt_accessories_rings_c01.dbr
 	Cronley's Signet - 42.82777523983554%
-	Flanged Mace - 1.0%
+	Flanged Mace - 100.0%
 	Scrap - 80.0%
 	Tainted Brain Matter - 20.0%
-	War Shield - 1.0%
+	War Shield - 100.0%
 
 Nicholas Balthazar
 
@@ -3134,11 +3134,11 @@ Nicholas Balthazar
 	0.999000999000999 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	10.0 chance to roll an item from table mt_crafting_blueprints_b02.dbr
 	Scrap - 90.0%
-	Spaulders - 1.0%
+	Spaulders - 100.0%
 
 Edmund "Shanks" Doyle
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Silas "The Skinner"
 
@@ -3155,7 +3155,7 @@ Dravko "The Torch"
 	0.999000999000999 chance to roll an item from table mt_gearweaponsranged1h_c01.dbr
 	Dynamite - 30.0%
 	Scrap - 70.0%
-	Shoulderguard - 1.0%
+	Shoulderguard - 100.0%
 
 "Madman" Wilcox
 
@@ -3174,7 +3174,7 @@ Sleyvak "The Breaker"
 	0.999000999000999 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Dynamite - 30.0%
 	Scrap - 70.0%
-	Spaulders - 1.0%
+	Spaulders - 100.0%
 
 "Boomer" Slocum
 
@@ -3191,7 +3191,7 @@ Ashe "The Wall" Farrell
 	0.999000999000999 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Dynamite - 30.0%
 	Scrap - 70.0%
-	Spaulders - 1.0%
+	Spaulders - 100.0%
 
 "Moneybags" Martin
 
@@ -3225,8 +3225,8 @@ Boris, Master of the Pit
 
 Rag'Nadar, the Great Maw
 
-	Blood of Ch'thon - 0.15%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 15.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Chthonian Hungerer
 
@@ -3250,48 +3250,48 @@ Harak'Bargoth, Guardian of the Bastion
 
 	0.09891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_d01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 	Obsidian Headsplitter - 93.96636993076162%
 	Obsidian War Cleaver - 4.945598417408506%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Ballog'Nath, the Hellfire
 
-	1.0 chance to roll an item from table mt_hu_miscconstitution_b01.dbr
+	100.0 chance to roll an item from table mt_hu_miscconstitution_b01.dbr
 
 Bane'Galgalor, Guardian of the Gates
 
-	Blood of Ch'thon - 0.15%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 15.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Balok'Anatu, Bloodfiend
 
-	Blood of Ch'thon - 0.15%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 15.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Zal'Naroth, Guardian of the Bastion
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Chthonian Unraveler
 
-	Blood of Ch'thon - 0.04%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Galar'Bargok, the Black Fiend
 
-	Blood of Ch'thon - 0.08%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 8.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Lagoth'Ak, Harbinger of Blood
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.2%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 20.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Lagoth'Ak, Harbinger of Blood
 
@@ -3301,16 +3301,16 @@ Lagoth'Ak, Harbinger of Blood
 Shar'Zul, Harbinger of Chaos
 
 	10.0 chance to roll an item from table mt_gearweaponsmelee2h_d03_sharzul.dbr
-	Blood of Ch'thon - 0.25%
+	Blood of Ch'thon - 25.0%
 	Obsidian Headsplitter - 90.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Sharanatu, Harbinger of the Void
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.15%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 15.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Salazar, Blade of Ch'thon
 
@@ -3321,7 +3321,7 @@ Salazar, Blade of Ch'thon
 	0.09891196834817013 chance to roll an item from table mt_gearweaponsmeleeswords1h_d01.dbr
 	0.09989012086704625 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmeleeswords1h_c01.dbr
-	Blood of Ch'thon - 0.22%
+	Blood of Ch'thon - 22.0%
 	Salazar's Sovereign Blade - 22.608449908153172%
 	Shoulderguard - 99.93147555961626%
 
@@ -3370,10 +3370,10 @@ Zaria, the Carver
 Thall'Nosh, the Unraveler
 
 	Blood of Ch'thon - 20.0%
-	Bloodsworn Signet - 0.3%
+	Bloodsworn Signet - 30.0%
 	Bloodsworn Signet - 30.0%
 	Chthonic Seal of Binding - 30.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Bloodlord Thalonis
 
@@ -3388,7 +3388,7 @@ Bloodlord Thalonis
 
 Rashalga, the Mad Queen
 
-	1.0 chance to roll an item from table mt_hu_miscconstitution_b01.dbr
+	100.0 chance to roll an item from table mt_hu_miscconstitution_b01.dbr
 	5.98 chance to roll an item from table mt_gearweaponsmeleeswords1h_d02_madqueen.dbr
 	Ancient Heart - 20.02%
 	Rigid Shell - 15.0%
@@ -3396,7 +3396,7 @@ Rashalga, the Mad Queen
 
 Swarm Queen Ravna
 
-	1.0 chance to roll an item from table mt_hu_miscconstitution_b01.dbr
+	100.0 chance to roll an item from table mt_hu_miscconstitution_b01.dbr
 	Ancient Heart - 20.02%
 	Empowered Ravna's Guard - 2.99%
 	Ravna's Guard - 2.99%
@@ -3405,7 +3405,7 @@ Swarm Queen Ravna
 
 Grand Vizier Lozakal
 
-	1.0 chance to roll an item from table mt_hu_miscconstitution_b01.dbr
+	100.0 chance to roll an item from table mt_hu_miscconstitution_b01.dbr
 	Ancient Heart - 5.0%
 	Dermapteran Claw - 70.0%
 	Dermapteran Slicer - 25.0%
@@ -3414,7 +3414,7 @@ Grand Vizier Lozakal
 
 Grand Vizier Inixil
 
-	1.0 chance to roll an item from table mt_hu_miscconstitution_b01.dbr
+	100.0 chance to roll an item from table mt_hu_miscconstitution_b01.dbr
 	Ancient Heart - 5.0%
 	Dermapteran Claw - 70.0%
 	Dermapteran Slicer - 25.0%
@@ -3423,7 +3423,7 @@ Grand Vizier Inixil
 
 Hive Guard Anoxis, the Tainted
 
-	1.0 chance to roll an item from table mt_hu_miscconstitution_b01.dbr
+	100.0 chance to roll an item from table mt_hu_miscconstitution_b01.dbr
 	Ancient Heart - 5.0%
 	Dermapteran Claw - 70.0%
 	Dermapteran Slicer - 25.0%
@@ -3438,84 +3438,84 @@ Bloodfeast the Ruthless
 
 Baros Wradlith, Lord of the Lost Souls
 
-	0.05 chance to roll an item from table mt_crafting_blueprints_b03.dbr
+	5.0 chance to roll an item from table mt_crafting_blueprints_b03.dbr
 	Spectral Shield - 92.0%
 	Spectral War Shield - 8.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Wraith of Sorrows
 
 	5.0 chance to roll an item from table mt_crafting_blueprints_b02.dbr
 	Spectral Crown - 15.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Noveria Stormfire
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Nomos Dred
 
 	Spectral Shield - 75.0%
 	Spectral War Shield - 25.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Laudos Vagra
 
 	Spectral Shield - 75.0%
 	Spectral War Shield - 25.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Rhovena Kur
 
 	Spectral Arbalest - 25.0%
 	Spectral Crossbow - 75.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Alkamos, Lord Executioner
 
 	Alkamos' Agony - 2.2222222222222223%
 	Alkamos' Anguish - 2.7777777777777777%
 	Alkamos' Dread - 2.7777777777777777%
-	Alkamos' Scythe - 0.4117647058823529%
+	Alkamos' Scythe - 41.1764705882353%
 	Alkamos' Torment - 2.2222222222222223%
-	Alkamos' Warsword - 0.5882352941176471%
-	Vital Essence/Food Ration - 100.0%
+	Alkamos' Warsword - 58.8235294117647%
+	Vital Essence/Food Ration - 10000.0%
 
 Alkamos, Lord Executioner
 
-	0.1 chance to roll an item from table mt_accessories_rings_d02_alkamos.dbr
+	10.0 chance to roll an item from table mt_accessories_rings_d02_alkamos.dbr
 	5.0 chance to roll an item from table mt_gearweaponsmelee2h_d02_alkamos.dbr
 	Alkamos' Scythe - 39.11764705882353%
 	Alkamos' Warsword - 55.88235294117647%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Nacrathan, the Timeless
 
-	0.1 chance to roll an item from table mt_crafting_blueprints_b03.dbr
-	Vital Essence/Food Ration - 100.0%
+	10.0 chance to roll an item from table mt_crafting_blueprints_b03.dbr
+	Vital Essence/Food Ration - 10000.0%
 
 Harvoul, the Earthshaker
 
-	0.1 chance to roll an item from table mt_crafting_blueprints_b03.dbr
-	Vital Essence/Food Ration - 100.0%
+	10.0 chance to roll an item from table mt_crafting_blueprints_b03.dbr
+	Vital Essence/Food Ration - 10000.0%
 
 Plagius, the Decrepit
 
-	0.1 chance to roll an item from table mt_crafting_blueprints_b03.dbr
-	Vital Essence/Food Ration - 100.0%
+	10.0 chance to roll an item from table mt_crafting_blueprints_b03.dbr
+	Vital Essence/Food Ration - 10000.0%
 
 Plagius, the Decrepit
 
-	0.1 chance to roll an item from table mt_crafting_blueprints_b03.dbr
-	Vital Essence/Food Ration - 100.0%
+	10.0 chance to roll an item from table mt_crafting_blueprints_b03.dbr
+	Vital Essence/Food Ration - 10000.0%
 
 Ancient Shambler
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Ancient Shambler
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Narbalgal, the Stormseeker
 
@@ -3525,17 +3525,17 @@ Narbalgal, the Stormseeker
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	Groble Sky Effigy - 23.73887240356083%
 	Groble Sky Idol - 75.1730959446093%
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Grundleplith the Hoarder
 
 	Bristly Fur - 2.8%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Lutra the Abandoned
 
-	Ancient Heart - 0.02%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Bloodsworn Priest - Female
 
@@ -3557,7 +3557,7 @@ Bloodsworn Priest - Female
 	Bloodsworn Scepter - 4.282777523983554%
 	Bloodsworn Tome - 99.2304287611188%
 	Bloodsworn Wand - 95.6486980356327%
-	Chthonic Seal of Binding - 0.2%
+	Chthonic Seal of Binding - 20.0%
 	Spaulders - 39.93211540381352%
 
 Bloodsworn Doomsayer - Female
@@ -3580,7 +3580,7 @@ Bloodsworn Doomsayer - Female
 	Bloodsworn Robes - 46.74898294197416%
 	Bloodsworn Tome - 99.2304287611188%
 	Bloodsworn Vestments - 3.211762186853187%
-	Chthonic Seal of Binding - 0.15%
+	Chthonic Seal of Binding - 15.0%
 	Spaulders - 39.93211540381352%
 
 Bloodsworn Priest
@@ -3603,7 +3603,7 @@ Bloodsworn Priest
 	Bloodsworn Scepter - 4.282777523983554%
 	Bloodsworn Tome - 99.2304287611188%
 	Bloodsworn Wand - 95.6486980356327%
-	Chthonic Seal of Binding - 0.2%
+	Chthonic Seal of Binding - 20.0%
 	Spaulders - 39.93211540381352%
 
 Bloodsworn Doomsayer
@@ -3626,7 +3626,7 @@ Bloodsworn Doomsayer
 	Bloodsworn Robes - 46.74898294197416%
 	Bloodsworn Tome - 99.2304287611188%
 	Bloodsworn Vestments - 3.211762186853187%
-	Chthonic Seal of Binding - 0.15%
+	Chthonic Seal of Binding - 15.0%
 	Spaulders - 39.93211540381352%
 
 Loxmere Nightmage
@@ -3650,8 +3650,8 @@ Loxmere Nightmage
 	Haunted Vestment - 97.00644183402804%
 	Loxmere's Frostblade - 19.31123270035404%
 	Loxmere's Frostblade - 19.663535066637536%
-	Tainted Brain Matter - 0.1%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 10.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Noveria Stormfire
 
@@ -3673,8 +3673,8 @@ Noveria Stormfire
 	Ascended Mantle - 89.46044171093095%
 	Ascended Robes - 26.675929142063218%
 	Ascended Vestment - 2.5008683570684265%
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Archivist Thelon
 
@@ -3696,13 +3696,13 @@ Archivist Thelon
 	Ascended Mantle - 89.46044171093095%
 	Ascended Robes - 26.675929142063218%
 	Ascended Vestment - 2.5008683570684265%
-	Tainted Brain Matter - 0.08%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 8.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Mogara, the Prime Matriarch
 
-	1.0 chance to roll an item from table mt_hu_miscconstitution_b01.dbr
-	Manticore Eye - 0.28%
+	100.0 chance to roll an item from table mt_hu_miscconstitution_b01.dbr
+	Manticore Eye - 28.000000000000004%
 
 Milton Hart
 
@@ -3715,14 +3715,14 @@ Milton Hart
 	0.06281407035175879 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Milton's Casque - 14.27592507994518%
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Bane'Gargoth
 
 	Blood of Ch'thon - 22.0%
 	Obsidian Bulwark - 25.0%
 	Obsidian Guard - 53.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Ikrix, the Ravener
 
@@ -3732,29 +3732,29 @@ Ikrix, the Ravener
 
 Pusquill the Hoarder
 
-	Bernard's Slightly-Chewed Buckler - 1.0%
+	Bernard's Slightly-Chewed Buckler - 100.0%
 	Bristly Fur - 2.76%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Kyzogg the Reanimator
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Nazagrad, the Fallen
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Chilldread
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Gethrand, the Betrayed
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Zanbrandt, the Ascended
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Kalis Ka, the Bonehunter
 
@@ -3767,13 +3767,13 @@ Ilgorr, the Eternal
 
 	Corpse Dust - 5.0%
 	Restless Remains - 10.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Uroboruuk's Guardian
 
 	Corpse Dust - 1.5%
 	Restless Remains - 3.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 High Priest Rolderathis
 
@@ -3786,7 +3786,7 @@ High Priest Rolderathis
 	Rolderathis - 2nd Entry - 30.0%
 	Rolderathis' Tome - 24.727992087042534%
 	Sanctified Bone - 3.6%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Robert
 
@@ -3809,7 +3809,7 @@ Ryan
 Shade of Elnadrin
 
 	Corpse Dust - 9.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Grand Priest Zarthuzellan
 
@@ -3819,13 +3819,13 @@ Grand Priest Zarthuzellan
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
 	Corpse Dust - 5.4%
 	Sanctified Bone - 3.6%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 	Zarthuzellan's Codex - 24.727992087042534%
 
 Death Revenant
 
 	Corpse Dust - 9.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Kilrian, the Tainted Soul
 
@@ -3834,9 +3834,9 @@ Kilrian, the Tainted Soul
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
 	0.999000999000999 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Corpse Dust - 5.4%
-	Kilrian's Shattered Soul - 0.45%
+	Kilrian's Shattered Soul - 45.0%
 	Kilrian's Skullbreaker - 24.727992087042534%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Ellena, the First Slith
 
@@ -3857,10 +3857,10 @@ Gutworm, the Maneater
 
 Ol' Bloodbriar
 
-	Ancient Heart - 0.15%
+	Ancient Heart - 15.0%
 	Serrated Spike - 3.6%
 	Vicious Spikes - 2.4%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Harrath the Slaughterer
 
@@ -3871,7 +3871,7 @@ Harrath the Slaughterer
 	Fleshwarped Bulwark - 49.95919998667755%
 	Fleshwarped Shield - 49.95919998667755%
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.15%
+	Tainted Brain Matter - 15.0%
 
 Mistborn Brute - Female
 
@@ -3900,11 +3900,11 @@ Gollus, the Deepdweller - Female
 
 	15.0 chance to roll an item from table mt_crafting_blueprints_b03.dbr
 	Ancient Heart - 15.0%
-	Gollus' Ring - 0.35%
+	Gollus' Ring - 35.0%
 
 Gulgoth, the Rampaging
 
-	Ancient Heart - 0.15%
+	Ancient Heart - 15.0%
 	Troll Bonecrusher - 25.0%
 	Troll Bonesmasher - 75.0%
 
@@ -3912,7 +3912,7 @@ Voldrak, the Destroyer
 
 	10.0 chance to roll an item from table mt_crafting_blueprints_b03.dbr
 	Ancient Heart - 15.0%
-	Blueprint: Relic - Mistborn Talisman - 0.18%
+	Blueprint: Relic - Mistborn Talisman - 18.0%
 	Troll Bonecrusher - 25.0%
 	Troll Bonesmasher - 75.0%
 
@@ -3920,7 +3920,7 @@ Balegor, the Swamp King
 
 	10.0 chance to roll an item from table mt_crafting_blueprints_b03.dbr
 	Ancient Heart - 15.0%
-	Blueprint: Relic - Mistborn Talisman - 0.18%
+	Blueprint: Relic - Mistborn Talisman - 18.0%
 	Troll Bonecrusher - 25.0%
 	Troll Bonesmasher - 75.0%
 
@@ -3932,8 +3932,8 @@ Viloth, the Corruptor
 
 Warden Krieg
 
-	Tainted Brain Matter - 0.2%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 20.0%
+	Vital Essence/Food Ration - 10000.0%
 	Warden's Bulwark - 75.0%
 	Warden's Fortress - 25.0%
 	Warden's Judgement - 25.0%
@@ -3943,101 +3943,101 @@ Ulraprax, the Hive Matriarch
 
 	Battered Shell - 1.2%
 	Royal Jelly - 100.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Ronaprax, the Grand Queen
 
 	Battered Shell - 1.2%
 	Royal Jelly - 100.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Nur'Garu, Jaws of Oblivion
 
-	Blood of Ch'thon - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Sargo'Din, the Hungering Maw
 
-	Blood of Ch'thon - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Narl'Maash, the Engorged
 
-	Blood of Ch'thon - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Shar'Oruuth
 
 	0.09891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_d01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 	Obsidian Headsplitter - 93.96636993076162%
 	Obsidian War Cleaver - 4.945598417408506%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Wen'Kazul, the Hungering Blade
 
 	0.09891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_d01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 	Obsidian Headsplitter - 93.96636993076162%
 	Obsidian War Cleaver - 4.945598417408506%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Jugak'Siin ~ Reflective
 
 	0.09891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_d01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 	Obsidian Headsplitter - 93.96636993076162%
 	Obsidian War Cleaver - 4.945598417408506%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Sen'Thel Voidbringer
 
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Nii'Thel ~ Bruiser
 
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Vom'Anatu
 
-	Blood of Ch'thon - 0.04%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Ekket'Anatu
 
-	Blood of Ch'thon - 0.04%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Yakwa'Anatu ~ Unstoppable
 
-	Blood of Ch'thon - 0.04%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Fos'Daroth
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Ordran'Daroth
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Pulv'Daroth
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Fleshwarped Butcher
 
@@ -4089,27 +4089,27 @@ Rotting Emberguard
 	0.008822621200758746 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.02219617427737736 chance to roll an item from table mt_hu_miscall_c01.dbr
 	Molten Skin - 0.25500000000000006%
-	Scrap - 0.08%
+	Scrap - 8.0%
 
 Bonebreaker
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Faldonir Aetherborn
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Malnotris ~ Unstoppable
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Festerlis ~ Bruiser
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Allara Starfire
 
@@ -4131,8 +4131,8 @@ Allara Starfire
 	Ascended Mantle - 89.46044171093095%
 	Ascended Robes - 26.675929142063218%
 	Ascended Vestment - 2.5008683570684265%
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Aetherblaze
 
@@ -4154,8 +4154,8 @@ Aetherblaze
 	Ascended Mantle - 89.46044171093095%
 	Ascended Robes - 26.675929142063218%
 	Ascended Vestment - 2.5008683570684265%
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Kamladris, the Rimeheart
 
@@ -4177,85 +4177,85 @@ Kamladris, the Rimeheart
 	Ascended Mantle - 89.46044171093095%
 	Ascended Robes - 26.675929142063218%
 	Ascended Vestment - 2.5008683570684265%
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Shar'Oruuth
 
 	0.09891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_d01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 	Obsidian Headsplitter - 93.96636993076162%
 	Obsidian War Cleaver - 4.945598417408506%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Wen'Kazul, the Hungering Blade
 
 	0.09891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_d01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 	Obsidian Headsplitter - 93.96636993076162%
 	Obsidian War Cleaver - 4.945598417408506%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Sarmaz'Din ~ Frozen
 
 	0.09891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_d01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 	Obsidian Headsplitter - 93.96636993076162%
 	Obsidian War Cleaver - 4.945598417408506%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Charn'Daroth
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Fos'Daroth
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Maga'Lugal ~ Defender
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Bonebreaker
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Faldonir Aetherborn
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Festerlis ~ Bruiser
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Darlax, Devourer of Dreams
 
 	Gazer Eye - 87.5%
 	Overseer Eye - 10.0%
 	Tainted Brain Matter - 2.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Beholdan ~ Reflective
 
 	Gazer Eye - 87.5%
 	Overseer Eye - 10.0%
 	Tainted Brain Matter - 2.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Allara Starfire
 
@@ -4277,8 +4277,8 @@ Allara Starfire
 	Ascended Mantle - 81.07352530053117%
 	Ascended Robes - 24.17506078499479%
 	Ascended Vestment - 5.001736714136853%
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Aetherblaze
 
@@ -4300,8 +4300,8 @@ Aetherblaze
 	Ascended Mantle - 81.07352530053117%
 	Ascended Robes - 24.17506078499479%
 	Ascended Vestment - 5.001736714136853%
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Kamladris, the Rimeheart
 
@@ -4323,8 +4323,8 @@ Kamladris, the Rimeheart
 	Ascended Mantle - 81.07352530053117%
 	Ascended Robes - 24.17506078499479%
 	Ascended Vestment - 5.001736714136853%
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Sulkarr, the Stormtouched
 
@@ -4341,7 +4341,7 @@ Sulkarr, the Stormtouched
 	Fleshwarped Shield - 89.9370440691516%
 	Fleshwarped Spaulders - 90.0%
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Horcris, the Terror
 
@@ -4358,7 +4358,7 @@ Horcris, the Terror
 	Fleshwarped Shield - 89.9370440691516%
 	Fleshwarped Spaulders - 90.0%
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Corruptis
 
@@ -4375,7 +4375,7 @@ Corruptis
 	Fleshwarped Shield - 89.9370440691516%
 	Fleshwarped Spaulders - 90.0%
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Crimson Bane
 
@@ -4400,91 +4400,91 @@ Aldanar, the Undying
 
 Narl'Maash, the Engorged
 
-	Blood of Ch'thon - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Nye'Kazul, the Maw of Fire
 
-	Blood of Ch'thon - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Waban'Ak, the Sparkmaw
 
-	Blood of Ch'thon - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Hiln'Raz, the Dark Omen
 
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Sen'Thel Voidbringer
 
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Gurgoth'Siin ~ Burning
 
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Orudin'Anatu ~ Diseased
 
-	Blood of Ch'thon - 0.04%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Yakwa'Anatu ~ Unstoppable
 
-	Blood of Ch'thon - 0.04%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Elnar'Daroth
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Ordran'Daroth
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Pulv'Daroth
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Death Revenant
 
 	Corpse Dust - 9.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Valavan, the Wandering Soul
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Rosena Malgos ~ Regenerator
 
 	Spectral Arbalest - 5.0%
 	Spectral Crossbow - 95.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Oldrakan Pald ~ Swift
 
 	Spectral War Axe - 95.0%
 	Spectral Warmaul - 5.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Aetherwraith ~ Corrupted
 
 	Spectral War Axe - 95.0%
 	Spectral Warmaul - 5.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Tenebris, the Blood Drinker
 
@@ -4492,14 +4492,14 @@ Tenebris, the Blood Drinker
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeswords1h_c01.dbr
 	1.5 chance to roll an item from table mt_gearweaponsmelee2h_c02_tenebris.dbr
 	Corpse Dust - 9.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Balrazar, Eternal Servant of Dreeg
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmeleeblunt1h_d01.dbr
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
 	Corpse Dust - 9.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Harros Dred, the Damned
 
@@ -4508,7 +4508,7 @@ Harros Dred, the Damned
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
 	0.999000999000999 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Corpse Dust - 9.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Hellwraith ~ Burning
 
@@ -4517,7 +4517,7 @@ Hellwraith ~ Burning
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeaxes1h_c01.dbr
 	0.999000999000999 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Corpse Dust - 9.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Chillheart ~ Frozen
 
@@ -4526,33 +4526,33 @@ Chillheart ~ Frozen
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeswords1h_c01.dbr
 	0.999000999000999 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Corpse Dust - 9.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Bonebreaker
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Faldonir Aetherborn
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Igrixx, the Rimeheart
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Jaron, Lord of the Storm
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Lorkhan, Lord of the Deep
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Eidonax ~ Swift
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Abner, the Forsaken One
 
@@ -4560,7 +4560,7 @@ Abner, the Forsaken One
 	0.06648936170212766 chance to roll an item from table mt_gearweaponsshield_d01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Gastris, the Foul
 
@@ -4568,7 +4568,7 @@ Gastris, the Foul
 	0.06648936170212766 chance to roll an item from table mt_gearweaponsshield_d01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Alrick Magefire
 
@@ -4576,25 +4576,25 @@ Alrick Magefire
 	0.06648936170212766 chance to roll an item from table mt_gearweaponsshield_d01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Guardian of Bysmiel
 
 	Ancient Heart - 15.2%
 	Bysmiel-Sect Legguards - 24.8%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Guardian of Dreeg
 
 	Ancient Heart - 15.2%
 	Dreeg-Sect Legguards - 24.8%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Guardian of Solael
 
 	Ancient Heart - 15.2%
 	Solael-Sect Legguards - 24.8%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 The Sentinel
 
@@ -4605,7 +4605,7 @@ The Sentinel
 	10.2 chance to roll an item from table mt_geararmorhead_d03_witchgodguardian.dbr
 	3.4 chance to roll an item from table mt_geararmorhead_d04_witchgodcaster.dbr
 	Ancient Heart - 20.4%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Ragrathar Rageblood
 
@@ -4613,7 +4613,7 @@ Ragrathar Rageblood
 	Ancient Heart - 15.0%
 	Bristly Fur - 6.0%
 	Chipped Yeti Horn - 52.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 	Yeti Horn - 18.0%
 
 Barrog, the Bloodied
@@ -4647,7 +4647,7 @@ Farros, the Rotted
 	0.06648936170212766 chance to roll an item from table mt_gearweaponsshield_d01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Tainted Brain Matter - 0.01%
+	Tainted Brain Matter - 100.0%
 
 Jillius, the Decayed
 
@@ -4655,17 +4655,17 @@ Jillius, the Decayed
 	0.06648936170212766 chance to roll an item from table mt_gearweaponsshield_d01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Tainted Brain Matter - 0.01%
+	Tainted Brain Matter - 100.0%
 
 Neegan, the Withered
 
-	Mace - 1.0%
-	Tainted Brain Matter - 0.01%
+	Mace - 100.0%
+	Tainted Brain Matter - 100.0%
 
 Gluttrius'Maw
 
-	Blood of Ch'thon - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Sicrix, the Skittering
 
@@ -4676,10 +4676,10 @@ Sicrix, the Skittering
 
 Emberjaw
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Serrated Spike - 3.6%
 	Vicious Spikes - 2.4%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Harrath, the Returned
 
@@ -4690,7 +4690,7 @@ Harrath, the Returned
 	Fleshwarped Bulwark - 0.7137860640408856%
 	Fleshwarped Shield - 99.21626290168311%
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.15%
+	Tainted Brain Matter - 15.0%
 
 Padmanestia
 
@@ -4712,17 +4712,17 @@ Padmanestia
 	Ascended Mantle - 89.46044171093095%
 	Ascended Robes - 26.675929142063218%
 	Ascended Vestment - 2.5008683570684265%
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Corprus
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Luthus'Balok
 
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 "The Bruiser" Romanov
 
@@ -4730,7 +4730,7 @@ Luthus'Balok
 	0.017139674060531615 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
 	Murderer's Coif - 4.75%
 	Murderer's Cowl - 0.25%
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Bolla "The Raven"
 
@@ -4744,11 +4744,11 @@ Bolla "The Raven"
 	0.37513025356026397 chance to roll an item from table mt_geararmor_torsoall_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Slathra, the Plagued
 
-	Ancient Heart - 0.05%
+	Ancient Heart - 5.0%
 
 Ballior ~ Burning
 
@@ -4769,7 +4769,7 @@ Igor "The Brawler"
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
 	Ascended Shoulderplates - 30.0%
 	Ascended Spaulders - 70.0%
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Caspis, the Blooddrinker
 
@@ -4785,7 +4785,7 @@ Caspis, the Blooddrinker
 	0.3913894324853229 chance to roll an item from table mt_geararmorhead_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Blood of Ch'thon - 0.05%
+	Blood of Ch'thon - 5.0%
 	Spaulders - 14.677103718199609%
 
 Rostov, the Aetherflame
@@ -4798,23 +4798,23 @@ Rostov, the Aetherflame
 	Ascended Spaulders - 70.0%
 	Murderer's Coif - 4.75%
 	Murderer's Cowl - 0.25%
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Nalloth, the Frostbound
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Nucus'Dal
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Innu'Garbal
 
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Conastaria
 
@@ -4836,8 +4836,8 @@ Conastaria
 	Ascended Mantle - 89.46044171093095%
 	Ascended Robes - 26.675929142063218%
 	Ascended Vestment - 2.5008683570684265%
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Ludia Starfire
 
@@ -4859,12 +4859,12 @@ Ludia Starfire
 	Ascended Mantle - 89.46044171093095%
 	Ascended Robes - 26.675929142063218%
 	Ascended Vestment - 2.5008683570684265%
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Bogloth the Marrowdrinker
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Troll Bonecrusher - 5.0%
 	Troll Bonesmasher - 95.0%
 
@@ -4875,7 +4875,7 @@ The Locust
 	Dermapteran Slicer - 5.0%
 	Rigid Shell - 4.5%
 	Spined Carapace - 1.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Vizier Haxin
 
@@ -4884,11 +4884,11 @@ Vizier Haxin
 	Dermapteran Slicer - 5.0%
 	Rigid Shell - 4.5%
 	Spined Carapace - 1.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Glukrog Lifedrinker
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Boneblade - 2.5%
 	Bonecarver - 47.5%
 	Bonecleaver - 47.5%
@@ -4898,8 +4898,8 @@ Glukrog Lifedrinker
 
 Phabius
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Holvuur Bonespeaker
 
@@ -4907,7 +4907,7 @@ Holvuur Bonespeaker
 	0.005710370031978072 chance to roll an item from table mt_gearweaponsmelee2h_d01.dbr
 	0.010281895296032902 chance to roll an item from table mt_accessories_rings_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Death-Watcher Pendant - 0.1%
+	Death-Watcher Pendant - 10.0%
 
 Igniaa Venomtongue
 
@@ -4917,12 +4917,12 @@ Igniaa Venomtongue
 	0.010281895296032902 chance to roll an item from table mt_accessories_rings_c01.dbr
 	0.05139993432230614 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponscaster_c01.dbr
-	Death-Watcher Pendant - 0.1%
+	Death-Watcher Pendant - 10.0%
 
 Vom'Zul
 
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Thullon, Chosen of Ch'thon
 
@@ -4938,16 +4938,16 @@ Thullon, Chosen of Ch'thon
 	0.3913894324853229 chance to roll an item from table mt_geararmorhead_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 	Spaulders - 14.677103718199609%
 
 Abathis, the Withered
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Chthonian Unraveler
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Ludia Bloodwhisper
 
@@ -4965,7 +4965,7 @@ Ludia Bloodwhisper
 	0.9891196834817013 chance to roll an item from table mt_geararmor_torsoall_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 	Bloodsworn Codex - 4.892367906066537%
 	Bloodsworn Robes - 93.96636993076162%
 	Bloodsworn Scepter - 4.945598417408506%
@@ -4993,8 +4993,8 @@ Halvastra Wrathfire
 	Ascended Mantle - 89.46044171093095%
 	Ascended Robes - 26.675929142063218%
 	Ascended Vestment - 2.5008683570684265%
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Horvald Shieldbreaker
 
@@ -5002,7 +5002,7 @@ Horvald Shieldbreaker
 	0.004283327860192179 chance to roll an item from table mt_gearweaponsshield_d01.dbr
 	0.01411548821944879 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.05139993432230614 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Kymon's Badge - 0.1%
+	Kymon's Badge - 10.0%
 
 Olga Flamebearer
 
@@ -5010,7 +5010,7 @@ Olga Flamebearer
 	0.004283327860192179 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	0.01411548821944879 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.05139993432230614 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Kymon's Badge - 0.1%
+	Kymon's Badge - 10.0%
 
 Narroth, the Behemoth
 
@@ -5027,39 +5027,39 @@ Narroth, the Behemoth
 	Fleshwarped Shield - 99.21626290168311%
 	Fleshwarped Spaulders - 95.0%
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Barrostrandt, the Ascended
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Gravvis, the Decayed
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Narl'Sarroth
 
-	Blood of Ch'thon - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Death Revenant
 
 	Amber - 2.1%
 	Corpse Dust - 3.9%
 	Cracked Lodestone - 4.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Oligeane Dar
 
 	Spectral Arbalest - 5.0%
 	Spectral Crossbow - 95.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Rixna Plaguefeather
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Mortallis
 
@@ -5068,238 +5068,238 @@ Mortallis
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
 	0.999000999000999 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Corpse Dust - 4.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Grum
 
 	Corpse Dust - 1.5%
 	Restless Remains - 3.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Gal'Barok
 
-	Blood of Ch'thon - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Har'Nadiin
 
-	Blood of Ch'thon - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Ellon'Siin
 
-	Blood of Ch'thon - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Udal'Nadal
 
-	Blood of Ch'thon - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Balok'Grot
 
-	Blood of Ch'thon - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Orudin'Ak
 
-	Blood of Ch'thon - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Serethal'Siin
 
 	0.09891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_d01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 	Obsidian Headsplitter - 89.02077151335311%
 	Obsidian War Cleaver - 9.891196834817013%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Wallan'Siin
 
 	0.09891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_d01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 	Obsidian Headsplitter - 89.02077151335311%
 	Obsidian War Cleaver - 9.891196834817013%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Zagal'Udal ~ Electrified
 
 	0.09891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_d01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 	Obsidian Headsplitter - 89.02077151335311%
 	Obsidian War Cleaver - 9.891196834817013%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Rigak'Doth ~ Reflective
 
 	0.09891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_d01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 	Obsidian Headsplitter - 89.02077151335311%
 	Obsidian War Cleaver - 9.891196834817013%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Palloth'Dar ~ Frozen
 
 	0.09891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_d01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 	Obsidian Headsplitter - 89.02077151335311%
 	Obsidian War Cleaver - 9.891196834817013%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Innal'Gargoth
 
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Udal'Thel
 
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Walloth'Dar
 
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Eldon'Siin ~ Electrified
 
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Sen'Udal ~ Burning
 
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Halloth'Siin
 
-	1.0 chance to roll an item from table mt_hu_miscconstitution_b01.dbr
+	100.0 chance to roll an item from table mt_hu_miscconstitution_b01.dbr
 
 Carath'Lud
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Elegor'Dar
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Fallim'Gargoth
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Ossius'Dar
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Blagal'Doth
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Mal'Thallon ~ Frozen
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Shogal'Gargoth ~ Shielded
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Chthonian Unraveler
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Brognathar
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Aethollin
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Kollus ~ Burning
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Feseron ~ Electrified
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Odellia Lanos
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Marden Thal ~ Burning
 
 	Spectral Shield - 90.0%
 	Spectral War Shield - 10.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Agalla Varos ~ Regenerator
 
 	Spectral Arbalest - 10.0%
 	Spectral Crossbow - 90.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Stormbane ~ Electrified
 
 	Spectral War Axe - 90.0%
 	Spectral Warmaul - 10.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Baullos Gar ~ Voidtouched
 
 	Spectral War Axe - 90.0%
 	Spectral Warmaul - 10.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Senal Thandris ~ Corrupted
 
 	Spectral War Axe - 90.0%
 	Spectral Warmaul - 10.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Develos Ondal
 
 	Spectral Shield - 90.0%
 	Spectral War Shield - 10.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Barrosa Namos
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Aneria Thandris
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Direcrix
 
@@ -5326,45 +5326,45 @@ Grubwrath ~ Diseased
 
 	Corpse Dust - 1.5%
 	Restless Remains - 3.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Icesharn ~ Frozen
 
 	Corpse Dust - 1.5%
 	Restless Remains - 3.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Flamegore ~ Burning
 
 	Corpse Dust - 1.5%
 	Restless Remains - 3.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Aethergore ~ Corrupted
 
 	Corpse Dust - 1.5%
 	Restless Remains - 3.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Voidreach ~ Voidtouched
 
 	Corpse Dust - 1.5%
 	Restless Remains - 3.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Elledar Bloodthirster
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmeleeswords1h_d01.dbr
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeswords1h_c01.dbr
 	Corpse Dust - 5.714285714285714%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Priest Dagoll
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmeleeblunt1h_d01.dbr
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
 	Corpse Dust - 4.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Damnoth
 
@@ -5373,7 +5373,7 @@ Damnoth
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
 	0.999000999000999 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Corpse Dust - 4.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Everon ~ Burning
 
@@ -5382,7 +5382,7 @@ Everon ~ Burning
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeaxes1h_c01.dbr
 	0.999000999000999 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Corpse Dust - 4.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Vengar the Vengeful ~ Reflective
 
@@ -5391,7 +5391,7 @@ Vengar the Vengeful ~ Reflective
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeswords1h_c01.dbr
 	0.999000999000999 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Corpse Dust - 4.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Rimelord ~ Frozen
 
@@ -5400,7 +5400,7 @@ Rimelord ~ Frozen
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeswords1h_c01.dbr
 	0.999000999000999 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Corpse Dust - 4.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Tenethon
 
@@ -5409,7 +5409,7 @@ Tenethon
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
 	0.999000999000999 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Corpse Dust - 2.7%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Alladon the Flamewatcher
 
@@ -5419,14 +5419,14 @@ Alladon the Flamewatcher
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
 	Corpse Dust - 1.8%
 	Sanctified Bone - 3.6%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Elagorian Darkmarrow
 
 	Amber - 2.1%
 	Corpse Dust - 3.9%
 	Cracked Lodestone - 4.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Ollegon the Icewatcher
 
@@ -5436,31 +5436,31 @@ Ollegon the Icewatcher
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
 	Corpse Dust - 1.8%
 	Sanctified Bone - 3.6%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Rexna
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Balladra Stormscion
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Sharath
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Traglodan ~ Voidtouched
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Wrallan ~ Electrified
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Calladra ~ Corrupted
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Bloodwretch ~ Swift
 
@@ -5492,23 +5492,23 @@ Swiftrot ~ Swift
 
 Grubnar
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Follistad
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Flamewretch ~ Burning
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Palleod ~ Electrified
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Occullon
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Master Ravok, the Death's Whisper
 
@@ -5520,15 +5520,15 @@ Master Ravok, the Death's Whisper
 	0.05139993432230614 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	0.09989012086704625 chance to roll an item from table mt_geararmorshoulders_c01.dbr
-	Death-Watcher Pendant - 0.15%
+	Death-Watcher Pendant - 15.0%
 
 Malkadarr, Champion of Death's Vigil
 
 	0.004283327860192179 chance to roll an item from table mt_gearweaponsshield_d01.dbr
 	0.05139993432230614 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Death-Watcher Pendant - 0.15%
-	Malkadarr's Dreadblade - 1.0%
-	Vital Essence/Food Ration - 100.0%
+	Death-Watcher Pendant - 15.0%
+	Malkadarr's Dreadblade - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Death's Vigil ~ Neophyte - Female
 
@@ -5562,7 +5562,7 @@ Death's Vigil ~ Acolyte - Female
 	0.0379225296893489 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	0.04569143999428857 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	0.0500926029508645 chance to roll an item from table mt_hu_equippedreduced_c01.dbr
-	Death-Watcher Pendant - 0.012%
+	Death-Watcher Pendant - 1.2%
 
 Death's Vigil ~ Neophyte
 
@@ -5585,7 +5585,7 @@ Death's Vigil ~ Acolyte
 	0.0379225296893489 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	0.04569143999428857 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	0.0500926029508645 chance to roll an item from table mt_hu_equippedreduced_c01.dbr
-	Death-Watcher Pendant - 0.012%
+	Death-Watcher Pendant - 1.2%
 
 Death's Vigil ~ Dreadlord - Female
 
@@ -5597,7 +5597,7 @@ Death's Vigil ~ Dreadlord - Female
 	0.05139993432230614 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	0.05444940068279798 chance to roll an item from table mt_hu_equippedreduced_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Death-Watcher Pendant - 0.03%
+	Death-Watcher Pendant - 3.0%
 
 Death's Vigil ~ Dreadlord
 
@@ -5609,7 +5609,7 @@ Death's Vigil ~ Dreadlord
 	0.05139993432230614 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	0.05444940068279798 chance to roll an item from table mt_hu_equippedreduced_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Death-Watcher Pendant - 0.03%
+	Death-Watcher Pendant - 3.0%
 
 Urokoraa, Speaker for the Dead
 
@@ -5619,7 +5619,7 @@ Urokoraa, Speaker for the Dead
 	0.010281895296032902 chance to roll an item from table mt_accessories_rings_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
 	0.09989012086704625 chance to roll an item from table mt_geararmorshoulders_c01.dbr
-	Death-Watcher Pendant - 0.1%
+	Death-Watcher Pendant - 10.0%
 
 Nokultaak, the Reaper
 
@@ -5631,7 +5631,7 @@ Nokultaak, the Reaper
 	0.05139993432230614 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	0.09989012086704625 chance to roll an item from table mt_geararmorshoulders_c01.dbr
-	Death-Watcher Pendant - 0.1%
+	Death-Watcher Pendant - 10.0%
 
 Naakala ~ Regenerator
 
@@ -5643,7 +5643,7 @@ Naakala ~ Regenerator
 	0.05139993432230614 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	0.09989012086704625 chance to roll an item from table mt_geararmorshoulders_c01.dbr
-	Death-Watcher Pendant - 0.1%
+	Death-Watcher Pendant - 10.0%
 
 Misonaak ~ Shielded
 
@@ -5655,7 +5655,7 @@ Misonaak ~ Shielded
 	0.05139993432230614 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponsranged1h_c01.dbr
 	0.09989012086704625 chance to roll an item from table mt_geararmorshoulders_c01.dbr
-	Death-Watcher Pendant - 0.1%
+	Death-Watcher Pendant - 10.0%
 
 Death's Vigil ~ Neophyte - Female
 
@@ -5771,13 +5771,13 @@ Sister Bravna, the Skybreaker
 	0.05139993432230614 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.09989012086704625 chance to roll an item from table mt_geararmorshoulders_c01.dbr
-	Kymon's Badge - 0.15%
+	Kymon's Badge - 15.0%
 
 Archon Barthollem
 
-	Archon's Warmaul - 1.0%
-	Kymon's Badge - 0.15%
-	Vital Essence/Food Ration - 100.0%
+	Archon's Warmaul - 100.0%
+	Kymon's Badge - 15.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Kymon's Chosen ~ Stormbearer - Female
 
@@ -5789,7 +5789,7 @@ Kymon's Chosen ~ Stormbearer - Female
 	0.051755961289035216 chance to roll an item from table mt_hu_equippedreduced_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	0.07137249304118193 chance to roll an item from table mt_geararmorshoulders_c01.dbr
-	Kymon's Badge - 0.012%
+	Kymon's Badge - 1.2%
 
 Kymon's Chosen ~ Stormbearer
 
@@ -5801,7 +5801,7 @@ Kymon's Chosen ~ Stormbearer
 	0.051755961289035216 chance to roll an item from table mt_hu_equippedreduced_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	0.07137249304118193 chance to roll an item from table mt_geararmorshoulders_c01.dbr
-	Kymon's Badge - 0.012%
+	Kymon's Badge - 1.2%
 
 Kymon's Chosen ~ Blade Maiden - Female
 
@@ -5813,7 +5813,7 @@ Kymon's Chosen ~ Blade Maiden - Female
 	0.051755961289035216 chance to roll an item from table mt_hu_equippedreduced_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.07137249304118193 chance to roll an item from table mt_geararmorshoulders_c01.dbr
-	Kymon's Badge - 0.03%
+	Kymon's Badge - 3.0%
 
 Sister Oseltia, the Storm Maiden
 
@@ -5825,7 +5825,7 @@ Sister Oseltia, the Storm Maiden
 	0.05139993432230614 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponsranged1h_c01.dbr
 	0.09989012086704625 chance to roll an item from table mt_geararmorshoulders_c01.dbr
-	Kymon's Badge - 0.1%
+	Kymon's Badge - 10.0%
 
 Brother Baldris, Charge of Empyrion
 
@@ -5837,7 +5837,7 @@ Brother Baldris, Charge of Empyrion
 	0.05139993432230614 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.09989012086704625 chance to roll an item from table mt_geararmorshoulders_c01.dbr
-	Kymon's Badge - 0.1%
+	Kymon's Badge - 10.0%
 
 Sister Thandria ~ Defender
 
@@ -5849,7 +5849,7 @@ Sister Thandria ~ Defender
 	0.05139993432230614 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.09989012086704625 chance to roll an item from table mt_geararmorshoulders_c01.dbr
-	Kymon's Badge - 0.1%
+	Kymon's Badge - 10.0%
 
 Brother Handrick ~ Burning
 
@@ -5859,7 +5859,7 @@ Brother Handrick ~ Burning
 	0.010281895296032902 chance to roll an item from table mt_accessories_rings_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
 	0.09989012086704625 chance to roll an item from table mt_geararmorshoulders_c01.dbr
-	Kymon's Badge - 0.1%
+	Kymon's Badge - 10.0%
 
 Kymon's Chosen ~ Zealot - Female
 
@@ -5912,264 +5912,264 @@ Kymon's Chosen ~ Zealot
 Aetheros
 
 	Serrated Spike - 3.6%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 	Vicious Spikes - 2.4%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Mutallor ~ Regenerator
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 12.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Stonemane ~ Defender
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 12.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Dreadtusk, the Hunter's Bane
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 12.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Ragesnout ~ Swift
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 12.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Hellmane ~ Burning
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 12.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Rotmane ~ Diseased
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 12.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Aetherean ~ Corrupted
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 12.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Riftsnout ~ Voidtouched
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 12.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Maledictus
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 10.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Razorback
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 10.0%
 	Empowered Razorback's Spined Mantle - 0.7142857142857143%
 	Razorback's Spined Mantle - 0.7142857142857143%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Bilewart ~ Swift
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 10.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Rimeclaw ~ Frozen
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 10.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Wrathclaw ~ Corrupted
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 10.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Rotbite ~ Diseased
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 10.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Nur'Garu, Jaws of Oblivion
 
-	Blood of Ch'thon - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Sargo'Din, the Hungering Maw
 
-	Blood of Ch'thon - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Narl'Maash, the Engorged
 
-	Blood of Ch'thon - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Nye'Kazul, the Maw of Fire
 
-	Blood of Ch'thon - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Waban'Ak, the Sparkmaw
 
-	Blood of Ch'thon - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Shar'Oruuth
 
 	0.09891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_d01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 	Obsidian Headsplitter - 89.02077151335311%
 	Obsidian War Cleaver - 9.891196834817013%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Wen'Kazul, the Hungering Blade
 
 	0.09891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_d01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 	Obsidian Headsplitter - 89.02077151335311%
 	Obsidian War Cleaver - 9.891196834817013%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Zalyth'Uthax ~ Electrified
 
 	0.09891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_d01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 	Obsidian Headsplitter - 89.02077151335311%
 	Obsidian War Cleaver - 9.891196834817013%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Jugak'Siin ~ Reflective
 
 	0.09891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_d01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 	Obsidian Headsplitter - 89.02077151335311%
 	Obsidian War Cleaver - 9.891196834817013%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Sarmaz'Din ~ Frozen
 
 	0.09891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_d01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 	Obsidian Headsplitter - 89.02077151335311%
 	Obsidian War Cleaver - 9.891196834817013%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Innugaru, Terror of the Void
 
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Hiln'Raz, the Dark Omen
 
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Sen'Thel Voidbringer
 
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Nii'Thel ~ Bruiser
 
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Gurgoth'Siin ~ Burning
 
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Vom'Anatu
 
-	Blood of Ch'thon - 0.04%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Gawtok'Anatu
 
-	Blood of Ch'thon - 0.04%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Ekket'Anatu
 
-	Blood of Ch'thon - 0.04%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Orudin'Anatu ~ Diseased
 
-	Blood of Ch'thon - 0.04%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Yakwa'Anatu ~ Unstoppable
 
-	Blood of Ch'thon - 0.04%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Charn'Daroth
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Elnar'Daroth
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Fos'Daroth
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Ordran'Daroth
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Pulv'Daroth
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Maga'Lugal ~ Defender
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Sharanatu ~ Shielded
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
-	Vital Essence/Food Ration - 100.0%
+	Blood of Ch'thon - 4.25%
+	Vital Essence/Food Ration - 10000.0%
 
 Harpallax, the Suneater
 
@@ -6178,7 +6178,7 @@ Harpallax, the Suneater
 	Dermapteran Slicer - 10.0%
 	Rigid Shell - 4.5%
 	Spined Carapace - 1.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Corrosinax
 
@@ -6187,7 +6187,7 @@ Corrosinax
 	Dermapteran Slicer - 10.0%
 	Rigid Shell - 4.5%
 	Spined Carapace - 1.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Wasparex ~ Swift
 
@@ -6196,7 +6196,7 @@ Wasparex ~ Swift
 	Dermapteran Slicer - 10.0%
 	Rigid Shell - 4.5%
 	Spined Carapace - 1.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Olmarix ~ Electrified
 
@@ -6205,7 +6205,7 @@ Olmarix ~ Electrified
 	Dermapteran Slicer - 10.0%
 	Rigid Shell - 4.5%
 	Spined Carapace - 1.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Vildrix ~ Voidtouched
 
@@ -6214,189 +6214,189 @@ Vildrix ~ Voidtouched
 	Dermapteran Slicer - 10.0%
 	Rigid Shell - 4.5%
 	Spined Carapace - 1.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Ralture, the Untouchable
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Rugaru, the Houndmaster
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Ooglar ~ Unstoppable
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Reeve ~ Burning
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Wovaar ~ Frozen
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Ravadaar ~ Corrupted
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Vinaldaar ~ Voidtouched
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Bonebreaker
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Faldonir Aetherborn
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Malnotris ~ Unstoppable
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Festerlis ~ Bruiser
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Mesmer
 
 	Gazer Eye - 87.5%
 	Overseer Eye - 10.0%
 	Tainted Brain Matter - 2.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Bane'Zal, the Hellborn
 
 	Gazer Eye - 87.5%
 	Overseer Eye - 10.0%
 	Tainted Brain Matter - 2.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Darlax, Devourer of Dreams
 
 	Gazer Eye - 87.5%
 	Overseer Eye - 10.0%
 	Tainted Brain Matter - 2.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Beholdan ~ Reflective
 
 	Gazer Eye - 87.5%
 	Overseer Eye - 10.0%
 	Tainted Brain Matter - 2.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Garminix ~ Regenerator
 
 	Gazer Eye - 87.5%
 	Overseer Eye - 10.0%
 	Tainted Brain Matter - 2.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Illumin ~ Electrified
 
 	Gazer Eye - 87.5%
 	Overseer Eye - 10.0%
 	Tainted Brain Matter - 2.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Valavan, the Wandering Soul
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Ballan Voros ~ Reflective
 
 	Spectral Shield - 90.0%
 	Spectral War Shield - 10.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Rosena Malgos ~ Regenerator
 
 	Spectral Arbalest - 10.0%
 	Spectral Crossbow - 90.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Stormshriek ~ Electrified
 
 	Spectral War Axe - 90.0%
 	Spectral Warmaul - 10.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Oldrakan Pald ~ Swift
 
 	Spectral War Axe - 90.0%
 	Spectral Warmaul - 10.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Aetherwraith ~ Corrupted
 
 	Spectral War Axe - 90.0%
 	Spectral Warmaul - 10.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Necrolask
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Rot-Eye
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Corpselick
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Corpran ~ Corrupted
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Vilnius ~ Voidtouched
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Hungral ~ Electrified
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Leperus ~ Burning
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Hammerton
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Haldras Flamespitter
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Stoneheart ~ Reflective
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Stonegrinder ~ Charger
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Rimestone ~ Frozen
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Voidstone ~ Voidtouched
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Deshigu Chillbane
 
@@ -6406,7 +6406,7 @@ Deshigu Chillbane
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	Groble Sky Effigy - 9.784735812133073%
 	Groble Sky Idol - 88.06262230919765%
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Nabinok
 
@@ -6416,17 +6416,17 @@ Nabinok
 	9.433962264150944 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	Groble Death Effigy - 47.16981132075472%
 	Groble Death Idol - 42.45283018867924%
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Akala ~ Swift
 
 	0.001428306171710968 chance to roll an item from table mt_gearweaponsrangedcrossbow2h_d01.dbr
 	0.017139674060531615 chance to roll an item from table mt_gearweaponsrangedcrossbow2h_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Ulbalak ~ Supporter
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Torgru, the Flametouched
 
@@ -6434,7 +6434,7 @@ Torgru, the Flametouched
 	0.007137860640408856 chance to roll an item from table mt_gearweaponsshield_d01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Arbagol, the Shank
 
@@ -6442,13 +6442,13 @@ Arbagol, the Shank
 	0.007137860640408856 chance to roll an item from table mt_gearweaponsshield_d01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Uldagu Flame-Eater
 
 	0.007137860640408856 chance to roll an item from table mt_gearweaponsranged2h_d01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsranged2h_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Molbagdal Stormcaller
 
@@ -6456,7 +6456,7 @@ Molbagdal Stormcaller
 	0.007137860640408856 chance to roll an item from table mt_gearweaponsshield_d01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Holborack ~ Defender
 
@@ -6464,7 +6464,7 @@ Holborack ~ Defender
 	0.007137860640408856 chance to roll an item from table mt_gearweaponsshield_d01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Pukesnot the Unwashed
 
@@ -6472,7 +6472,7 @@ Pukesnot the Unwashed
 	0.007137860640408856 chance to roll an item from table mt_gearweaponsshield_d01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Nirlamnack ~ Reflective
 
@@ -6482,68 +6482,68 @@ Nirlamnack ~ Reflective
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	Groble Sky Effigy - 9.784735812133073%
 	Groble Sky Idol - 88.06262230919765%
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Malexna, the Stormweaver
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Blazewing
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Blazewing
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Tyrronax, the Great Watcher
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Tyrronax, the Great Watcher
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Scyliss, the Stormtouched ~ Electrified
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Holdrexna, the Windwalker ~ Swift
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Holdrexna, the Windwalker ~ Swift
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Wrathwing ~ Corrupted
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Nemedian, the Reaper
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Effigus, the Infested
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Asper ~ Swift
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Crowfiend ~ Bruiser
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Julius Crowley, the Mindbender
 
@@ -6673,7 +6673,7 @@ Meric Aether-Touched ~ Charger
 	0.017139674060531615 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Murderer's Coif - 4.75%
 	Murderer's Cowl - 0.25%
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Eldon "Snakeskin" ~ Regenerator
 
@@ -6687,7 +6687,7 @@ Eldon "Snakeskin" ~ Regenerator
 	Ascended Helm - 4.75%
 	Ascended Shoulderplates - 0.34972521590179145%
 	Ascended Spaulders - 34.62279637427736%
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Leander "Blackwater" Greene
 
@@ -6701,7 +6701,7 @@ Leander "Blackwater" Greene
 	0.6358626536668079 chance to roll an item from table mt_gearweaponsranged1h_c01.dbr
 	Empowered Leander Greene's Hand Cannon - 0.17662851490744666%
 	Leander Greene's Hand Cannon - 0.17662851490744666%
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Bloody Jack
 
@@ -6715,7 +6715,7 @@ Bloody Jack
 	0.37513025356026397 chance to roll an item from table mt_geararmor_torsoall_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Delnar Black Eye
 
@@ -6729,7 +6729,7 @@ Delnar Black Eye
 	0.37513025356026397 chance to roll an item from table mt_geararmor_torsoall_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsranged1h_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Hudson Fury
 
@@ -6745,7 +6745,7 @@ Hudson Fury
 	0.3913894324853229 chance to roll an item from table mt_geararmorhead_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Nadra, the Shadow
 
@@ -6759,7 +6759,7 @@ Nadra, the Shadow
 	0.37513025356026397 chance to roll an item from table mt_geararmor_torsoall_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Serul Shadesong
 
@@ -6773,7 +6773,7 @@ Serul Shadesong
 	0.37513025356026397 chance to roll an item from table mt_geararmor_torsoall_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Wiley, the Slasher ~ Swift
 
@@ -6785,7 +6785,7 @@ Wiley, the Slasher ~ Swift
 	0.3913894324853229 chance to roll an item from table mt_geararmorhead_c01.dbr
 	0.4892367906066536 chance to roll an item from table mt_geararmorshoulders_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmeleeswords1h_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Everett, the Bloodbound ~ Burning
 
@@ -6817,7 +6817,7 @@ Dred One-Eye
 	0.37513025356026397 chance to roll an item from table mt_accessories_rings_c01.dbr
 	0.37513025356026397 chance to roll an item from table mt_geararmor_torsoall_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsranged2h_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Allara Starfire
 
@@ -6839,8 +6839,8 @@ Allara Starfire
 	Ascended Mantle - 81.07352530053117%
 	Ascended Robes - 24.17506078499479%
 	Ascended Vestment - 5.001736714136853%
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Aetherblaze
 
@@ -6862,8 +6862,8 @@ Aetherblaze
 	Ascended Mantle - 81.07352530053117%
 	Ascended Robes - 24.17506078499479%
 	Ascended Vestment - 5.001736714136853%
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Kamladris, the Rimeheart
 
@@ -6885,8 +6885,8 @@ Kamladris, the Rimeheart
 	Ascended Mantle - 81.07352530053117%
 	Ascended Robes - 24.17506078499479%
 	Ascended Vestment - 5.001736714136853%
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Corpusia ~ Reflective
 
@@ -6908,8 +6908,8 @@ Corpusia ~ Reflective
 	Ascended Mantle - 81.07352530053117%
 	Ascended Robes - 24.17506078499479%
 	Ascended Vestment - 5.001736714136853%
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Espiria ~ Supporter
 
@@ -6931,104 +6931,104 @@ Espiria ~ Supporter
 	Ascended Mantle - 81.07352530053117%
 	Ascended Robes - 24.17506078499479%
 	Ascended Vestment - 5.001736714136853%
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Issk, the Hive Mind
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Avarix ~ Electrified
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Omnol, the Blight ~ Diseased
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Raxa, the Jade Huntress
 
-	Manticore Eye - 0.15%
+	Manticore Eye - 15.0%
 
 Neleron, the Eyes of Death
 
-	Manticore Eye - 0.15%
+	Manticore Eye - 15.0%
 
 Ar'kall, the Black Heart
 
-	Manticore Eye - 0.15%
+	Manticore Eye - 15.0%
 
 Uroxis Swiftclaw ~ Swift
 
-	Manticore Eye - 0.15%
+	Manticore Eye - 15.0%
 
 Waroxis Crimsonclaw ~ Bruiser
 
-	Manticore Eye - 0.15%
+	Manticore Eye - 15.0%
 
 Blazara Firemane
 
-	Manticore Eye - 0.15%
+	Manticore Eye - 15.0%
 
 Vladox, the Bloodletter
 
 	Roiling Blood - 4.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Sarlap ~ Electrified
 
 	Roiling Blood - 4.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Jornax, the Voracious ~ Swift
 
 	Roiling Blood - 4.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Narlax ~ Corrupted
 
 	Roiling Blood - 4.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Oorlax ~ Voidtouched
 
 	Roiling Blood - 4.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Obsidius, the Titan
 
 	Blood of Ch'thon - 4.5%
 	Obsidian Bulwark - 10.0%
 	Obsidian Guard - 85.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Ch'thallis, the Usurper
 
 	Blood of Ch'thon - 4.5%
 	Obsidian Bulwark - 10.0%
 	Obsidian Guard - 85.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Kelphat'Idoth ~ Electrified
 
 	Blood of Ch'thon - 4.5%
 	Obsidian Bulwark - 10.0%
 	Obsidian Guard - 85.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Orudin'Idoth ~ Frozen
 
 	Blood of Ch'thon - 4.5%
 	Obsidian Bulwark - 10.0%
 	Obsidian Guard - 85.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Drygol'Ukog ~ Charger
 
 	Blood of Ch'thon - 4.5%
 	Obsidian Bulwark - 10.0%
 	Obsidian Guard - 85.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Terrocrix
 
@@ -7088,155 +7088,155 @@ Flocrix ~ Burning
 
 Soulrend
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Aragonax, the Spirit Eater
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Baldim, the Chaosbringer
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Bonesnarl ~ Unstoppable
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Idran, the Anomaly ~ Regenerator
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Balra ~ Voidtouched
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Aethoran, the Plaguebearer ~ Diseased
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Gollorg, the Undiminished ~ Unstoppable
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Corpsefire ~ Reflective
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Azgalogg, the Corruptor ~ Defender
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Charrus
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 9.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Plaguelord
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 9.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Voidrage
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 9.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Wolvin, the Inferno
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 9.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Jarlax, Rage of the Swamp ~ Charger
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 9.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Garn, the Packhunter ~ Defender
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 9.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Scarsnout, the Cannibal
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 7.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Bloodclaw
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 7.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Whitemane, the Thunderstruck
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 7.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Ernol Carrioneater ~ Diseased
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 7.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Crimsontail ~ Supporter
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 7.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Rav ~ Voidtouched
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 7.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Grulgor, the Tormented ~ Diseased
 
 	Corpse Dust - 1.5%
 	Restless Remains - 3.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Falgarr, the Ice Watcher ~ Frozen
 
 	Corpse Dust - 1.5%
 	Restless Remains - 3.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Bralgarr, the Flame Watcher ~ Burning
 
 	Corpse Dust - 1.5%
 	Restless Remains - 3.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Wralgarr, the Aethertouched ~ Corrupted
 
 	Corpse Dust - 1.5%
 	Restless Remains - 3.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Olagarr, the Chaosbringer ~ Voidtouched
 
 	Corpse Dust - 1.5%
 	Restless Remains - 3.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Tenebris, the Blood Drinker
 
@@ -7244,14 +7244,14 @@ Tenebris, the Blood Drinker
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeswords1h_c01.dbr
 	1.4285714285714286 chance to roll an item from table mt_gearweaponsmelee2h_c02_tenebris.dbr
 	Corpse Dust - 8.571428571428571%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Balrazar, Eternal Servant of Dreeg
 
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmeleeblunt1h_d01.dbr
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
 	Corpse Dust - 9.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Harros Dred, the Damned
 
@@ -7260,7 +7260,7 @@ Harros Dred, the Damned
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
 	0.999000999000999 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Corpse Dust - 9.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Hellwraith ~ Burning
 
@@ -7269,7 +7269,7 @@ Hellwraith ~ Burning
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeaxes1h_c01.dbr
 	0.999000999000999 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Corpse Dust - 9.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Allos Sadarin ~ Reflective
 
@@ -7278,7 +7278,7 @@ Allos Sadarin ~ Reflective
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeswords1h_c01.dbr
 	0.999000999000999 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Corpse Dust - 9.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Chillheart ~ Frozen
 
@@ -7287,97 +7287,97 @@ Chillheart ~ Frozen
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeswords1h_c01.dbr
 	0.999000999000999 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Corpse Dust - 9.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Igrixx, the Rimeheart
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Jaron, Lord of the Storm
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Lorkhan, Lord of the Deep
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Farnlan, the Vile ~ Unstoppable
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Eidonax ~ Swift
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Avaladran ~ Corrupted
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Oldelon, the Molten
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Raglis, the Leaper
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Herna, the Dread Widow
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Triinix, the Weaver
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Larna, the Fateweaver ~ Shielded
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Uldina, the Broodmother ~ Defender
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Terrolean, the Pandemonium
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Serrated Spike - 3.6%
 	Vicious Spikes - 2.4%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Korplax, the Overgrown
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Serrated Spike - 3.6%
 	Vicious Spikes - 2.4%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Blackthorn ~ Reflective
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Serrated Spike - 3.6%
 	Vicious Spikes - 2.4%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Rotthorn ~ Diseased
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Serrated Spike - 3.6%
 	Vicious Spikes - 2.4%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Everbark ~ Regenerator
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Serrated Spike - 3.6%
 	Vicious Spikes - 2.4%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Rimebark ~ Frozen
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Serrated Spike - 3.6%
 	Vicious Spikes - 2.4%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Sulkarr, the Stormtouched
 
@@ -7394,7 +7394,7 @@ Sulkarr, the Stormtouched
 	Fleshwarped Shield - 89.9370440691516%
 	Fleshwarped Spaulders - 90.0%
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Horcris, the Terror
 
@@ -7411,7 +7411,7 @@ Horcris, the Terror
 	Fleshwarped Shield - 89.9370440691516%
 	Fleshwarped Spaulders - 90.0%
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Corruptis
 
@@ -7428,7 +7428,7 @@ Corruptis
 	Fleshwarped Shield - 89.9370440691516%
 	Fleshwarped Spaulders - 90.0%
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Caladrak ~ Unstoppable
 
@@ -7445,7 +7445,7 @@ Caladrak ~ Unstoppable
 	Fleshwarped Shield - 89.9370440691516%
 	Fleshwarped Spaulders - 90.0%
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Faldrak ~ Reflective
 
@@ -7462,7 +7462,7 @@ Faldrak ~ Reflective
 	Fleshwarped Shield - 89.9370440691516%
 	Fleshwarped Spaulders - 90.0%
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Ragarr Stonecrusher
 
@@ -7470,7 +7470,7 @@ Ragarr Stonecrusher
 	0.007137860640408856 chance to roll an item from table mt_gearweaponsshield_d01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmeleeaxes1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Toglokk the Ravener
 
@@ -7478,7 +7478,7 @@ Toglokk the Ravener
 	0.007137860640408856 chance to roll an item from table mt_gearweaponsshield_d01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Maglak ~ Shielded
 
@@ -7486,7 +7486,7 @@ Maglak ~ Shielded
 	0.007137860640408856 chance to roll an item from table mt_gearweaponsmeleeaxes1h_d01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmeleeaxes1h_c01.dbr
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Wallak ~ Supporter
 
@@ -7494,11 +7494,11 @@ Wallak ~ Supporter
 	0.007137860640408856 chance to roll an item from table mt_gearweaponsmeleeblunt1h_d01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Glavrok, the Darkdweller - Female
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Boneblade - 2.5%
 	Bonecarver - 47.5%
 	Bonecleaver - 47.5%
@@ -7508,7 +7508,7 @@ Glavrok, the Darkdweller - Female
 
 Algrok, the Blind Berserker - Female
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Boneblade - 2.5%
 	Bonecarver - 47.5%
 	Bonecleaver - 47.5%
@@ -7520,7 +7520,7 @@ Savarok ~ Shielded - Female
 
 	0.007137860640408856 chance to roll an item from table mt_gearweaponsfocus_d01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Boneshiv - 95.0%
 	Bonespike - 5.0%
 
@@ -7530,7 +7530,7 @@ Balarr, the Rockeater - Female
 	0.007137860640408856 chance to roll an item from table mt_gearweaponsshield_d01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmeleeaxes1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Paldrak, the Warmonger - Female
 
@@ -7538,7 +7538,7 @@ Paldrak, the Warmonger - Female
 	0.007137860640408856 chance to roll an item from table mt_gearweaponsmeleeblunt1h_d01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Stonetooth ~ Defender - Female
 
@@ -7546,7 +7546,7 @@ Stonetooth ~ Defender - Female
 	0.007137860640408856 chance to roll an item from table mt_gearweaponsshield_d01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmeleeaxes1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Elloras, the Sun-Eater ~ Burning - Female
 
@@ -7554,170 +7554,170 @@ Elloras, the Sun-Eater ~ Burning - Female
 	0.007137860640408856 chance to roll an item from table mt_gearweaponsmeleeblunt1h_d01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Uglak, the Immortal
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Troll Bonecrusher - 10.0%
 	Troll Bonesmasher - 90.0%
 
 Surrlak, the Earthmover
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Troll Bonecrusher - 10.0%
 	Troll Bonesmasher - 90.0%
 
 Troglak ~ Unstoppable
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Troll Bonecrusher - 10.0%
 	Troll Bonesmasher - 90.0%
 
 Oldak, the Miasma ~ Diseased
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Troll Bonecrusher - 10.0%
 	Troll Bonesmasher - 90.0%
 
 Wontlak ~ Frozen
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Troll Bonecrusher - 10.0%
 	Troll Bonesmasher - 90.0%
 
 Balglak, the Swamp Warden
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Troll Bonecrusher - 10.0%
 	Troll Bonesmasher - 90.0%
 
 Rovos ~ Reflective
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Troll Bonecrusher - 10.0%
 	Troll Bonesmasher - 90.0%
 
 Malgalok ~ Voidtouched
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Troll Bonecrusher - 10.0%
 	Troll Bonesmasher - 90.0%
 
 Avalgal ~ Corrupted
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Troll Bonecrusher - 10.0%
 	Troll Bonesmasher - 90.0%
 
 Volaxna, the Bloodgorger
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Volaxna, the Bloodgorger
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Plaguewing ~ Diseased
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Plaguewing ~ Diseased
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Harrowbeak ~ Unstoppable
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Wrathtalon ~ Corrupted
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Voidtalon ~ Voidtouched
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Voidtalon ~ Voidtouched
 
-	Ancient Heart - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Ancient Heart - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Scarprax, the Frenzied
 
 	Battered Shell - 4.5%
-	Royal Jelly - 0.5%
-	Vital Essence/Food Ration - 100.0%
+	Royal Jelly - 50.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Caraprax ~ Defender
 
 	Battered Shell - 4.5%
-	Royal Jelly - 0.5%
-	Vital Essence/Food Ration - 100.0%
+	Royal Jelly - 50.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Harprax, the Queen's Will ~ Supporter
 
 	Battered Shell - 4.5%
-	Royal Jelly - 0.5%
-	Vital Essence/Food Ration - 100.0%
+	Royal Jelly - 50.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Ralkara ~ Regenerator
 
 	Battered Shell - 4.5%
-	Royal Jelly - 0.5%
-	Vital Essence/Food Ration - 100.0%
+	Royal Jelly - 50.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Folcrax ~ Frozen
 
 	Battered Shell - 4.5%
-	Royal Jelly - 0.5%
-	Vital Essence/Food Ration - 100.0%
+	Royal Jelly - 50.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Walacrax ~ Corrupted
 
 	Battered Shell - 4.5%
-	Royal Jelly - 0.5%
-	Vital Essence/Food Ration - 100.0%
+	Royal Jelly - 50.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Ooldacrax ~ Voidtouched
 
 	Battered Shell - 4.5%
-	Royal Jelly - 0.5%
-	Vital Essence/Food Ration - 100.0%
+	Royal Jelly - 50.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Gravner, the Bile-Eater
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Groundsplitter ~ Electrified
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Stonespitter ~ Shielded
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Wrathworm ~ Corrupted
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Riftworm ~ Voidtouched
 
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Bonechill
 
 	Ancient Heart - 2.5%
 	Bristly Fur - 6.0%
 	Chipped Yeti Horn - 87.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 	Yeti Horn - 10.0%
 
 Icesnap
@@ -7725,7 +7725,7 @@ Icesnap
 	Ancient Heart - 2.5%
 	Bristly Fur - 6.0%
 	Chipped Yeti Horn - 87.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 	Yeti Horn - 10.0%
 
 Chillblood ~ Regenerator
@@ -7733,7 +7733,7 @@ Chillblood ~ Regenerator
 	Ancient Heart - 2.5%
 	Bristly Fur - 6.0%
 	Chipped Yeti Horn - 87.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 	Yeti Horn - 10.0%
 
 Mallus ~ Corrupted
@@ -7741,28 +7741,28 @@ Mallus ~ Corrupted
 	Ancient Heart - 2.5%
 	Bristly Fur - 6.0%
 	Chipped Yeti Horn - 87.5%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 	Yeti Horn - 10.0%
 
 Gornax, the Nightmare
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Sharn, the Cursed
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Furz Venomdrinker ~ Supporter
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Bloodhowl ~ Regenerator
 
-	Tainted Brain Matter - 0.025%
-	Vital Essence/Food Ration - 100.0%
+	Tainted Brain Matter - 2.5%
+	Vital Essence/Food Ration - 10000.0%
 
 Crimson Bane
 
@@ -7805,7 +7805,7 @@ Abner, the Forsaken One
 	0.06648936170212766 chance to roll an item from table mt_gearweaponsshield_d01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Gastris, the Foul
 
@@ -7813,7 +7813,7 @@ Gastris, the Foul
 	0.06648936170212766 chance to roll an item from table mt_gearweaponsshield_d01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Gutripper ~ Unstoppable
 
@@ -7821,7 +7821,7 @@ Gutripper ~ Unstoppable
 	0.06648936170212766 chance to roll an item from table mt_gearweaponsshield_d01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Teselon ~ Electrified
 
@@ -7829,7 +7829,7 @@ Teselon ~ Electrified
 	0.06648936170212766 chance to roll an item from table mt_gearweaponsshield_d01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Alrick Magefire
 
@@ -7837,21 +7837,21 @@ Alrick Magefire
 	0.06648936170212766 chance to roll an item from table mt_gearweaponsshield_d01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Valdaran, the Storm Scourge
 
 	Aetherial Warrant - 19.250000000000004%
 	Tainted Brain Matter - 35.75000000000001%
-	Valdaran's Mantle - 0.4117647058823529%
-	Valdaran's Shoulderguard - 0.5882352941176471%
-	Vital Essence/Food Ration - 100.0%
+	Valdaran's Mantle - 41.1764705882353%
+	Valdaran's Shoulderguard - 58.8235294117647%
+	Vital Essence/Food Ration - 10000.0%
 
 Obligious Foul
 
 	Aetherial Warrant - 19.250000000000004%
 	Tainted Brain Matter - 35.75000000000001%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 The Pariah
 
@@ -7864,21 +7864,21 @@ Jac'Aran, the Eternal Stone
 
 	Blood of Ch'thon - 35.75000000000001%
 	Chthonian Warrant - 19.250000000000004%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Benn'Jahr, the Colossal
 
-	Benn'Jahr's Pauldrons - 0.5882352941176471%
-	Benn'Jahr's Shoulderguards - 0.4117647058823529%
+	Benn'Jahr's Pauldrons - 58.8235294117647%
+	Benn'Jahr's Shoulderguards - 41.1764705882353%
 	Blood of Ch'thon - 35.75000000000001%
 	Chthonian Warrant - 19.250000000000004%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Balgoth'Zul, the Endless Hunger
 
 	Blood of Ch'thon - 35.75000000000001%
 	Chthonian Warrant - 19.250000000000004%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 Lord Infernus
 
@@ -7893,8 +7893,8 @@ The Iron Maiden
 
 	0.47393364928909953 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	4.739336492890995 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Iron Maiden's Mantle - 0.4117647058823529%
-	Iron Maiden's Shoulderguard - 0.5882352941176471%
+	Iron Maiden's Mantle - 41.1764705882353%
+	Iron Maiden's Shoulderguard - 58.8235294117647%
 	Kymon's Warrant - 20.0%
 	Scrap - 80.0%
 
@@ -7906,8 +7906,8 @@ Zantarin, the Immortal
 	4.739336492890995 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	Order Warrant - 20.0%
 	Scrap - 80.0%
-	Zantarin's Mantle - 0.4117647058823529%
-	Zantarin's Shoulderguard - 0.5882352941176471%
+	Zantarin's Mantle - 41.1764705882353%
+	Zantarin's Shoulderguard - 58.8235294117647%
 
 Cabala Rotweaver
 
@@ -7923,8 +7923,8 @@ Fabius "the Unseen" Gonzar
 	4.739336492890995 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	4.739336492890995 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	Cronley's Warrant - 20.0%
-	Fabius' Pauldron - 0.5882352941176471%
-	Fabius' Shoulderguard - 0.4117647058823529%
+	Fabius' Pauldron - 58.8235294117647%
+	Fabius' Shoulderguard - 41.1764705882353%
 	Scrap - 80.0%
 
 Thallion Vos
@@ -7955,18 +7955,18 @@ Allminoxius, the Artificer
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsmeleeblunt1h_d01.dbr
 	0.999000999000999 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
-	Arkovian Warrant - 0.2%
+	Arkovian Warrant - 20.0%
 	Corpse Dust - 3.0%
 	Sanctified Bone - 6.0%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 	Zarthuzellan's Codex - 7.992007992007992%
 
 Moosilauke, the Chillwind
 
-	Arkovian Warrant - 0.2%
-	Moosilauke's Pauldrons - 0.5882352941176471%
-	Moosilauke's Shoulderguards - 0.4117647058823529%
-	Vital Essence/Food Ration - 100.0%
+	Arkovian Warrant - 20.0%
+	Moosilauke's Pauldrons - 58.8235294117647%
+	Moosilauke's Shoulderguards - 41.1764705882353%
+	Vital Essence/Food Ration - 10000.0%
 
 Toxemus
 
@@ -7974,10 +7974,10 @@ Toxemus
 	0.0999000999000999 chance to roll an item from table mt_gearweaponsshield_d01.dbr
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
 	0.999000999000999 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Arkovian Warrant - 0.2%
+	Arkovian Warrant - 20.0%
 	Corpse Dust - 4.5%
 	Kilrian's Skullbreaker - 11.988011988011989%
-	Vital Essence/Food Ration - 100.0%
+	Vital Essence/Food Ration - 10000.0%
 
 The Actually Final Form of the Clone of John Bourbon
 

@@ -880,7 +880,7 @@ Cronley's Gang ~ Heretic - Female
 	0.047118624707293395 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	0.051755961289035216 chance to roll an item from table mt_hu_equippedreduced_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Scrap - 0.003%
+	Scrap - 0.3%
 
 Cronley's Gang ~ Heretic
 
@@ -890,7 +890,7 @@ Cronley's Gang ~ Heretic
 	0.047118624707293395 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	0.051755961289035216 chance to roll an item from table mt_hu_equippedreduced_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Scrap - 0.003%
+	Scrap - 0.3%
 
 Cronley's Gang ~ Lackey - Female
 
@@ -932,7 +932,7 @@ Cronley's Gang ~ Murderer - Female
 	0.051755961289035216 chance to roll an item from table mt_hu_equippedreduced_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.1419547164454539 chance to roll an item from table mt_geararmor_torsoall_c01.dbr
-	Scrap - 0.005%
+	Scrap - 0.5%
 
 Cronley's Gang ~ Murderer
 
@@ -941,7 +941,7 @@ Cronley's Gang ~ Murderer
 	0.051755961289035216 chance to roll an item from table mt_hu_equippedreduced_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.1419547164454539 chance to roll an item from table mt_geararmor_torsoall_c01.dbr
-	Scrap - 0.005%
+	Scrap - 0.5%
 
 Cronley's Gang ~ Gunman - Female
 
@@ -1061,12 +1061,12 @@ Manticore Blackmane
 Manticore Nightstalker
 
 	0.05471590060255963 chance to roll an item from table mt_beast_small_c01.dbr
-	Manticore Eye - 0.015%
+	Manticore Eye - 1.5%
 
 Manticore Alpha
 
 	0.05241220954900542 chance to roll an item from table mt_beast_small_c01.dbr
-	Manticore Eye - 0.04%
+	Manticore Eye - 4.0%
 
 Manticore Whitemane
 
@@ -1079,22 +1079,22 @@ Fleshwarped Manticore
 Fleshwarped Wastestalker
 
 	0.05471590060255963 chance to roll an item from table mt_beast_small_c01.dbr
-	Manticore Eye - 0.02%
+	Manticore Eye - 2.0%
 
 Fleshwarped Aethermane
 
 	0.05241220954900542 chance to roll an item from table mt_beast_small_c01.dbr
-	Manticore Eye - 0.055%
+	Manticore Eye - 5.5%
 
 Manticore Wastestalker
 
 	0.05471590060255963 chance to roll an item from table mt_beast_small_c01.dbr
-	Manticore Eye - 0.015%
+	Manticore Eye - 1.5%
 
 Manticore Alpha
 
 	0.05241220954900542 chance to roll an item from table mt_beast_small_c01.dbr
-	Manticore Eye - 0.04%
+	Manticore Eye - 4.0%
 
 Festerborn Bloodgorger
 
@@ -1777,7 +1777,7 @@ Venomwing Queen
 	0.021907487949642517 chance to roll an item from table mt_beast_small_c01.dbr
 	0.2045772771768088 chance to roll an item from table mt_beast_small_c01.dbr
 	Battered Shell - 0.435%
-	Royal Jelly - 0.05%
+	Royal Jelly - 5.0%
 
 Poison Wind Devil
 
@@ -1865,7 +1865,7 @@ Walking Dead
 Walking Dead
 
 	0.04791534954912987 chance to roll an item from table mt_hu_miscall_c01.dbr
-	Tonic of Mending - 1.0%
+	Tonic of Mending - 100.0%
 
 Walking Dead
 
@@ -1924,11 +1924,11 @@ Rotting Soldier
 	0.008570571514277144 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.01499678640291366 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	0.02617442135832783 chance to roll an item from table mt_hu_miscall_c01.dbr
-	Scrap - 0.045%
+	Scrap - 4.5%
 
 Walking Dead
 
-	Scrap - 0.045%
+	Scrap - 4.5%
 
 Rotting Soldier
 
@@ -1940,7 +1940,7 @@ Rotting Emberguard
 
 	0.008822621200758746 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.01920942010003867 chance to roll an item from table mt_hu_miscall_c01.dbr
-	Scrap - 0.045%
+	Scrap - 4.5%
 	Searing Ember - 0.22105263157894736%
 
 Rotting Emberguard
@@ -1977,7 +1977,7 @@ Fury Soldier
 The Amalgamation
 
 	Mutagenic Ichor - 12.375%
-	Tainted Brain Matter - 0.2%
+	Tainted Brain Matter - 20.0%
 
 Commander Lucius
 
@@ -2002,7 +2002,7 @@ Herald of the Stars
 
 Venarius, the Backbreaker
 
-	Tainted Brain Matter - 0.15%
+	Tainted Brain Matter - 15.0%
 
 Jarren the Plaguewarped
 
@@ -2034,21 +2034,21 @@ Watcher Brandis
 Darius Cronley
 
 	0.06281407035175879 chance to roll an item from table mt_accessories_rings_c01.dbr
-	Flanged Mace - 1.0%
+	Flanged Mace - 100.0%
 	Scrap - 80.0%
 	Tainted Brain Matter - 20.0%
-	War Shield - 1.0%
+	War Shield - 100.0%
 
 Nicholas Balthazar
 
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.999000999000999 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Scrap - 90.0%
-	Spaulders - 1.0%
+	Spaulders - 100.0%
 
 Edmund "Shanks" Doyle
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Silas "The Skinner"
 
@@ -2062,7 +2062,7 @@ Dravko "The Torch"
 	0.999000999000999 chance to roll an item from table mt_gearweaponsranged1h_c01.dbr
 	Dynamite - 30.0%
 	Scrap - 70.0%
-	Shoulderguard - 1.0%
+	Shoulderguard - 100.0%
 
 "Madman" Wilcox
 
@@ -2077,7 +2077,7 @@ Sleyvak "The Breaker"
 	0.999000999000999 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Dynamite - 30.0%
 	Scrap - 70.0%
-	Spaulders - 1.0%
+	Spaulders - 100.0%
 
 "Boomer" Slocum
 
@@ -2091,7 +2091,7 @@ Ashe "The Wall" Farrell
 	0.999000999000999 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Dynamite - 30.0%
 	Scrap - 70.0%
-	Spaulders - 1.0%
+	Spaulders - 100.0%
 
 "Moneybags" Martin
 
@@ -2118,7 +2118,7 @@ Boris, Master of the Pit
 
 Rag'Nadar, the Great Maw
 
-	Blood of Ch'thon - 0.15%
+	Blood of Ch'thon - 15.0%
 
 Chthonian Hungerer
 
@@ -2135,33 +2135,33 @@ Chthonian Gorger
 Harak'Bargoth, Guardian of the Bastion
 
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Bane'Galgalor, Guardian of the Gates
 
-	Blood of Ch'thon - 0.15%
+	Blood of Ch'thon - 15.0%
 
 Balok'Anatu, Bloodfiend
 
-	Blood of Ch'thon - 0.15%
+	Blood of Ch'thon - 15.0%
 
 Zal'Naroth, Guardian of the Bastion
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Chthonian Unraveler
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Galar'Bargok, the Black Fiend
 
-	Blood of Ch'thon - 0.08%
+	Blood of Ch'thon - 8.0%
 
 Lagoth'Ak, Harbinger of Blood
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.2%
+	Blood of Ch'thon - 20.0%
 
 Lagoth'Ak, Harbinger of Blood
 
@@ -2169,12 +2169,12 @@ Lagoth'Ak, Harbinger of Blood
 
 Shar'Zul, Harbinger of Chaos
 
-	Blood of Ch'thon - 0.25%
+	Blood of Ch'thon - 25.0%
 
 Sharanatu, Harbinger of the Void
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.15%
+	Blood of Ch'thon - 15.0%
 
 Salazar, Blade of Ch'thon
 
@@ -2182,7 +2182,7 @@ Salazar, Blade of Ch'thon
 	0.06281407035175879 chance to roll an item from table mt_geararmorshoulders_c01.dbr
 	0.09989012086704625 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmeleeswords1h_c01.dbr
-	Blood of Ch'thon - 0.22%
+	Blood of Ch'thon - 22.0%
 	Shoulderguard - 99.93147555961626%
 
 Bolvar, the Bloodbinder
@@ -2265,7 +2265,7 @@ Narbalgal, the Stormseeker
 
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Grundleplith the Hoarder
 
@@ -2273,7 +2273,7 @@ Grundleplith the Hoarder
 
 Lutra the Abandoned
 
-	Ancient Heart - 0.02%
+	Ancient Heart - 2.0%
 
 Bloodsworn Priest - Female
 
@@ -2284,7 +2284,7 @@ Bloodsworn Priest - Female
 	0.062284917948863795 chance to roll an item from table mt_geararmor_torsoall_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	0.06437877884697267 chance to roll an item from table mt_geararmorhead_c01.dbr
-	Chthonic Seal of Binding - 0.2%
+	Chthonic Seal of Binding - 20.0%
 	Spaulders - 39.93211540381352%
 
 Bloodsworn Doomsayer - Female
@@ -2295,7 +2295,7 @@ Bloodsworn Doomsayer - Female
 	0.06218000827165247 chance to roll an item from table mt_geararmorshoulders_c01.dbr
 	0.06437877884697267 chance to roll an item from table mt_geararmorhead_c01.dbr
 	0.06877819033616586 chance to roll an item from table mt_hu_equippedreduced_c01.dbr
-	Chthonic Seal of Binding - 0.15%
+	Chthonic Seal of Binding - 15.0%
 	Spaulders - 39.93211540381352%
 
 Bloodsworn Priest
@@ -2307,7 +2307,7 @@ Bloodsworn Priest
 	0.062284917948863795 chance to roll an item from table mt_geararmor_torsoall_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	0.06437877884697267 chance to roll an item from table mt_geararmorhead_c01.dbr
-	Chthonic Seal of Binding - 0.2%
+	Chthonic Seal of Binding - 20.0%
 	Spaulders - 39.93211540381352%
 
 Bloodsworn Doomsayer
@@ -2318,7 +2318,7 @@ Bloodsworn Doomsayer
 	0.06218000827165247 chance to roll an item from table mt_geararmorshoulders_c01.dbr
 	0.06437877884697267 chance to roll an item from table mt_geararmorhead_c01.dbr
 	0.06877819033616586 chance to roll an item from table mt_hu_equippedreduced_c01.dbr
-	Chthonic Seal of Binding - 0.15%
+	Chthonic Seal of Binding - 15.0%
 	Spaulders - 39.93211540381352%
 
 Loxmere Nightmage
@@ -2329,7 +2329,7 @@ Loxmere Nightmage
 	1.9569471624266144 chance to roll an item from table mt_geararmorshoulders_c01.dbr
 	2.7283061765820387 chance to roll an item from table mt_geararmor_torsoall_c01.dbr
 	3.21853878339234 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Tainted Brain Matter - 0.1%
+	Tainted Brain Matter - 10.0%
 
 Noveria Stormfire
 
@@ -2339,7 +2339,7 @@ Noveria Stormfire
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_geararmorshoulders_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Archivist Thelon
 
@@ -2349,11 +2349,11 @@ Archivist Thelon
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_geararmorshoulders_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Tainted Brain Matter - 0.08%
+	Tainted Brain Matter - 8.0%
 
 Mogara, the Prime Matriarch
 
-	Manticore Eye - 0.28%
+	Manticore Eye - 28.000000000000004%
 
 Milton Hart
 
@@ -2361,7 +2361,7 @@ Milton Hart
 	0.06281407035175879 chance to roll an item from table mt_geararmorhead_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.06281407035175879 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Bane'Gargoth
 
@@ -2378,7 +2378,7 @@ Pusquill the Hoarder
 
 Kyzogg the Reanimator
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Kalis Ka, the Bonehunter
 
@@ -2439,7 +2439,7 @@ Kilrian, the Tainted Soul
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
 	0.999000999000999 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Corpse Dust - 5.4%
-	Kilrian's Shattered Soul - 0.45%
+	Kilrian's Shattered Soul - 45.0%
 
 Gutworm, the Maneater
 
@@ -2449,7 +2449,7 @@ Gutworm, the Maneater
 
 Ol' Bloodbriar
 
-	Ancient Heart - 0.15%
+	Ancient Heart - 15.0%
 	Serrated Spike - 3.6%
 	Vicious Spikes - 2.4%
 
@@ -2458,7 +2458,7 @@ Harrath the Slaughterer
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.07327349331379374 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.15%
+	Tainted Brain Matter - 15.0%
 
 Mistborn Brute - Female
 
@@ -2482,17 +2482,17 @@ Gollus, the Deepdweller - Female
 
 Gulgoth, the Rampaging
 
-	Ancient Heart - 0.15%
+	Ancient Heart - 15.0%
 
 Voldrak, the Destroyer
 
 	Ancient Heart - 15.0%
-	Blueprint: Relic - Mistborn Talisman - 0.18%
+	Blueprint: Relic - Mistborn Talisman - 18.0%
 
 Balegor, the Swamp King
 
 	Ancient Heart - 15.0%
-	Blueprint: Relic - Mistborn Talisman - 0.18%
+	Blueprint: Relic - Mistborn Talisman - 18.0%
 
 Viloth, the Corruptor
 
@@ -2500,7 +2500,7 @@ Viloth, the Corruptor
 
 Warden Krieg
 
-	Tainted Brain Matter - 0.2%
+	Tainted Brain Matter - 20.0%
 
 Ulraprax, the Hive Matriarch
 
@@ -2514,65 +2514,65 @@ Ronaprax, the Grand Queen
 
 Nur'Garu, Jaws of Oblivion
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Sargo'Din, the Hungering Maw
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Narl'Maash, the Engorged
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Shar'Oruuth
 
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Wen'Kazul, the Hungering Blade
 
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Jugak'Siin ~ Reflective
 
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Sen'Thel Voidbringer
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Nii'Thel ~ Bruiser
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Vom'Anatu
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Ekket'Anatu
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Yakwa'Anatu ~ Unstoppable
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Fos'Daroth
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Ordran'Daroth
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Pulv'Daroth
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Fleshwarped Butcher
 
@@ -2612,23 +2612,23 @@ Rotting Emberguard
 	0.008822621200758746 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.02219617427737736 chance to roll an item from table mt_hu_miscall_c01.dbr
 	Molten Skin - 0.25500000000000006%
-	Scrap - 0.08%
+	Scrap - 8.0%
 
 Bonebreaker
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Faldonir Aetherborn
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Malnotris ~ Unstoppable
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Festerlis ~ Bruiser
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Allara Starfire
 
@@ -2638,7 +2638,7 @@ Allara Starfire
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_geararmorshoulders_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Aetherblaze
 
@@ -2648,7 +2648,7 @@ Aetherblaze
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_geararmorshoulders_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Kamladris, the Rimeheart
 
@@ -2658,49 +2658,49 @@ Kamladris, the Rimeheart
 	0.7502605071205279 chance to roll an item from table mt_geararmor_torsoall_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_geararmorshoulders_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Shar'Oruuth
 
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Wen'Kazul, the Hungering Blade
 
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Sarmaz'Din ~ Frozen
 
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Charn'Daroth
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Fos'Daroth
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Maga'Lugal ~ Defender
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Bonebreaker
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Faldonir Aetherborn
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Festerlis ~ Bruiser
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Darlax, Devourer of Dreams
 
@@ -2718,7 +2718,7 @@ Allara Starfire
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_geararmorshoulders_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Aetherblaze
 
@@ -2728,7 +2728,7 @@ Aetherblaze
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_geararmorshoulders_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Kamladris, the Rimeheart
 
@@ -2738,28 +2738,28 @@ Kamladris, the Rimeheart
 	0.7502605071205279 chance to roll an item from table mt_geararmor_torsoall_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_geararmorshoulders_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Sulkarr, the Stormtouched
 
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmeleeaxes1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Horcris, the Terror
 
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Corruptis
 
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Crimson Bane
 
@@ -2778,50 +2778,50 @@ Aldanar, the Undying
 
 Narl'Maash, the Engorged
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Nye'Kazul, the Maw of Fire
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Waban'Ak, the Sparkmaw
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Hiln'Raz, the Dark Omen
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Sen'Thel Voidbringer
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Gurgoth'Siin ~ Burning
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Orudin'Anatu ~ Diseased
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Yakwa'Anatu ~ Unstoppable
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Elnar'Daroth
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Ordran'Daroth
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Pulv'Daroth
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Death Revenant
 
@@ -2858,45 +2858,45 @@ Chillheart ~ Frozen
 
 Bonebreaker
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Faldonir Aetherborn
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Igrixx, the Rimeheart
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Jaron, Lord of the Storm
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Lorkhan, Lord of the Deep
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Eidonax ~ Swift
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Abner, the Forsaken One
 
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Gastris, the Foul
 
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Alrick Magefire
 
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Guardian of Bysmiel
 
@@ -2944,22 +2944,22 @@ Farros, the Rotted
 
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Tainted Brain Matter - 0.01%
+	Tainted Brain Matter - 100.0%
 
 Jillius, the Decayed
 
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Tainted Brain Matter - 0.01%
+	Tainted Brain Matter - 100.0%
 
 Neegan, the Withered
 
-	Mace - 1.0%
-	Tainted Brain Matter - 0.01%
+	Mace - 100.0%
+	Tainted Brain Matter - 100.0%
 
 Gluttrius'Maw
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Sicrix, the Skittering
 
@@ -2968,7 +2968,7 @@ Sicrix, the Skittering
 
 Emberjaw
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Serrated Spike - 3.6%
 	Vicious Spikes - 2.4%
 
@@ -2977,7 +2977,7 @@ Harrath, the Returned
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.15%
+	Tainted Brain Matter - 15.0%
 
 Padmanestia
 
@@ -2987,16 +2987,16 @@ Padmanestia
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_geararmorshoulders_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Luthus'Balok
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 "The Bruiser" Romanov
 
 	0.017139674060531615 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Bolla "The Raven"
 
@@ -3005,11 +3005,11 @@ Bolla "The Raven"
 	0.37513025356026397 chance to roll an item from table mt_geararmor_torsoall_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Slathra, the Plagued
 
-	Ancient Heart - 0.05%
+	Ancient Heart - 5.0%
 
 Ballior ~ Burning
 
@@ -3022,7 +3022,7 @@ Igor "The Brawler"
 	0.14836795252225518 chance to roll an item from table mt_geararmorfeet_c01.dbr
 	0.3913894324853229 chance to roll an item from table mt_geararmorhead_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Caspis, the Blooddrinker
 
@@ -3032,23 +3032,23 @@ Caspis, the Blooddrinker
 	0.3913894324853229 chance to roll an item from table mt_geararmorhead_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Blood of Ch'thon - 0.05%
+	Blood of Ch'thon - 5.0%
 	Spaulders - 14.677103718199609%
 
 Rostov, the Aetherflame
 
 	0.017139674060531615 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.017139674060531615 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Nucus'Dal
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Innu'Garbal
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Conastaria
 
@@ -3058,7 +3058,7 @@ Conastaria
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_geararmorshoulders_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Ludia Starfire
 
@@ -3068,11 +3068,11 @@ Ludia Starfire
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_geararmorshoulders_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Bogloth the Marrowdrinker
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 The Locust
 
@@ -3088,11 +3088,11 @@ Vizier Haxin
 
 Glukrog Lifedrinker
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Phabius
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Holvuur Bonespeaker
 
@@ -3107,7 +3107,7 @@ Igniaa Venomtongue
 
 Vom'Zul
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Thullon, Chosen of Ch'thon
 
@@ -3117,7 +3117,7 @@ Thullon, Chosen of Ch'thon
 	0.3913894324853229 chance to roll an item from table mt_geararmorhead_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 	Spaulders - 14.677103718199609%
 
 Ludia Bloodwhisper
@@ -3129,7 +3129,7 @@ Ludia Bloodwhisper
 	0.9891196834817013 chance to roll an item from table mt_geararmor_torsoall_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Halvastra Wrathfire
 
@@ -3139,7 +3139,7 @@ Halvastra Wrathfire
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_geararmorshoulders_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Horvald Shieldbreaker
 
@@ -3156,15 +3156,15 @@ Narroth, the Behemoth
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmeleeaxes1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Barrostrandt, the Ascended
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Narl'Sarroth
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Death Revenant
 
@@ -3174,7 +3174,7 @@ Death Revenant
 
 Rixna Plaguefeather
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Mortallis
 
@@ -3189,123 +3189,123 @@ Grum
 
 Gal'Barok
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Har'Nadiin
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Ellon'Siin
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Udal'Nadal
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Balok'Grot
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Orudin'Ak
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Serethal'Siin
 
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Wallan'Siin
 
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Zagal'Udal ~ Electrified
 
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Rigak'Doth ~ Reflective
 
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Palloth'Dar ~ Frozen
 
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Innal'Gargoth
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Udal'Thel
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Walloth'Dar
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Eldon'Siin ~ Electrified
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Sen'Udal ~ Burning
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Carath'Lud
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Elegor'Dar
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Fallim'Gargoth
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Ossius'Dar
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Blagal'Doth
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Mal'Thallon ~ Frozen
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Shogal'Gargoth ~ Shielded
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Brognathar
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Aethollin
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Kollus ~ Burning
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Feseron ~ Electrified
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Direcrix
 
@@ -3409,27 +3409,27 @@ Ollegon the Icewatcher
 
 Rexna
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Balladra Stormscion
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Sharath
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Traglodan ~ Voidtouched
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Wrallan ~ Electrified
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Calladra ~ Corrupted
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Bloodwretch ~ Swift
 
@@ -3453,23 +3453,23 @@ Swiftrot ~ Swift
 
 Grubnar
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Follistad
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Flamewretch ~ Burning
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Palleod ~ Electrified
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Occullon
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Master Ravok, the Death's Whisper
 
@@ -3720,200 +3720,200 @@ Kymon's Chosen ~ Zealot
 Aetheros
 
 	Serrated Spike - 3.6%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 	Vicious Spikes - 2.4%
 
 Mutallor ~ Regenerator
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 12.0%
 
 Stonemane ~ Defender
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 12.0%
 
 Dreadtusk, the Hunter's Bane
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 12.0%
 
 Ragesnout ~ Swift
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 12.0%
 
 Hellmane ~ Burning
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 12.0%
 
 Rotmane ~ Diseased
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 12.0%
 
 Aetherean ~ Corrupted
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 12.0%
 
 Riftsnout ~ Voidtouched
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 12.0%
 
 Maledictus
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 10.5%
 
 Razorback
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 10.0%
 	Empowered Razorback's Spined Mantle - 0.7142857142857143%
 	Razorback's Spined Mantle - 0.7142857142857143%
 
 Bilewart ~ Swift
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 10.5%
 
 Rimeclaw ~ Frozen
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 10.5%
 
 Wrathclaw ~ Corrupted
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 10.5%
 
 Rotbite ~ Diseased
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 10.5%
 
 Nur'Garu, Jaws of Oblivion
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Sargo'Din, the Hungering Maw
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Narl'Maash, the Engorged
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Nye'Kazul, the Maw of Fire
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Waban'Ak, the Sparkmaw
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Shar'Oruuth
 
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Wen'Kazul, the Hungering Blade
 
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Zalyth'Uthax ~ Electrified
 
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Jugak'Siin ~ Reflective
 
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Sarmaz'Din ~ Frozen
 
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee2h_c01.dbr
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Innugaru, Terror of the Void
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Hiln'Raz, the Dark Omen
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Sen'Thel Voidbringer
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Nii'Thel ~ Bruiser
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Gurgoth'Siin ~ Burning
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Vom'Anatu
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Gawtok'Anatu
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Ekket'Anatu
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Orudin'Anatu ~ Diseased
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Yakwa'Anatu ~ Unstoppable
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Charn'Daroth
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Elnar'Daroth
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Fos'Daroth
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Ordran'Daroth
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Pulv'Daroth
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Maga'Lugal ~ Defender
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Sharanatu ~ Shielded
 
 	1.998001998001998 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Harpallax, the Suneater
 
@@ -3947,47 +3947,47 @@ Vildrix ~ Voidtouched
 
 Ralture, the Untouchable
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Rugaru, the Houndmaster
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Ooglar ~ Unstoppable
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Reeve ~ Burning
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Wovaar ~ Frozen
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Ravadaar ~ Corrupted
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Vinaldaar ~ Voidtouched
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Bonebreaker
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Faldonir Aetherborn
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Malnotris ~ Unstoppable
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Festerlis ~ Bruiser
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Mesmer
 
@@ -4015,125 +4015,125 @@ Illumin ~ Electrified
 
 Hammerton
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Haldras Flamespitter
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Stoneheart ~ Reflective
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Stonegrinder ~ Charger
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Rimestone ~ Frozen
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Voidstone ~ Voidtouched
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Deshigu Chillbane
 
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Nabinok
 
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	9.433962264150944 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Akala ~ Swift
 
 	0.017139674060531615 chance to roll an item from table mt_gearweaponsrangedcrossbow2h_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Ulbalak ~ Supporter
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Torgru, the Flametouched
 
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Arbagol, the Shank
 
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Uldagu Flame-Eater
 
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsranged2h_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Molbagdal Stormcaller
 
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Holborack ~ Defender
 
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Pukesnot the Unwashed
 
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Nirlamnack ~ Reflective
 
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Malexna, the Stormweaver
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Blazewing
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Blazewing
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Tyrronax, the Great Watcher
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Tyrronax, the Great Watcher
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Scyliss, the Stormtouched ~ Electrified
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Holdrexna, the Windwalker ~ Swift
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Holdrexna, the Windwalker ~ Swift
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Wrathwing ~ Corrupted
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Julius Crowley, the Mindbender
 
@@ -4194,14 +4194,14 @@ Meric Aether-Touched ~ Charger
 
 	0.017139674060531615 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.017139674060531615 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Eldon "Snakeskin" ~ Regenerator
 
 	0.024980372564413676 chance to roll an item from table mt_geararmorshoulders_c01.dbr
 	0.042786850174712975 chance to roll an item from table mt_geararmor_torsoall_c01.dbr
 	0.04569143999428857 chance to roll an item from table mt_gearweaponsranged2h_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Leander "Blackwater" Greene
 
@@ -4211,7 +4211,7 @@ Leander "Blackwater" Greene
 	0.6358626536668079 chance to roll an item from table mt_gearweaponsranged1h_c01.dbr
 	Empowered Leander Greene's Hand Cannon - 0.17662851490744666%
 	Leander Greene's Hand Cannon - 0.17662851490744666%
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Bloody Jack
 
@@ -4220,7 +4220,7 @@ Bloody Jack
 	0.37513025356026397 chance to roll an item from table mt_geararmor_torsoall_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Delnar Black Eye
 
@@ -4229,7 +4229,7 @@ Delnar Black Eye
 	0.37513025356026397 chance to roll an item from table mt_geararmor_torsoall_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsranged1h_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Hudson Fury
 
@@ -4239,7 +4239,7 @@ Hudson Fury
 	0.3913894324853229 chance to roll an item from table mt_geararmorhead_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Nadra, the Shadow
 
@@ -4248,7 +4248,7 @@ Nadra, the Shadow
 	0.37513025356026397 chance to roll an item from table mt_geararmor_torsoall_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Serul Shadesong
 
@@ -4257,7 +4257,7 @@ Serul Shadesong
 	0.37513025356026397 chance to roll an item from table mt_geararmor_torsoall_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Wiley, the Slasher ~ Swift
 
@@ -4265,7 +4265,7 @@ Wiley, the Slasher ~ Swift
 	0.3913894324853229 chance to roll an item from table mt_geararmorhead_c01.dbr
 	0.4892367906066536 chance to roll an item from table mt_geararmorshoulders_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsmeleeswords1h_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Everett, the Bloodbound ~ Burning
 
@@ -4282,7 +4282,7 @@ Dred One-Eye
 	0.37513025356026397 chance to roll an item from table mt_accessories_rings_c01.dbr
 	0.37513025356026397 chance to roll an item from table mt_geararmor_torsoall_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponsranged2h_c01.dbr
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Allara Starfire
 
@@ -4292,7 +4292,7 @@ Allara Starfire
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_geararmorshoulders_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Aetherblaze
 
@@ -4302,7 +4302,7 @@ Aetherblaze
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_geararmorshoulders_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Kamladris, the Rimeheart
 
@@ -4312,7 +4312,7 @@ Kamladris, the Rimeheart
 	0.7502605071205279 chance to roll an item from table mt_geararmor_torsoall_c01.dbr
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_geararmorshoulders_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Corpusia ~ Reflective
 
@@ -4322,7 +4322,7 @@ Corpusia ~ Reflective
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_geararmorshoulders_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Espiria ~ Supporter
 
@@ -4332,31 +4332,31 @@ Espiria ~ Supporter
 	0.9891196834817013 chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_geararmorshoulders_c01.dbr
 	1.9569471624266144 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Raxa, the Jade Huntress
 
-	Manticore Eye - 0.15%
+	Manticore Eye - 15.0%
 
 Neleron, the Eyes of Death
 
-	Manticore Eye - 0.15%
+	Manticore Eye - 15.0%
 
 Ar'kall, the Black Heart
 
-	Manticore Eye - 0.15%
+	Manticore Eye - 15.0%
 
 Uroxis Swiftclaw ~ Swift
 
-	Manticore Eye - 0.15%
+	Manticore Eye - 15.0%
 
 Waroxis Crimsonclaw ~ Bruiser
 
-	Manticore Eye - 0.15%
+	Manticore Eye - 15.0%
 
 Blazara Firemane
 
-	Manticore Eye - 0.15%
+	Manticore Eye - 15.0%
 
 Vladox, the Bloodletter
 
@@ -4440,102 +4440,102 @@ Flocrix ~ Burning
 
 Soulrend
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Aragonax, the Spirit Eater
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Baldim, the Chaosbringer
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Bonesnarl ~ Unstoppable
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Idran, the Anomaly ~ Regenerator
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Balra ~ Voidtouched
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Aethoran, the Plaguebearer ~ Diseased
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Gollorg, the Undiminished ~ Unstoppable
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Corpsefire ~ Reflective
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Azgalogg, the Corruptor ~ Defender
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Charrus
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 9.0%
 
 Plaguelord
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 9.0%
 
 Voidrage
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 9.0%
 
 Wolvin, the Inferno
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 9.0%
 
 Jarlax, Rage of the Swamp ~ Charger
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 9.0%
 
 Garn, the Packhunter ~ Defender
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 9.0%
 
 Scarsnout, the Cannibal
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 7.5%
 
 Bloodclaw
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 7.5%
 
 Whitemane, the Thunderstruck
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 7.5%
 
 Ernol Carrioneater ~ Diseased
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 7.5%
 
 Crimsontail ~ Supporter
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 7.5%
 
 Rav ~ Voidtouched
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 7.5%
 
 Grulgor, the Tormented ~ Diseased
@@ -4600,61 +4600,61 @@ Chillheart ~ Frozen
 
 Igrixx, the Rimeheart
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Jaron, Lord of the Storm
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Lorkhan, Lord of the Deep
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Farnlan, the Vile ~ Unstoppable
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Eidonax ~ Swift
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Avaladran ~ Corrupted
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Terrolean, the Pandemonium
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Serrated Spike - 3.6%
 	Vicious Spikes - 2.4%
 
 Korplax, the Overgrown
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Serrated Spike - 3.6%
 	Vicious Spikes - 2.4%
 
 Blackthorn ~ Reflective
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Serrated Spike - 3.6%
 	Vicious Spikes - 2.4%
 
 Rotthorn ~ Diseased
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Serrated Spike - 3.6%
 	Vicious Spikes - 2.4%
 
 Everbark ~ Regenerator
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Serrated Spike - 3.6%
 	Vicious Spikes - 2.4%
 
 Rimebark ~ Frozen
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Serrated Spike - 3.6%
 	Vicious Spikes - 2.4%
 
@@ -4663,199 +4663,199 @@ Sulkarr, the Stormtouched
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmeleeaxes1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Horcris, the Terror
 
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Corruptis
 
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Caladrak ~ Unstoppable
 
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmeleeaxes1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Faldrak ~ Reflective
 
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Ragarr Stonecrusher
 
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmeleeaxes1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Toglokk the Ravener
 
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Maglak ~ Shielded
 
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmeleeaxes1h_c01.dbr
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Wallak ~ Supporter
 
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Glavrok, the Darkdweller - Female
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Algrok, the Blind Berserker - Female
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Savarok ~ Shielded - Female
 
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Balarr, the Rockeater - Female
 
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmeleeaxes1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Paldrak, the Warmonger - Female
 
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Stonetooth ~ Defender - Female
 
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmeleeaxes1h_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Elloras, the Sun-Eater ~ Burning - Female
 
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	0.06281317363559794 chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Uglak, the Immortal
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Surrlak, the Earthmover
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Troglak ~ Unstoppable
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Oldak, the Miasma ~ Diseased
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Wontlak ~ Frozen
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Balglak, the Swamp Warden
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Rovos ~ Reflective
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Malgalok ~ Voidtouched
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Avalgal ~ Corrupted
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Volaxna, the Bloodgorger
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Volaxna, the Bloodgorger
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Plaguewing ~ Diseased
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Plaguewing ~ Diseased
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Harrowbeak ~ Unstoppable
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Wrathtalon ~ Corrupted
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Voidtalon ~ Voidtouched
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Voidtalon ~ Voidtouched
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Scarprax, the Frenzied
 
 	Battered Shell - 4.5%
-	Royal Jelly - 0.5%
+	Royal Jelly - 50.0%
 
 Caraprax ~ Defender
 
 	Battered Shell - 4.5%
-	Royal Jelly - 0.5%
+	Royal Jelly - 50.0%
 
 Harprax, the Queen's Will ~ Supporter
 
 	Battered Shell - 4.5%
-	Royal Jelly - 0.5%
+	Royal Jelly - 50.0%
 
 Ralkara ~ Regenerator
 
 	Battered Shell - 4.5%
-	Royal Jelly - 0.5%
+	Royal Jelly - 50.0%
 
 Folcrax ~ Frozen
 
 	Battered Shell - 4.5%
-	Royal Jelly - 0.5%
+	Royal Jelly - 50.0%
 
 Walacrax ~ Corrupted
 
 	Battered Shell - 4.5%
-	Royal Jelly - 0.5%
+	Royal Jelly - 50.0%
 
 Ooldacrax ~ Voidtouched
 
 	Battered Shell - 4.5%
-	Royal Jelly - 0.5%
+	Royal Jelly - 50.0%
 
 Bonechill
 
@@ -4879,19 +4879,19 @@ Mallus ~ Corrupted
 
 Gornax, the Nightmare
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Sharn, the Cursed
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Furz Venomdrinker ~ Supporter
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Bloodhowl ~ Regenerator
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Crimson Bane
 
@@ -4922,31 +4922,31 @@ Abner, the Forsaken One
 
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Gastris, the Foul
 
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Gutripper ~ Unstoppable
 
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Teselon ~ Electrified
 
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Alrick Magefire
 
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	0.19946808510638298 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Valdaran, the Storm Scourge
 
@@ -5030,19 +5030,19 @@ Allminoxius, the Artificer
 
 	0.999000999000999 chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
-	Arkovian Warrant - 0.2%
+	Arkovian Warrant - 20.0%
 	Corpse Dust - 3.0%
 	Sanctified Bone - 6.0%
 
 Moosilauke, the Chillwind
 
-	Arkovian Warrant - 0.2%
+	Arkovian Warrant - 20.0%
 
 Toxemus
 
 	0.999000999000999 chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
 	0.999000999000999 chance to roll an item from table mt_gearweaponsshield_c01.dbr
-	Arkovian Warrant - 0.2%
+	Arkovian Warrant - 20.0%
 	Corpse Dust - 4.5%
 
 The Actually Final Form of the Clone of John Bourbon

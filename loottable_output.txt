@@ -209,19 +209,19 @@ Cronley's Gang ~ Arsonist
 
 Cronley's Gang ~ Heretic - Female
 
-	Scrap - 0.003%
+	Scrap - 0.3%
 
 Cronley's Gang ~ Heretic
 
-	Scrap - 0.003%
+	Scrap - 0.3%
 
 Cronley's Gang ~ Murderer - Female
 
-	Scrap - 0.005%
+	Scrap - 0.5%
 
 Cronley's Gang ~ Murderer
 
-	Scrap - 0.005%
+	Scrap - 0.5%
 
 Rover
 
@@ -231,27 +231,27 @@ Rover
 
 Manticore Nightstalker
 
-	Manticore Eye - 0.015%
+	Manticore Eye - 1.5%
 
 Manticore Alpha
 
-	Manticore Eye - 0.04%
+	Manticore Eye - 4.0%
 
 Fleshwarped Wastestalker
 
-	Manticore Eye - 0.02%
+	Manticore Eye - 2.0%
 
 Fleshwarped Aethermane
 
-	Manticore Eye - 0.055%
+	Manticore Eye - 5.5%
 
 Manticore Wastestalker
 
-	Manticore Eye - 0.015%
+	Manticore Eye - 1.5%
 
 Manticore Alpha
 
-	Manticore Eye - 0.04%
+	Manticore Eye - 4.0%
 
 Festerborn Bloodgorger
 
@@ -468,7 +468,7 @@ Venomwing Stinger
 Venomwing Queen
 
 	Battered Shell - 0.435%
-	Royal Jelly - 0.05%
+	Royal Jelly - 5.0%
 
 Chillmane Rager
 
@@ -500,7 +500,7 @@ Fleshwarped Thrasher
 
 Walking Dead
 
-	Tonic of Mending - 1.0%
+	Tonic of Mending - 100.0%
 
 Wretcher
 
@@ -529,21 +529,21 @@ Plague Walker
 
 Rotting Soldier
 
-	Scrap - 0.045%
+	Scrap - 4.5%
 
 Walking Dead
 
-	Scrap - 0.045%
+	Scrap - 4.5%
 
 Rotting Emberguard
 
-	Scrap - 0.045%
+	Scrap - 4.5%
 	Searing Ember - 0.22105263157894736%
 
 The Amalgamation
 
 	Mutagenic Ichor - 12.375%
-	Tainted Brain Matter - 0.2%
+	Tainted Brain Matter - 20.0%
 
 Commander Lucius
 
@@ -568,7 +568,7 @@ Herald of the Stars
 
 Venarius, the Backbreaker
 
-	Tainted Brain Matter - 0.15%
+	Tainted Brain Matter - 15.0%
 
 Jarren the Plaguewarped
 
@@ -594,19 +594,19 @@ Watcher Brandis
 
 Darius Cronley
 
-	Flanged Mace - 1.0%
+	Flanged Mace - 100.0%
 	Scrap - 80.0%
 	Tainted Brain Matter - 20.0%
-	War Shield - 1.0%
+	War Shield - 100.0%
 
 Nicholas Balthazar
 
 	Scrap - 90.0%
-	Spaulders - 1.0%
+	Spaulders - 100.0%
 
 Edmund "Shanks" Doyle
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Silas "The Skinner"
 
@@ -617,7 +617,7 @@ Dravko "The Torch"
 
 	Dynamite - 30.0%
 	Scrap - 70.0%
-	Shoulderguard - 1.0%
+	Shoulderguard - 100.0%
 
 "Madman" Wilcox
 
@@ -628,7 +628,7 @@ Sleyvak "The Breaker"
 
 	Dynamite - 30.0%
 	Scrap - 70.0%
-	Spaulders - 1.0%
+	Spaulders - 100.0%
 
 "Boomer" Slocum
 
@@ -639,7 +639,7 @@ Ashe "The Wall" Farrell
 
 	Dynamite - 30.0%
 	Scrap - 70.0%
-	Spaulders - 1.0%
+	Spaulders - 100.0%
 
 "Moneybags" Martin
 
@@ -658,47 +658,47 @@ Halion's Wittle Rat
 
 Rag'Nadar, the Great Maw
 
-	Blood of Ch'thon - 0.15%
+	Blood of Ch'thon - 15.0%
 
 Harak'Bargoth, Guardian of the Bastion
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Bane'Galgalor, Guardian of the Gates
 
-	Blood of Ch'thon - 0.15%
+	Blood of Ch'thon - 15.0%
 
 Balok'Anatu, Bloodfiend
 
-	Blood of Ch'thon - 0.15%
+	Blood of Ch'thon - 15.0%
 
 Zal'Naroth, Guardian of the Bastion
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Chthonian Unraveler
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Galar'Bargok, the Black Fiend
 
-	Blood of Ch'thon - 0.08%
+	Blood of Ch'thon - 8.0%
 
 Lagoth'Ak, Harbinger of Blood
 
-	Blood of Ch'thon - 0.2%
+	Blood of Ch'thon - 20.0%
 
 Shar'Zul, Harbinger of Chaos
 
-	Blood of Ch'thon - 0.25%
+	Blood of Ch'thon - 25.0%
 
 Sharanatu, Harbinger of the Void
 
-	Blood of Ch'thon - 0.15%
+	Blood of Ch'thon - 15.0%
 
 Salazar, Blade of Ch'thon
 
-	Blood of Ch'thon - 0.22%
+	Blood of Ch'thon - 22.0%
 	Shoulderguard - 99.93147555961626%
 
 Bolvar, the Bloodbinder
@@ -758,7 +758,7 @@ Bloodfeast the Ruthless
 
 Narbalgal, the Stormseeker
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Grundleplith the Hoarder
 
@@ -766,47 +766,47 @@ Grundleplith the Hoarder
 
 Lutra the Abandoned
 
-	Ancient Heart - 0.02%
+	Ancient Heart - 2.0%
 
 Bloodsworn Priest - Female
 
-	Chthonic Seal of Binding - 0.2%
+	Chthonic Seal of Binding - 20.0%
 	Spaulders - 39.93211540381352%
 
 Bloodsworn Doomsayer - Female
 
-	Chthonic Seal of Binding - 0.15%
+	Chthonic Seal of Binding - 15.0%
 	Spaulders - 39.93211540381352%
 
 Bloodsworn Priest
 
-	Chthonic Seal of Binding - 0.2%
+	Chthonic Seal of Binding - 20.0%
 	Spaulders - 39.93211540381352%
 
 Bloodsworn Doomsayer
 
-	Chthonic Seal of Binding - 0.15%
+	Chthonic Seal of Binding - 15.0%
 	Spaulders - 39.93211540381352%
 
 Loxmere Nightmage
 
-	Tainted Brain Matter - 0.1%
+	Tainted Brain Matter - 10.0%
 
 Noveria Stormfire
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Archivist Thelon
 
-	Tainted Brain Matter - 0.08%
+	Tainted Brain Matter - 8.0%
 
 Mogara, the Prime Matriarch
 
-	Manticore Eye - 0.28%
+	Manticore Eye - 28.000000000000004%
 
 Milton Hart
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Bane'Gargoth
 
@@ -823,7 +823,7 @@ Pusquill the Hoarder
 
 Kyzogg the Reanimator
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Kalis Ka, the Bonehunter
 
@@ -873,7 +873,7 @@ Death Revenant
 Kilrian, the Tainted Soul
 
 	Corpse Dust - 5.4%
-	Kilrian's Shattered Soul - 0.45%
+	Kilrian's Shattered Soul - 45.0%
 
 Gutworm, the Maneater
 
@@ -881,14 +881,14 @@ Gutworm, the Maneater
 
 Ol' Bloodbriar
 
-	Ancient Heart - 0.15%
+	Ancient Heart - 15.0%
 	Serrated Spike - 3.6%
 	Vicious Spikes - 2.4%
 
 Harrath the Slaughterer
 
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.15%
+	Tainted Brain Matter - 15.0%
 
 Gollus, the Deepdweller - Female
 
@@ -896,21 +896,21 @@ Gollus, the Deepdweller - Female
 
 Gulgoth, the Rampaging
 
-	Ancient Heart - 0.15%
+	Ancient Heart - 15.0%
 
 Voldrak, the Destroyer
 
 	Ancient Heart - 15.0%
-	Blueprint: Relic - Mistborn Talisman - 0.18%
+	Blueprint: Relic - Mistborn Talisman - 18.0%
 
 Balegor, the Swamp King
 
 	Ancient Heart - 15.0%
-	Blueprint: Relic - Mistborn Talisman - 0.18%
+	Blueprint: Relic - Mistborn Talisman - 18.0%
 
 Warden Krieg
 
-	Tainted Brain Matter - 0.2%
+	Tainted Brain Matter - 20.0%
 
 Ulraprax, the Hive Matriarch
 
@@ -924,59 +924,59 @@ Ronaprax, the Grand Queen
 
 Nur'Garu, Jaws of Oblivion
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Sargo'Din, the Hungering Maw
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Narl'Maash, the Engorged
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Shar'Oruuth
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Wen'Kazul, the Hungering Blade
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Jugak'Siin ~ Reflective
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Sen'Thel Voidbringer
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Nii'Thel ~ Bruiser
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Vom'Anatu
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Ekket'Anatu
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Yakwa'Anatu ~ Unstoppable
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Fos'Daroth
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Ordran'Daroth
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Pulv'Daroth
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Fleshwarped Butcher
 
@@ -1004,71 +1004,71 @@ Aldanar, the Undying
 Rotting Emberguard
 
 	Molten Skin - 0.25500000000000006%
-	Scrap - 0.08%
+	Scrap - 8.0%
 
 Bonebreaker
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Faldonir Aetherborn
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Malnotris ~ Unstoppable
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Festerlis ~ Bruiser
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Allara Starfire
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Aetherblaze
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Kamladris, the Rimeheart
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Shar'Oruuth
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Wen'Kazul, the Hungering Blade
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Sarmaz'Din ~ Frozen
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Charn'Daroth
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Fos'Daroth
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Maga'Lugal ~ Defender
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Bonebreaker
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Faldonir Aetherborn
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Festerlis ~ Bruiser
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Darlax, Devourer of Dreams
 
@@ -1080,30 +1080,30 @@ Beholdan ~ Reflective
 
 Allara Starfire
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Aetherblaze
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Kamladris, the Rimeheart
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Sulkarr, the Stormtouched
 
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Horcris, the Terror
 
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Corruptis
 
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Crimson Bane
 
@@ -1122,47 +1122,47 @@ Aldanar, the Undying
 
 Narl'Maash, the Engorged
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Nye'Kazul, the Maw of Fire
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Waban'Ak, the Sparkmaw
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Hiln'Raz, the Dark Omen
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Sen'Thel Voidbringer
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Gurgoth'Siin ~ Burning
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Orudin'Anatu ~ Diseased
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Yakwa'Anatu ~ Unstoppable
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Elnar'Daroth
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Ordran'Daroth
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Pulv'Daroth
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Death Revenant
 
@@ -1190,39 +1190,39 @@ Chillheart ~ Frozen
 
 Bonebreaker
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Faldonir Aetherborn
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Igrixx, the Rimeheart
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Jaron, Lord of the Storm
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Lorkhan, Lord of the Deep
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Eidonax ~ Swift
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Abner, the Forsaken One
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Gastris, the Foul
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Alrick Magefire
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Guardian of Bysmiel
 
@@ -1266,20 +1266,20 @@ Hagra, the Tormented
 
 Farros, the Rotted
 
-	Tainted Brain Matter - 0.01%
+	Tainted Brain Matter - 100.0%
 
 Jillius, the Decayed
 
-	Tainted Brain Matter - 0.01%
+	Tainted Brain Matter - 100.0%
 
 Neegan, the Withered
 
-	Mace - 1.0%
-	Tainted Brain Matter - 0.01%
+	Mace - 100.0%
+	Tainted Brain Matter - 100.0%
 
 Gluttrius'Maw
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Sicrix, the Skittering
 
@@ -1288,34 +1288,34 @@ Sicrix, the Skittering
 
 Emberjaw
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Serrated Spike - 3.6%
 	Vicious Spikes - 2.4%
 
 Harrath, the Returned
 
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.15%
+	Tainted Brain Matter - 15.0%
 
 Padmanestia
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Luthus'Balok
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 "The Bruiser" Romanov
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Bolla "The Raven"
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Slathra, the Plagued
 
-	Ancient Heart - 0.05%
+	Ancient Heart - 5.0%
 
 Ballior ~ Burning
 
@@ -1324,36 +1324,36 @@ Ballior ~ Burning
 
 Igor "The Brawler"
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Caspis, the Blooddrinker
 
-	Blood of Ch'thon - 0.05%
+	Blood of Ch'thon - 5.0%
 	Spaulders - 14.677103718199609%
 
 Rostov, the Aetherflame
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Nucus'Dal
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Innu'Garbal
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Conastaria
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Ludia Starfire
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Bogloth the Marrowdrinker
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 The Locust
 
@@ -1369,41 +1369,41 @@ Vizier Haxin
 
 Glukrog Lifedrinker
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Phabius
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Vom'Zul
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Thullon, Chosen of Ch'thon
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 	Spaulders - 14.677103718199609%
 
 Ludia Bloodwhisper
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Halvastra Wrathfire
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Narroth, the Behemoth
 
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Barrostrandt, the Ascended
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Narl'Sarroth
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Death Revenant
 
@@ -1413,7 +1413,7 @@ Death Revenant
 
 Rixna Plaguefeather
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Mortallis
 
@@ -1426,111 +1426,111 @@ Grum
 
 Gal'Barok
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Har'Nadiin
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Ellon'Siin
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Udal'Nadal
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Balok'Grot
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Orudin'Ak
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Serethal'Siin
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Wallan'Siin
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Zagal'Udal ~ Electrified
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Rigak'Doth ~ Reflective
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Palloth'Dar ~ Frozen
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Innal'Gargoth
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Udal'Thel
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Walloth'Dar
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Eldon'Siin ~ Electrified
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Sen'Udal ~ Burning
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Carath'Lud
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Elegor'Dar
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Fallim'Gargoth
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Ossius'Dar
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Blagal'Doth
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Mal'Thallon ~ Frozen
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Shogal'Gargoth ~ Shielded
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Brognathar
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Aethollin
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Kollus ~ Burning
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Feseron ~ Electrified
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Direcrix
 
@@ -1618,27 +1618,27 @@ Ollegon the Icewatcher
 
 Rexna
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Balladra Stormscion
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Sharath
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Traglodan ~ Voidtouched
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Wrallan ~ Electrified
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Calladra ~ Corrupted
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Bloodwretch ~ Swift
 
@@ -1662,23 +1662,23 @@ Swiftrot ~ Swift
 
 Grubnar
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Follistad
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Flamewretch ~ Burning
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Palleod ~ Electrified
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Occullon
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Skeletal Warrior
 
@@ -1719,186 +1719,186 @@ Storm Revenant
 Aetheros
 
 	Serrated Spike - 3.6%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 	Vicious Spikes - 2.4%
 
 Mutallor ~ Regenerator
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 12.0%
 
 Stonemane ~ Defender
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 12.0%
 
 Dreadtusk, the Hunter's Bane
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 12.0%
 
 Ragesnout ~ Swift
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 12.0%
 
 Hellmane ~ Burning
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 12.0%
 
 Rotmane ~ Diseased
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 12.0%
 
 Aetherean ~ Corrupted
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 12.0%
 
 Riftsnout ~ Voidtouched
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 12.0%
 
 Maledictus
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 10.5%
 
 Razorback
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 10.0%
 
 Bilewart ~ Swift
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 10.5%
 
 Rimeclaw ~ Frozen
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 10.5%
 
 Wrathclaw ~ Corrupted
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 10.5%
 
 Rotbite ~ Diseased
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Bristly Fur - 10.5%
 
 Nur'Garu, Jaws of Oblivion
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Sargo'Din, the Hungering Maw
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Narl'Maash, the Engorged
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Nye'Kazul, the Maw of Fire
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Waban'Ak, the Sparkmaw
 
-	Blood of Ch'thon - 0.025%
+	Blood of Ch'thon - 2.5%
 
 Shar'Oruuth
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Wen'Kazul, the Hungering Blade
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Zalyth'Uthax ~ Electrified
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Jugak'Siin ~ Reflective
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Sarmaz'Din ~ Frozen
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Innugaru, Terror of the Void
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Hiln'Raz, the Dark Omen
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Sen'Thel Voidbringer
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Nii'Thel ~ Bruiser
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Gurgoth'Siin ~ Burning
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Vom'Anatu
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Gawtok'Anatu
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Ekket'Anatu
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Orudin'Anatu ~ Diseased
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Yakwa'Anatu ~ Unstoppable
 
-	Blood of Ch'thon - 0.04%
+	Blood of Ch'thon - 4.0%
 
 Charn'Daroth
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Elnar'Daroth
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Fos'Daroth
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Ordran'Daroth
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Pulv'Daroth
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Maga'Lugal ~ Defender
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Sharanatu ~ Shielded
 
-	Blood of Ch'thon - 0.0425%
+	Blood of Ch'thon - 4.25%
 
 Harpallax, the Suneater
 
@@ -1932,47 +1932,47 @@ Vildrix ~ Voidtouched
 
 Ralture, the Untouchable
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Rugaru, the Houndmaster
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Ooglar ~ Unstoppable
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Reeve ~ Burning
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Wovaar ~ Frozen
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Ravadaar ~ Corrupted
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Vinaldaar ~ Voidtouched
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Bonebreaker
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Faldonir Aetherborn
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Malnotris ~ Unstoppable
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Festerlis ~ Bruiser
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Mesmer
 
@@ -2000,107 +2000,107 @@ Illumin ~ Electrified
 
 Hammerton
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Haldras Flamespitter
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Stoneheart ~ Reflective
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Stonegrinder ~ Charger
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Rimestone ~ Frozen
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Voidstone ~ Voidtouched
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Deshigu Chillbane
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Nabinok
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Akala ~ Swift
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Ulbalak ~ Supporter
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Torgru, the Flametouched
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Arbagol, the Shank
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Uldagu Flame-Eater
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Molbagdal Stormcaller
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Holborack ~ Defender
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Pukesnot the Unwashed
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Nirlamnack ~ Reflective
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Malexna, the Stormweaver
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Blazewing
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Blazewing
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Tyrronax, the Great Watcher
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Tyrronax, the Great Watcher
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Scyliss, the Stormtouched ~ Electrified
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Holdrexna, the Windwalker ~ Swift
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Holdrexna, the Windwalker ~ Swift
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Wrathwing ~ Corrupted
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Julius Crowley, the Mindbender
 
@@ -2124,39 +2124,39 @@ Balvadar the Bloodthirsty ~ Regenerator
 
 Meric Aether-Touched ~ Charger
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Eldon "Snakeskin" ~ Regenerator
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Leander "Blackwater" Greene
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Bloody Jack
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Delnar Black Eye
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Hudson Fury
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Nadra, the Shadow
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Serul Shadesong
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Wiley, the Slasher ~ Swift
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Everett, the Bloodbound ~ Burning
 
@@ -2164,51 +2164,51 @@ Everett, the Bloodbound ~ Burning
 
 Dred One-Eye
 
-	Scrap - 1.0%
+	Scrap - 100.0%
 
 Allara Starfire
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Aetherblaze
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Kamladris, the Rimeheart
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Corpusia ~ Reflective
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Espiria ~ Supporter
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Raxa, the Jade Huntress
 
-	Manticore Eye - 0.15%
+	Manticore Eye - 15.0%
 
 Neleron, the Eyes of Death
 
-	Manticore Eye - 0.15%
+	Manticore Eye - 15.0%
 
 Ar'kall, the Black Heart
 
-	Manticore Eye - 0.15%
+	Manticore Eye - 15.0%
 
 Uroxis Swiftclaw ~ Swift
 
-	Manticore Eye - 0.15%
+	Manticore Eye - 15.0%
 
 Waroxis Crimsonclaw ~ Bruiser
 
-	Manticore Eye - 0.15%
+	Manticore Eye - 15.0%
 
 Blazara Firemane
 
-	Manticore Eye - 0.15%
+	Manticore Eye - 15.0%
 
 Vladox, the Bloodletter
 
@@ -2292,102 +2292,102 @@ Flocrix ~ Burning
 
 Soulrend
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Aragonax, the Spirit Eater
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Baldim, the Chaosbringer
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Bonesnarl ~ Unstoppable
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Idran, the Anomaly ~ Regenerator
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Balra ~ Voidtouched
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Aethoran, the Plaguebearer ~ Diseased
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Gollorg, the Undiminished ~ Unstoppable
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Corpsefire ~ Reflective
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Azgalogg, the Corruptor ~ Defender
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Charrus
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 9.0%
 
 Plaguelord
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 9.0%
 
 Voidrage
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 9.0%
 
 Wolvin, the Inferno
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 9.0%
 
 Jarlax, Rage of the Swamp ~ Charger
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 9.0%
 
 Garn, the Packhunter ~ Defender
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 9.0%
 
 Scarsnout, the Cannibal
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 7.5%
 
 Bloodclaw
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 7.5%
 
 Whitemane, the Thunderstruck
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 7.5%
 
 Ernol Carrioneater ~ Diseased
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 7.5%
 
 Crimsontail ~ Supporter
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 7.5%
 
 Rav ~ Voidtouched
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Chipped Claw - 7.5%
 
 Grulgor, the Tormented ~ Diseased
@@ -2441,235 +2441,235 @@ Chillheart ~ Frozen
 
 Igrixx, the Rimeheart
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Jaron, Lord of the Storm
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Lorkhan, Lord of the Deep
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Farnlan, the Vile ~ Unstoppable
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Eidonax ~ Swift
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Avaladran ~ Corrupted
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Terrolean, the Pandemonium
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Serrated Spike - 3.6%
 	Vicious Spikes - 2.4%
 
 Korplax, the Overgrown
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Serrated Spike - 3.6%
 	Vicious Spikes - 2.4%
 
 Blackthorn ~ Reflective
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Serrated Spike - 3.6%
 	Vicious Spikes - 2.4%
 
 Rotthorn ~ Diseased
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Serrated Spike - 3.6%
 	Vicious Spikes - 2.4%
 
 Everbark ~ Regenerator
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Serrated Spike - 3.6%
 	Vicious Spikes - 2.4%
 
 Rimebark ~ Frozen
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 	Serrated Spike - 3.6%
 	Vicious Spikes - 2.4%
 
 Sulkarr, the Stormtouched
 
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Horcris, the Terror
 
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Corruptis
 
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Caladrak ~ Unstoppable
 
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Faldrak ~ Reflective
 
 	Mutagenic Ichor - 4.5%
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Ragarr Stonecrusher
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Toglokk the Ravener
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Maglak ~ Shielded
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Wallak ~ Supporter
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Glavrok, the Darkdweller - Female
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Algrok, the Blind Berserker - Female
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Savarok ~ Shielded - Female
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Balarr, the Rockeater - Female
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Paldrak, the Warmonger - Female
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Stonetooth ~ Defender - Female
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Elloras, the Sun-Eater ~ Burning - Female
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Uglak, the Immortal
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Surrlak, the Earthmover
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Troglak ~ Unstoppable
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Oldak, the Miasma ~ Diseased
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Wontlak ~ Frozen
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Balglak, the Swamp Warden
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Rovos ~ Reflective
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Malgalok ~ Voidtouched
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Avalgal ~ Corrupted
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Volaxna, the Bloodgorger
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Volaxna, the Bloodgorger
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Plaguewing ~ Diseased
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Plaguewing ~ Diseased
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Harrowbeak ~ Unstoppable
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Wrathtalon ~ Corrupted
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Voidtalon ~ Voidtouched
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Voidtalon ~ Voidtouched
 
-	Ancient Heart - 0.025%
+	Ancient Heart - 2.5%
 
 Scarprax, the Frenzied
 
 	Battered Shell - 4.5%
-	Royal Jelly - 0.5%
+	Royal Jelly - 50.0%
 
 Caraprax ~ Defender
 
 	Battered Shell - 4.5%
-	Royal Jelly - 0.5%
+	Royal Jelly - 50.0%
 
 Harprax, the Queen's Will ~ Supporter
 
 	Battered Shell - 4.5%
-	Royal Jelly - 0.5%
+	Royal Jelly - 50.0%
 
 Ralkara ~ Regenerator
 
 	Battered Shell - 4.5%
-	Royal Jelly - 0.5%
+	Royal Jelly - 50.0%
 
 Folcrax ~ Frozen
 
 	Battered Shell - 4.5%
-	Royal Jelly - 0.5%
+	Royal Jelly - 50.0%
 
 Walacrax ~ Corrupted
 
 	Battered Shell - 4.5%
-	Royal Jelly - 0.5%
+	Royal Jelly - 50.0%
 
 Ooldacrax ~ Voidtouched
 
 	Battered Shell - 4.5%
-	Royal Jelly - 0.5%
+	Royal Jelly - 50.0%
 
 Bonechill
 
@@ -2693,19 +2693,19 @@ Mallus ~ Corrupted
 
 Gornax, the Nightmare
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Sharn, the Cursed
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Furz Venomdrinker ~ Supporter
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Bloodhowl ~ Regenerator
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Crimson Bane
 
@@ -2734,23 +2734,23 @@ Blightfeast ~ Charger
 
 Abner, the Forsaken One
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Gastris, the Foul
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Gutripper ~ Unstoppable
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Teselon ~ Electrified
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Alrick Magefire
 
-	Tainted Brain Matter - 0.025%
+	Tainted Brain Matter - 2.5%
 
 Valdaran, the Storm Scourge
 

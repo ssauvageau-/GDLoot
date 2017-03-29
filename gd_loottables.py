@@ -262,7 +262,7 @@ def handle_enemy(enemy):
                     for entry in ddict[key]:
                         if "Item" in entry and "loot" not in entry:
                             try:
-                                output.append(ddict[key]["lootItem" + str(after(entry, "Item")[4:])] + " - " + str(ddict[key]["chance"]) + "%\n")
+                                output.append(ddict[key]["lootItem" + str(after(entry, "Item")[4:])] + " - " + str(100*ddict[key]["chance"]) + "%\n")
                             except KeyError as e:
                                 if debug:
                                     print("Error with " + after(enemy, "database") + " - " + str(e))
