@@ -325,7 +325,7 @@ def main():
                 chance = 0.0
                 if " - " in line:
                     chance = after(line, " - ").rsplit("%")[0][3:]
-                if "mastertables" in line and use_mt:
+                if "mastertables" in line:
                     quality = get_quality(line)
                     if quality:
                         lines = True
