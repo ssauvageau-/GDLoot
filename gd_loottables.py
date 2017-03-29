@@ -1,15 +1,16 @@
 import os
+import sys
+import argparse
 
-root_base = r"C:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\database\records"
+install_prefix = r"C:\Program Files (x86)\Steam\steamapps\common\Grim Dawn"
 
-root1 = r"\creatures\enemies"
-root2 = r"\items\loottables\mastertables"
-
-prefix = r"C:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\database"
-
-item_fn = r"C:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\resources\text_en\tags_items.txt"
-quest_fn = r"C:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\resources\text_en\tags_storyelements.txt"
-enemy_fn = r"C:\Program Files (x86)\Steam\steamapps\common\Grim Dawn\resources\text_en\tags_creatures.txt"
+root_base = ""
+root1 = ""
+root2 = ""
+prefix = ""
+item_fn = ""
+quest_fn = ""
+enemy_fn = ""
 
 enemies = []
 
@@ -18,10 +19,34 @@ item_names = {}
 
 mastertables = {}
 
+mt_out = "mastertables_output.txt"
+use_mt = False
 debug = False
+
 
 #common, rare, epic, legendary
 tiers = {1: False, 2: False, 3: False, 4: False}
+
+def init():
+    global root_base
+    root_base = install_prefix + r"\database\records"
+
+    global root1
+    root1 = r"\creatures\enemies"
+    global root2
+    root2 = r"\items\loottables\mastertables"
+
+    global prefix
+    prefix = install_prefix + r"\database"
+
+    global item_fn
+    item_fn = install_prefix + r"\resources\text_en\tags_items.txt"
+    global quest_fn
+    quest_fn = install_prefix + r"\resources\text_en\tags_storyelements.txt"
+    global enemy_fn
+    enemy_fn = install_prefix + r"\resources\text_en\tags_creatures.txt"
+
+    return 1
 
 def get_quality(line):
     if "_a0" in line or "_a1" in line:
@@ -70,7 +95,7 @@ def get_name_for_item(record):
                     style = item_names[split[1]]
                 elif "Quality" in line:
                     style = item_names[split[1]]
-                elif "Name" in line or ("Booster" in line and "Desc" not in line):
+                elif "Name" in line or ("Booster" in line and "Desc" not in line) or ("CraftMaterial" in line and "Desc" not in line):
                     name = item_names[split[1]]
     return (style + " " + name).strip()
 
@@ -106,7 +131,6 @@ def build_tdyn(tdyn):
         elif "lootWeight" in line and ",," not in line and ",0," not in line:
             split = line.rsplit(",")
             loot["lootName" + split[0].rsplit("Weight")[1]]["weight"] = float(split[1])
-    
     return normalize_tdyn(loot)
 
 #called after handle_master
@@ -260,6 +284,7 @@ def handle_direct(record):
     return ""
 
 def main():
+    sys.stdout.write("Building textual info from GD resources...\n")
     for line in open(enemy_fn):
         if "=" in line:
             string = line.rsplit("=")
@@ -267,20 +292,32 @@ def main():
     for line in open(item_fn):
         if "=" in line:
             string = line.rsplit("=")
-            item_names[string[0]] = before(string[1], "\n")
+            item_names[string[0]] = before(string[1].replace("^k", ""), "\n")
     for line in open(quest_fn):
         if "=" in line:
             string = line.rsplit("=")
             item_names[string[0]] = before(string[1], "\n")
+    sys.stdout.write("Done\n")
+    sys.stdout.write("Gathering all enemy data...\n")
     for path, subdirs, files in os.walk(root_base + root1):
         for name in files:
             if r"creatures\enemies\bios" not in path and r"\creatures\enemies\anm" not in path:
                 enemies.append(os.path.join(path, name))
-    for path, subdirs, files in os.walk(root_base + root2):
-        for name in files:
-            mastertables[name] = build_master("/records" + root2 + "\\" + name)
+    sys.stdout.write("Done\n")
+    if use_mt:
+        sys.stdout.write("Building mastertable data...\n")
+        for path, subdirs, files in os.walk(root_base + root2):
+            for name in files:
+                mastertables[name] = build_master("/records" + root2 + "\\" + name)
+        sys.stdout.write("Done\n")
     with open(get_output(), 'w') as out:
+        prog = float(len(enemies))
+        per = 100.0/prog
+        div = 20.0/prog
+        i = 0
         for enemy in enemies:
+            sys.stdout.write(("\rGenerating loot tables [%-20s] %d%%" % ('='*int(i*div),int(per*i))).replace(" ]", "]"))
+            sys.stdout.flush()
             res = []
             lines = False
             name = ""
@@ -288,7 +325,7 @@ def main():
                 chance = 0.0
                 if " - " in line:
                     chance = after(line, " - ").rsplit("%")[0][3:]
-                if "mastertables" in line:
+                if "mastertables" in line and use_mt:
                     quality = get_quality(line)
                     if quality:
                         lines = True
@@ -303,6 +340,7 @@ def main():
                 elif " - " in line:
                     lines = True
                     split = line.rsplit(" - ")
+                    #hardcoding this shit `cause i suck
                     if "1.0" in split[1] and "potion" not in split[0] and "bristly" not in split[0] and "scrap" not in split[0] and "gear" not in split[0]:
                         split[1] = "100.0%\n"
                     
@@ -312,26 +350,85 @@ def main():
                         name += line.strip() + " - Female\n"
                     else:
                         name += line.strip() + "\n"
+            i+=1
             if lines and name != "\n":
                 out.write(name + "\n")
                 for line in sorted(res):
                     out.write(line)
                 out.write("\n")
-        for table in mastertables:
-            out.write(table + "\n")
-            if "mt_crafting_bloodchthon_a01" in table:
-                out.write("\tBlood of Ch'thon - 100%\n")
-            elif "mt_crafting_ancientheart_a01" in table:
-                out.write("\tAncient Heart - 100%\n")
-            elif "mt_crafting_cultistsigil_a01" in table:
-                out.write("\tChthonic Seal of Binding - 100%\n")
-            elif "mt_crafting_taintedbrain_a01" in table:
-                out.write("\tTainted Brain Matter - 100%\n")
-            else:
-                for line in handle_master(table, "1.0"):
-                    out.write(line + "\n")
-            out.write("\n")
         out.close()
-        
+    sys.stdout.write(("\rGenerating loot tables [%-20s] %d%%\n" % ('='*int(i*div),int(per*i))).replace(" ]", "]"))
+    sys.stdout.write("Done\n")
+    sys.stdout.flush()
+    if(use_mt):
+        with open(mt_out, 'w') as out:
+            prog = float(len(mastertables))
+            per = 100.0/prog
+            div = 20.0/prog
+            i = 0
+            for table in mastertables:
+                sys.stdout.write(("\rDumping master tables [%-20s] %d%%" % ('='*int(i*div),int(per*i))).replace(" ]", "]"))
+                sys.stdout.flush()
+                out.write(table + "\n")
+                if "mt_crafting_bloodchthon_a01" in table:
+                    out.write("\tBlood of Ch'thon - 100%\n")
+                elif "mt_crafting_ancientheart_a01" in table:
+                    out.write("\tAncient Heart - 100%\n")
+                elif "mt_crafting_cultistsigil_a01" in table:
+                    out.write("\tChthonic Seal of Binding - 100%\n")
+                elif "mt_crafting_taintedbrain_a01" in table:
+                    out.write("\tTainted Brain Matter - 100%\n")
+                elif "mt_aethercrystals_a01.dbr" in table:
+                    out.write("\tAether Crystal - 95.0%\n")
+                    out.write("\tAether Shard - 3.5%\n")
+                    out.write("\tAether Cluster - 2.5%\n")
+                else:
+                    for line in handle_master(table, "1.0"):
+                        out.write(line + "\n")
+                out.write("\n")
+                i+=1
+            out.close()
+            sys.stdout.write(("\rDumping master tables [%-20s] %d%%\n" % ('='*int(i*div),int(per*i))).replace(" ]", "]"))
+            sys.stdout.write("Done\n")
+            sys.stdout.flush()
+    sys.stdout.write("Operation completed.\n")
+
+def string_to_bool(val):
+    try:
+        return {'true': True, 'false': False}[val.lower()]
+    except KeyError as e:
+        return False
+
 if __name__ == '__main__':
+    tier_set = {
+            'a': {1: True, 2: True, 3: True, 4: True},
+            'c': {1: True, 2: False, 3: False, 4: False},
+            'r': {1: False, 2: True, 3: False, 4: False},
+            'e': {1: False, 2: False, 3: True, 4: False},
+            'l': {1: False, 2: False, 3: False, 4: True},
+            'n': {1: False, 2: False, 3: False, 4: False},
+            'u': {1: False, 2: False, 3: True, 4: True},
+            'r+': {1: False, 2: True, 3: True, 4: True}
+             }
+    parser = argparse.ArgumentParser(description='Parse Grim Dawn loottable droprates.')
+    parser.add_argument("--quality", default='n', choices={'a', 'c', 'r', 'e', 'l', 'n', 'u', 'r+'}, required=False,
+                        help="The quality of the loot to parse information on. Being more selective will expedite the overall process." + 
+                        " Usage: a - Parse everything. c - Parse common gear and materials only. " + 
+                        "r - Parse rare gear and materials only. e - Parse epic gear and materials only. " + 
+                        "l - Parse legendary gear and materials only. n - Parse materials only. (default) " + 
+                        "u - Parse uniques (epics/legendaries) and materials only. " +
+                        "r+ - Parse rare, epic, and legendary gear and materials only.")
+    parser.add_argument("--mt", default="true", choices={"true", "false"}, required=False,
+                        help="Dumps mastertable information to a file.")
+    parser.add_argument("--install", default=r"C:\Program Files (x86)\Steam\steamapps\common\Grim Dawn", required=False, type=str,
+                        help="Points to the installation directory of Grim Dawn. Defaults to Steam on the C:\\ drive. " + 
+                        "Surround with quotes if there are spaces in the directory path.")
+    parser.add_argument("--debug", default="false", choices={"true", "false"}, required=False, 
+                        help="Logs debug error messages to console.")
+    args = parser.parse_args()
+    debug = string_to_bool(args.debug)
+    use_mt = string_to_bool(args.mt)
+    tiers = tier_set[args.quality]
+    install_prefix = args.install
+    init()
     main()
