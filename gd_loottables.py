@@ -393,12 +393,6 @@ def main():
             sys.stdout.flush()
     sys.stdout.write("Operation completed.\n")
 
-def string_to_bool(val):
-    try:
-        return {'true': True, 'false': False}[val.lower()]
-    except KeyError as e:
-        return False
-
 if __name__ == '__main__':
     tier_set = {
             'a': {1: True, 2: True, 3: True, 4: True},
@@ -415,19 +409,19 @@ if __name__ == '__main__':
                         help="The quality of the loot to parse information on. Being more selective will expedite the overall process." + 
                         " Usage: a - Parse everything. c - Parse common gear and materials only. " + 
                         "r - Parse rare gear and materials only. e - Parse epic gear and materials only. " + 
-                        "l - Parse legendary gear and materials only. n - Parse materials only. (default) " + 
+                        "l - Parse legendary gear and materials only. n (default) - Parse materials only. " + 
                         "u - Parse uniques (epics/legendaries) and materials only. " +
                         "r+ - Parse rare, epic, and legendary gear and materials only.")
-    parser.add_argument("--mt", default="true", choices={"true", "false"}, required=False,
+    parser.add_argument("--mt", action='store_true', required=False,
                         help="Dumps mastertable information to a file.")
     parser.add_argument("--install", default=r"C:\Program Files (x86)\Steam\steamapps\common\Grim Dawn", required=False, type=str,
                         help="Points to the installation directory of Grim Dawn. Defaults to Steam on the C:\\ drive. " + 
                         "Surround with quotes if there are spaces in the directory path.")
-    parser.add_argument("--debug", default="false", choices={"true", "false"}, required=False, 
+    parser.add_argument("--debug", action='store_true', required=False, 
                         help="Logs debug error messages to console.")
     args = parser.parse_args()
-    debug = string_to_bool(args.debug)
-    use_mt = string_to_bool(args.mt)
+    debug = args.debug
+    use_mt = args.mt
     tiers = tier_set[args.quality]
     install_prefix = args.install
     init()
