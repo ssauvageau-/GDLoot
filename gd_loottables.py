@@ -164,10 +164,7 @@ def handle_tdyn(inpt, chance):
     res = []
     if len(tdyn) == 1:
         for key in tdyn:
-            if "tdyn_constitution" not in inpt:
-                res.append("\t" + tdyn[key]["name"] + " - " + chance + "%")
-            else:
-                res.append("\t" + tdyn[key]["name"] + " - " + str(float(chance) * 100.0) + "%")
+            res.append("\t" + tdyn[key]["name"] + " - " + chance + "%")
     else:
         sum1 = 0
         for key in tdyn:
@@ -340,9 +337,6 @@ def main():
                 elif " - " in line:
                     lines = True
                     split = line.rsplit(" - ")
-                    #hardcoding this shit `cause i suck
-                    if "1.0" in split[1] and "potion" not in split[0] and "bristly" not in split[0] and "scrap" not in split[0] and "gear" not in split[0]:
-                        split[1] = "100.0%\n"
                     
                     res.append("\t" + handle_direct(split[0]) + " - " + split[1])
                 else:

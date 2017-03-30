@@ -1266,16 +1266,16 @@ Hagra, the Tormented
 
 Farros, the Rotted
 
-	Tainted Brain Matter - 100.0%
+	Tainted Brain Matter - 1.0%
 
 Jillius, the Decayed
 
-	Tainted Brain Matter - 100.0%
+	Tainted Brain Matter - 1.0%
 
 Neegan, the Withered
 
 	Mace - 100.0%
-	Tainted Brain Matter - 100.0%
+	Tainted Brain Matter - 1.0%
 
 Gluttrius'Maw
 

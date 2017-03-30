@@ -2778,18 +2778,18 @@ Farros, the Rotted
 
 	0.06648936170212766 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	0.06648936170212766 chance to roll an item from table mt_gearweaponsshield_d01.dbr
-	Tainted Brain Matter - 100.0%
+	Tainted Brain Matter - 1.0%
 
 Jillius, the Decayed
 
 	0.06648936170212766 chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	0.06648936170212766 chance to roll an item from table mt_gearweaponsshield_d01.dbr
-	Tainted Brain Matter - 100.0%
+	Tainted Brain Matter - 1.0%
 
 Neegan, the Withered
 
 	Mace - 100.0%
-	Tainted Brain Matter - 100.0%
+	Tainted Brain Matter - 1.0%
 
 Gluttrius'Maw
 
