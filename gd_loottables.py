@@ -22,6 +22,7 @@ mastertables = {}
 mt_out = "mastertables_output.txt"
 use_mt = False
 debug = False
+has_read = False
 
 
 #common, rare, epic, legendary
@@ -281,32 +282,35 @@ def handle_direct(record):
     return ""
 
 def main():
-    sys.stdout.write("Building textual info from GD resources...\n")
-    for line in open(enemy_fn):
-        if "=" in line:
-            string = line.rsplit("=")
-            enemy_names[string[0]] = string[1].strip()
-    for line in open(item_fn):
-        if "=" in line:
-            string = line.rsplit("=")
-            item_names[string[0]] = before(string[1].replace("^k", ""), "\n")
-    for line in open(quest_fn):
-        if "=" in line:
-            string = line.rsplit("=")
-            item_names[string[0]] = before(string[1], "\n")
-    sys.stdout.write("Done\n")
-    sys.stdout.write("Gathering all enemy data...\n")
-    for path, subdirs, files in os.walk(root_base + root1):
-        for name in files:
-            if r"creatures\enemies\bios" not in path and r"\creatures\enemies\anm" not in path:
-                enemies.append(os.path.join(path, name))
-    sys.stdout.write("Done\n")
-    if use_mt:
-        sys.stdout.write("Building mastertable data...\n")
-        for path, subdirs, files in os.walk(root_base + root2):
-            for name in files:
-                mastertables[name] = build_master("/records" + root2 + "\\" + name)
+    global has_read
+    if not has_read:
+        sys.stdout.write("Building textual info from GD resources...\n")
+        for line in open(enemy_fn):
+            if "=" in line:
+                string = line.rsplit("=")
+                enemy_names[string[0]] = string[1].strip()
+        for line in open(item_fn):
+            if "=" in line:
+                string = line.rsplit("=")
+                item_names[string[0]] = before(string[1].replace("^k", ""), "\n")
+        for line in open(quest_fn):
+            if "=" in line:
+                string = line.rsplit("=")
+                item_names[string[0]] = before(string[1], "\n")
         sys.stdout.write("Done\n")
+        sys.stdout.write("Gathering all enemy data...\n")
+        for path, subdirs, files in os.walk(root_base + root1):
+            for name in files:
+                if r"creatures\enemies\bios" not in path and r"\creatures\enemies\anm" not in path:
+                    enemies.append(os.path.join(path, name))
+        sys.stdout.write("Done\n")
+        if use_mt:
+            sys.stdout.write("Building mastertable data...\n")
+            for path, subdirs, files in os.walk(root_base + root2):
+                for name in files:
+                    mastertables[name] = build_master("/records" + root2 + "\\" + name)
+            sys.stdout.write("Done\n")
+        has_read = True
     with open(get_output(), 'w') as out:
         prog = float(len(enemies))
         per = 100.0/prog
