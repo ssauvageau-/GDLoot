@@ -327,7 +327,7 @@ def main():
                     if quality:
                         lines = True
                         split = line.rsplit("/")
-                        res.append("\t" + chance + " chance to roll an item from table " + before(split[len(split) - 1], " - ") + "\n")
+                        res.append("\t" + chance + "% chance to roll an item from table " + before(split[len(split) - 1], " - ") + "\n")
                 elif "tdyn" in line:
                     quality = get_quality(line)
                     if quality:
@@ -413,10 +413,29 @@ if __name__ == '__main__':
                         "Surround with quotes if there are spaces in the directory path.")
     parser.add_argument("--debug", action='store_true', required=False, 
                         help="Logs debug error messages to console.")
+    parser.add_argument("--bulk", action='store_true', required=False, 
+                        help="Generates tables for every possible quality of loot. --debug will be off, --mt will run once.")
     args = parser.parse_args()
-    debug = args.debug
-    use_mt = args.mt
-    tiers = tier_set[args.quality]
+    bulk = args.bulk
     install_prefix = args.install
-    init()
-    main()
+    if not bulk:
+        debug = args.debug
+        use_mt = args.mt
+        tiers = tier_set[args.quality]
+        init()
+        main()
+    else:
+        debug = False
+        use_mt = True
+        tiers = tier_set['a']
+        sys.stdout.write("Writing " + get_output() + "\n")
+        init()
+        main()
+        use_mt = False
+        for key in tier_set:
+            if key == 'a':
+                continue
+            sys.stdout.write("Writing " + get_output() + "\n")
+            tiers = tier_set[key]
+            init()
+            main()
