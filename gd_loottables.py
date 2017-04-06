@@ -431,15 +431,9 @@ if __name__ == '__main__':
     else:
         debug = False
         use_mt = True
-        tiers = tier_set['a']
-        sys.stdout.write("Writing " + get_output() + "\n")
-        init()
-        main()
-        use_mt = False
         for key in tier_set:
-            if key == 'a':
-                continue
             sys.stdout.write("Writing " + get_output() + "\n")
             tiers = tier_set[key]
             init()
             main()
+            use_mt = False

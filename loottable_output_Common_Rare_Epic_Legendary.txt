@@ -5634,9 +5634,9 @@ Alkamos, Lord Executioner
 	Alkamos' Agony - 2.2222222222222223%
 	Alkamos' Anguish - 2.7777777777777777%
 	Alkamos' Dread - 2.7777777777777777%
-	Alkamos' Scythe - 50.0%
+	Alkamos' Scythe - 46.666666666666664%
 	Alkamos' Torment - 2.2222222222222223%
-	Alkamos' Warsword - 50.0%
+	Alkamos' Warsword - 53.333333333333336%
 	Ectoplasm - 35.2%
 	Vengeful Wraith - 4.8%
 	Vital Essence/Food Ration - 100.0%
@@ -5648,8 +5648,8 @@ Alkamos, Lord Executioner
 	30.0% chance to roll an item from table mt_comp_magical_a01.dbr
 	5.0% chance to roll an item from table mt_comp_rare_a01.dbr
 	5.0% chance to roll an item from table mt_gearweaponsmelee2h_d02_alkamos.dbr
-	Alkamos' Scythe - 47.5%
-	Alkamos' Warsword - 47.5%
+	Alkamos' Scythe - 44.333333333333336%
+	Alkamos' Warsword - 50.666666666666664%
 	Ectoplasm - 35.2%
 	Vengeful Wraith - 4.8%
 	Vital Essence/Food Ration - 100.0%
@@ -12432,8 +12432,8 @@ Valdaran, the Storm Scourge
 
 	Aetherial Warrant - 19.250000000000004%
 	Tainted Brain Matter - 35.75000000000001%
-	Valdaran's Mantle - 50.0%
-	Valdaran's Shoulderguard - 50.0%
+	Valdaran's Mantle - 46.666666666666664%
+	Valdaran's Shoulderguard - 53.333333333333336%
 	Vital Essence/Food Ration - 100.0%
 
 Obligious Foul
@@ -12467,8 +12467,8 @@ Jac'Aran, the Eternal Stone
 
 Benn'Jahr, the Colossal
 
-	Benn'Jahr's Pauldrons - 50.0%
-	Benn'Jahr's Shoulderguards - 50.0%
+	Benn'Jahr's Pauldrons - 53.333333333333336%
+	Benn'Jahr's Shoulderguards - 46.666666666666664%
 	Blood of Ch'thon - 35.75000000000001%
 	Chthonian Warrant - 19.250000000000004%
 	Vital Essence/Food Ration - 100.0%
@@ -12499,8 +12499,8 @@ The Iron Maiden
 
 	0.47393364928909953% chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	4.739336492890995% chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Iron Maiden's Mantle - 50.0%
-	Iron Maiden's Shoulderguard - 50.0%
+	Iron Maiden's Mantle - 46.666666666666664%
+	Iron Maiden's Shoulderguard - 53.333333333333336%
 	Kymon's Warrant - 20.0%
 	Scrap - 80.0%
 	Vital Essence/Food Ration - 100.0%
@@ -12516,8 +12516,8 @@ Zantarin, the Immortal
 	Order Warrant - 20.0%
 	Scrap - 80.0%
 	Vital Essence/Food Ration - 100.0%
-	Zantarin's Mantle - 50.0%
-	Zantarin's Shoulderguard - 50.0%
+	Zantarin's Mantle - 46.666666666666664%
+	Zantarin's Shoulderguard - 53.333333333333336%
 
 Death Revenant
 
@@ -12541,8 +12541,8 @@ Fabius "the Unseen" Gonzar
 	4.739336492890995% chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	4.739336492890995% chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	Cronley's Warrant - 20.0%
-	Fabius' Pauldron - 50.0%
-	Fabius' Shoulderguard - 50.0%
+	Fabius' Pauldron - 53.333333333333336%
+	Fabius' Shoulderguard - 46.666666666666664%
 	Scrap - 80.0%
 	Vital Essence/Food Ration - 100.0%
 
@@ -12596,8 +12596,8 @@ Allminoxius, the Artificer
 Moosilauke, the Chillwind
 
 	Arkovian Warrant - 20.0%
-	Moosilauke's Pauldrons - 50.0%
-	Moosilauke's Shoulderguards - 50.0%
+	Moosilauke's Pauldrons - 53.333333333333336%
+	Moosilauke's Shoulderguards - 46.666666666666664%
 	Vital Essence/Food Ration - 100.0%
 
 Toxemus
