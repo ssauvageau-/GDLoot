@@ -1,6 +1,6 @@
 # GDLoot
 
-Loot tables for Grim Dawn version 1.0.0.9.
+Loot tables for Grim Dawn version 1.0.1.0.
 
 gd_loottables.py is a Python script for generating the data. 
 
