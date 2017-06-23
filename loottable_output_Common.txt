@@ -3497,8 +3497,8 @@ Salazar, Blade of Ch'thon
 	1.5% chance to roll an item from table mt_comp_rare_a01.dbr
 	15.0% chance to roll an item from table mt_comp_humanchaos_a01.dbr
 	4.5% chance to roll an item from table mt_comp_magical_a01.dbr
-	49.983338887037654% chance to roll an item from table mt_accessories_rings_a01.dbr
-	99.89012086704625% chance to roll an item from table mt_gearweaponsfocus_a01.dbr
+	49.45598417408507% chance to roll an item from table mt_accessories_rings_a01.dbr
+	98.91196834817013% chance to roll an item from table mt_gearweaponsfocus_a01.dbr
 	Blood of Ch'thon - 22.0%
 	Consecrated Wrappings - 7.2%
 	Polished Emerald - 1.8%
@@ -3541,10 +3541,10 @@ Bloodlord Thalonis
 	1.5% chance to roll an item from table mt_comp_rare_a01.dbr
 	16.5% chance to roll an item from table mt_comp_humanchaos_a01.dbr
 	6.0% chance to roll an item from table mt_comp_magical_a01.dbr
-	91.36592051164915% chance to roll an item from table mt_gearweaponscaster_a01.dbr
-	99.93147555961626% chance to roll an item from table mt_gearweaponsfocus_a01.dbr
-	Blood of Ch'thon - 20.25%
-	Chthonic Seal of Binding - 30.0%
+	66.35071090047393% chance to roll an item from table mt_gearweaponscaster_a01.dbr
+	98.91196834817013% chance to roll an item from table mt_gearweaponsfocus_a01.dbr
+	Blood of Ch'thon - 20.0%
+	Chthonic Seal of Binding - 40.0%
 	Consecrated Wrappings - 4.8%
 	Polished Emerald - 1.2%
 	Vital Essence/Food Ration - 100.0%
@@ -3924,8 +3924,8 @@ High Priest Rolderathis
 
 	0.9% chance to roll an item from table mt_comp_rare_a01.dbr
 	1.8% chance to roll an item from table mt_comp_human_a01.dbr
+	49.45598417408507% chance to roll an item from table mt_gearweaponsfocus_a01.dbr
 	6.3% chance to roll an item from table mt_comp_magical_a01.dbr
-	74.1839762611276% chance to roll an item from table mt_gearweaponsfocus_a01.dbr
 	Corpse Dust - 5.4%
 	Rolderathis - 2nd Entry - 30.0%
 	Sanctified Bone - 3.6%
@@ -3966,8 +3966,8 @@ Grand Priest Zarthuzellan
 
 	0.9% chance to roll an item from table mt_comp_rare_a01.dbr
 	2.7% chance to roll an item from table mt_comp_human_a01.dbr
+	49.45598417408507% chance to roll an item from table mt_gearweaponsfocus_a01.dbr
 	5.4% chance to roll an item from table mt_comp_magical_a01.dbr
-	74.1839762611276% chance to roll an item from table mt_gearweaponsfocus_a01.dbr
 	Corpse Dust - 5.4%
 	Sanctified Bone - 3.6%
 
@@ -3991,7 +3991,7 @@ Ellena, the First Slith
 
 	1.5% chance to roll an item from table mt_comp_rare_a01.dbr
 	13.5% chance to roll an item from table mt_comp_beastscales_a01.dbr
-	15.0% chance to roll an item from table mt_crafting_ancientheart_a01.dbr
+	14.95% chance to roll an item from table mt_crafting_ancientheart_a01.dbr
 	6.0% chance to roll an item from table mt_comp_beastmutant_a01.dbr
 	Frozen Heart - 4.5%
 	Mutated Scales - 4.5%
@@ -4000,8 +4000,8 @@ Ellena, the First Slith
 Primordian, the Forgotten One
 
 	1.5% chance to roll an item from table mt_comp_rare_a01.dbr
+	11.5% chance to roll an item from table mt_crafting_ancientheart_a01.dbr
 	13.5% chance to roll an item from table mt_comp_beastscales_a01.dbr
-	15.0% chance to roll an item from table mt_crafting_ancientheart_a01.dbr
 	6.0% chance to roll an item from table mt_comp_beastmutant_a01.dbr
 	Frozen Heart - 4.5%
 	Mutated Scales - 4.5%
@@ -4096,8 +4096,8 @@ Viloth, the Corruptor
 	1.5% chance to roll an item from table mt_comp_rare_a01.dbr
 	13.5% chance to roll an item from table mt_comp_beastscales_a01.dbr
 	15.0% chance to roll an item from table mt_crafting_ancientheart_a01.dbr
+	49.45598417408507% chance to roll an item from table mt_accessories_rings_a01.dbr
 	6.0% chance to roll an item from table mt_comp_beastmutant_a01.dbr
-	64.24166285975332% chance to roll an item from table mt_accessories_rings_a01.dbr
 	Frozen Heart - 4.5%
 	Mutated Scales - 4.5%
 	Vital Essence/Food Ration - 100.0%

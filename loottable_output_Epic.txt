@@ -2178,10 +2178,10 @@ Sharanatu, Harbinger of the Void
 
 Salazar, Blade of Ch'thon
 
-	0.016661112962345886% chance to roll an item from table mt_accessories_rings_c01.dbr
 	0.06281407035175879% chance to roll an item from table mt_geararmorshoulders_c01.dbr
-	0.09989012086704625% chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	0.9891196834817013% chance to roll an item from table mt_gearweaponsmeleeswords1h_c01.dbr
+	0.49455984174085066% chance to roll an item from table mt_accessories_rings_c01.dbr
+	0.9891196834817013% chance to roll an item from table mt_gearweaponsfocus_c01.dbr
+	4.739336492890995% chance to roll an item from table mt_gearweaponsmeleeswords1h_c01.dbr
 	Blood of Ch'thon - 22.0%
 	Shoulderguard - 99.93147555961626%
 
@@ -2212,10 +2212,10 @@ Thall'Nosh, the Unraveler
 
 Bloodlord Thalonis
 
-	0.06281407035175879% chance to roll an item from table mt_gearweaponscaster_c01.dbr
-	0.06281407035175879% chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Blood of Ch'thon - 20.25%
-	Chthonic Seal of Binding - 30.0%
+	0.9891196834817013% chance to roll an item from table mt_gearweaponsfocus_c01.dbr
+	4.739336492890995% chance to roll an item from table mt_gearweaponscaster_c01.dbr
+	Blood of Ch'thon - 20.0%
+	Chthonic Seal of Binding - 40.0%
 
 Rashalga, the Mad Queen
 
@@ -2436,8 +2436,8 @@ Death Revenant
 
 Kilrian, the Tainted Soul
 
-	0.9891196834817013% chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
 	0.999000999000999% chance to roll an item from table mt_gearweaponsshield_c01.dbr
+	2.4330900243309004% chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
 	Corpse Dust - 5.4%
 	Kilrian's Shattered Soul - 45.0%
 
@@ -2496,7 +2496,7 @@ Balegor, the Swamp King
 
 Viloth, the Corruptor
 
-	0.06281407035175879% chance to roll an item from table mt_accessories_rings_c01.dbr
+	0.9891196834817013% chance to roll an item from table mt_accessories_rings_c01.dbr
 
 Warden Krieg
 

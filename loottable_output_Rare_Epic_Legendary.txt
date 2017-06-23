@@ -3315,14 +3315,15 @@ Sharanatu, Harbinger of the Void
 Salazar, Blade of Ch'thon
 
 	0.005710370031978072% chance to roll an item from table mt_geararmorshoulders_d01.dbr
-	0.009989012086704625% chance to roll an item from table mt_gearweaponsfocus_d01.dbr
-	0.016661112962345886% chance to roll an item from table mt_accessories_rings_c01.dbr
+	0.04945598417408507% chance to roll an item from table mt_accessories_rings_d01.dbr
 	0.06281407035175879% chance to roll an item from table mt_geararmorshoulders_c01.dbr
-	0.09891196834817013% chance to roll an item from table mt_gearweaponsmeleeswords1h_d01.dbr
-	0.09989012086704625% chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	0.9891196834817013% chance to roll an item from table mt_gearweaponsmeleeswords1h_c01.dbr
+	0.09891196834817013% chance to roll an item from table mt_gearweaponsfocus_d01.dbr
+	0.47393364928909953% chance to roll an item from table mt_gearweaponsmeleeswords1h_d01.dbr
+	0.49455984174085066% chance to roll an item from table mt_accessories_rings_c01.dbr
+	0.9891196834817013% chance to roll an item from table mt_gearweaponsfocus_c01.dbr
+	4.739336492890995% chance to roll an item from table mt_gearweaponsmeleeswords1h_c01.dbr
 	Blood of Ch'thon - 22.0%
-	Salazar's Sovereign Blade - 22.608449908153172%
+	Salazar's Sovereign Blade - 28.436018957345972%
 	Shoulderguard - 99.93147555961626%
 
 Bolvar, the Bloodbinder
@@ -3377,14 +3378,14 @@ Thall'Nosh, the Unraveler
 
 Bloodlord Thalonis
 
-	0.005710370031978072% chance to roll an item from table mt_gearweaponscaster_d01.dbr
-	0.005710370031978072% chance to roll an item from table mt_gearweaponsfocus_d01.dbr
-	0.06281407035175879% chance to roll an item from table mt_gearweaponscaster_c01.dbr
-	0.06281407035175879% chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Blood of Ch'thon - 20.25%
-	Bloodlord's Blade - 8.565555047967107%
-	Bloodsworn Sigil - 24.75%
-	Chthonic Seal of Binding - 30.0%
+	0.09891196834817013% chance to roll an item from table mt_gearweaponsfocus_d01.dbr
+	0.47393364928909953% chance to roll an item from table mt_gearweaponscaster_d01.dbr
+	0.9891196834817013% chance to roll an item from table mt_gearweaponsfocus_c01.dbr
+	4.739336492890995% chance to roll an item from table mt_gearweaponscaster_c01.dbr
+	Blood of Ch'thon - 20.0%
+	Bloodlord's Blade - 28.436018957345972%
+	Bloodsworn Sigil - 40.0%
+	Chthonic Seal of Binding - 40.0%
 
 Rashalga, the Mad Queen
 
@@ -3445,8 +3446,8 @@ Baros Wradlith, Lord of the Lost Souls
 
 Wraith of Sorrows
 
-	5.0% chance to roll an item from table mt_crafting_blueprints_b02.dbr
-	Spectral Crown - 15.0%
+	5.25% chance to roll an item from table mt_crafting_blueprints_b02.dbr
+	Spectral Crown - 29.75%
 	Vital Essence/Food Ration - 100.0%
 
 Noveria Stormfire
@@ -3476,17 +3477,17 @@ Alkamos, Lord Executioner
 	Alkamos' Agony - 2.2222222222222223%
 	Alkamos' Anguish - 2.7777777777777777%
 	Alkamos' Dread - 2.7777777777777777%
-	Alkamos' Scythe - 46.666666666666664%
+	Alkamos' Scythe - 53.333333333333336%
 	Alkamos' Torment - 2.2222222222222223%
-	Alkamos' Warsword - 53.333333333333336%
+	Alkamos' Warsword - 46.666666666666664%
 	Vital Essence/Food Ration - 100.0%
 
 Alkamos, Lord Executioner
 
 	10.0% chance to roll an item from table mt_accessories_rings_d02_alkamos.dbr
 	5.0% chance to roll an item from table mt_gearweaponsmelee2h_d02_alkamos.dbr
-	Alkamos' Scythe - 44.333333333333336%
-	Alkamos' Warsword - 50.666666666666664%
+	Alkamos' Scythe - 50.666666666666664%
+	Alkamos' Warsword - 44.333333333333336%
 	Vital Essence/Food Ration - 100.0%
 
 Nacrathan, the Timeless
@@ -3523,8 +3524,8 @@ Narbalgal, the Stormseeker
 	0.09891196834817013% chance to roll an item from table mt_gearweaponsfocus_d01.dbr
 	0.9891196834817013% chance to roll an item from table mt_gearweaponscaster_c01.dbr
 	0.9891196834817013% chance to roll an item from table mt_gearweaponsfocus_c01.dbr
-	Groble Sky Effigy - 23.73887240356083%
-	Groble Sky Idol - 75.1730959446093%
+	Groble Sky Effigy - 74.1839762611276%
+	Groble Sky Idol - 24.727992087042534%
 	Scrap - 100.0%
 
 Grundleplith the Hoarder
@@ -3648,8 +3649,8 @@ Loxmere Nightmage
 	Ascended Epaulets - 8.386916410399776%
 	Ascended Mantle - 89.46044171093095%
 	Haunted Vestment - 97.00644183402804%
-	Loxmere's Frostblade - 19.31123270035404%
 	Loxmere's Frostblade - 19.663535066637536%
+	Loxmere's Frostblade - 38.62246540070808%
 	Tainted Brain Matter - 10.0%
 	Vital Essence/Food Ration - 100.0%
 
@@ -3784,7 +3785,7 @@ High Priest Rolderathis
 	10.0% chance to roll an item from table mt_crafting_blueprints_b02.dbr
 	Corpse Dust - 5.4%
 	Rolderathis - 2nd Entry - 30.0%
-	Rolderathis' Tome - 24.727992087042534%
+	Rolderathis' Tome - 49.45598417408507%
 	Sanctified Bone - 3.6%
 	Vital Essence/Food Ration - 100.0%
 
@@ -3820,7 +3821,7 @@ Grand Priest Zarthuzellan
 	Corpse Dust - 5.4%
 	Sanctified Bone - 3.6%
 	Vital Essence/Food Ration - 100.0%
-	Zarthuzellan's Codex - 24.727992087042534%
+	Zarthuzellan's Codex - 49.45598417408507%
 
 Death Revenant
 
@@ -3829,24 +3830,24 @@ Death Revenant
 
 Kilrian, the Tainted Soul
 
-	0.09891196834817013% chance to roll an item from table mt_gearweaponsmeleeblunt1h_d01.dbr
 	0.0999000999000999% chance to roll an item from table mt_gearweaponsshield_d01.dbr
-	0.9891196834817013% chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
+	0.24330900243309003% chance to roll an item from table mt_gearweaponsmeleeblunt1h_d01.dbr
 	0.999000999000999% chance to roll an item from table mt_gearweaponsshield_c01.dbr
+	2.4330900243309004% chance to roll an item from table mt_gearweaponsmeleeblunt1h_c01.dbr
 	Corpse Dust - 5.4%
 	Kilrian's Shattered Soul - 45.0%
-	Kilrian's Skullbreaker - 24.727992087042534%
+	Kilrian's Skullbreaker - 48.661800486618006%
 	Vital Essence/Food Ration - 100.0%
 
 Ellena, the First Slith
 
-	10.0% chance to roll an item from table mt_crafting_blueprints_b02.dbr
-	Ellena's Necklace - 25.0%
+	11.05% chance to roll an item from table mt_crafting_blueprints_b02.dbr
+	Ellena's Necklace - 39.0%
 
 Primordian, the Forgotten One
 
-	10.0% chance to roll an item from table mt_crafting_blueprints_b03.dbr
-	Putrid Necklace - 25.0%
+	8.5% chance to roll an item from table mt_crafting_blueprints_b03.dbr
+	Putrid Necklace - 30.0%
 
 Gutworm, the Maneater
 
@@ -3913,31 +3914,31 @@ Voldrak, the Destroyer
 	10.0% chance to roll an item from table mt_crafting_blueprints_b03.dbr
 	Ancient Heart - 15.0%
 	Blueprint: Relic - Mistborn Talisman - 18.0%
-	Troll Bonecrusher - 25.0%
-	Troll Bonesmasher - 75.0%
+	Troll Bonecrusher - 50.0%
+	Troll Bonesmasher - 50.0%
 
 Balegor, the Swamp King
 
 	10.0% chance to roll an item from table mt_crafting_blueprints_b03.dbr
 	Ancient Heart - 15.0%
 	Blueprint: Relic - Mistborn Talisman - 18.0%
-	Troll Bonecrusher - 25.0%
-	Troll Bonesmasher - 75.0%
+	Troll Bonecrusher - 50.0%
+	Troll Bonesmasher - 50.0%
 
 Viloth, the Corruptor
 
-	0.005710370031978072% chance to roll an item from table mt_accessories_rings_d01.dbr
-	0.06281407035175879% chance to roll an item from table mt_accessories_rings_c01.dbr
-	Viloth's Ring - 35.68981269986295%
+	0.09891196834817013% chance to roll an item from table mt_accessories_rings_d01.dbr
+	0.9891196834817013% chance to roll an item from table mt_accessories_rings_c01.dbr
+	Viloth's Ring - 49.45598417408507%
 
 Warden Krieg
 
 	Tainted Brain Matter - 20.0%
 	Vital Essence/Food Ration - 100.0%
-	Warden's Bulwark - 75.0%
-	Warden's Fortress - 25.0%
-	Warden's Judgement - 25.0%
-	Warden's Verdict - 75.0%
+	Warden's Bulwark - 65.0%
+	Warden's Fortress - 35.0%
+	Warden's Judgement - 35.0%
+	Warden's Verdict - 65.0%
 
 Ulraprax, the Hive Matriarch
 
@@ -4612,9 +4613,9 @@ Ragrathar Rageblood
 	15.0% chance to roll an item from table mt_crafting_blueprints_b03.dbr
 	Ancient Heart - 15.0%
 	Bristly Fur - 6.0%
-	Chipped Yeti Horn - 52.0%
+	Chipped Yeti Horn - 30.0%
 	Vital Essence/Food Ration - 100.0%
-	Yeti Horn - 18.0%
+	Yeti Horn - 40.0%
 
 Barrog, the Bloodied
 
@@ -7841,8 +7842,8 @@ Valdaran, the Storm Scourge
 
 	Aetherial Warrant - 19.250000000000004%
 	Tainted Brain Matter - 35.75000000000001%
-	Valdaran's Mantle - 46.666666666666664%
-	Valdaran's Shoulderguard - 53.333333333333336%
+	Valdaran's Mantle - 53.333333333333336%
+	Valdaran's Shoulderguard - 46.666666666666664%
 	Vital Essence/Food Ration - 100.0%
 
 Obligious Foul
@@ -7866,8 +7867,8 @@ Jac'Aran, the Eternal Stone
 
 Benn'Jahr, the Colossal
 
-	Benn'Jahr's Pauldrons - 53.333333333333336%
-	Benn'Jahr's Shoulderguards - 46.666666666666664%
+	Benn'Jahr's Pauldrons - 46.666666666666664%
+	Benn'Jahr's Shoulderguards - 53.333333333333336%
 	Blood of Ch'thon - 35.75000000000001%
 	Chthonian Warrant - 19.250000000000004%
 	Vital Essence/Food Ration - 100.0%
@@ -7891,8 +7892,8 @@ The Iron Maiden
 
 	0.47393364928909953% chance to roll an item from table mt_gearweaponsmelee1h_d01.dbr
 	4.739336492890995% chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
-	Iron Maiden's Mantle - 46.666666666666664%
-	Iron Maiden's Shoulderguard - 53.333333333333336%
+	Iron Maiden's Mantle - 53.333333333333336%
+	Iron Maiden's Shoulderguard - 46.666666666666664%
 	Kymon's Warrant - 20.0%
 	Scrap - 80.0%
 
@@ -7904,8 +7905,8 @@ Zantarin, the Immortal
 	4.739336492890995% chance to roll an item from table mt_gearweaponsfocus_c01.dbr
 	Order Warrant - 20.0%
 	Scrap - 80.0%
-	Zantarin's Mantle - 46.666666666666664%
-	Zantarin's Shoulderguard - 53.333333333333336%
+	Zantarin's Mantle - 53.333333333333336%
+	Zantarin's Shoulderguard - 46.666666666666664%
 
 Cabala Rotweaver
 
@@ -7921,8 +7922,8 @@ Fabius "the Unseen" Gonzar
 	4.739336492890995% chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	4.739336492890995% chance to roll an item from table mt_gearweaponsmelee1h_c01.dbr
 	Cronley's Warrant - 20.0%
-	Fabius' Pauldron - 53.333333333333336%
-	Fabius' Shoulderguard - 46.666666666666664%
+	Fabius' Pauldron - 46.666666666666664%
+	Fabius' Shoulderguard - 53.333333333333336%
 	Scrap - 80.0%
 
 Thallion Vos
@@ -7962,8 +7963,8 @@ Allminoxius, the Artificer
 Moosilauke, the Chillwind
 
 	Arkovian Warrant - 20.0%
-	Moosilauke's Pauldrons - 53.333333333333336%
-	Moosilauke's Shoulderguards - 46.666666666666664%
+	Moosilauke's Pauldrons - 46.666666666666664%
+	Moosilauke's Shoulderguards - 53.333333333333336%
 	Vital Essence/Food Ration - 100.0%
 
 Toxemus
