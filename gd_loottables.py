@@ -341,7 +341,6 @@ def main():
                 elif " - " in line:
                     lines = True
                     split = line.rsplit(" - ")
-                    
                     res.append("\t" + handle_direct(split[0]) + " - " + split[1])
                 else:
                     if "f_" in enemy:

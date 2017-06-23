@@ -4523,8 +4523,8 @@ Chillmane Rager
 	3.1174402074968204% chance to roll an item from table mt_hu_miscconstitution_a01.dbr
 	3.3% chance to roll an item from table mt_comp_beastfur_a01.dbr
 	Bristly Fur - 2.4%
-	Chipped Yeti Horn - 19.4%
-	Yeti Horn - 0.6%
+	Chipped Yeti Horn - 18.8%
+	Yeti Horn - 1.2%
 
 Chillmane Brute
 
@@ -4545,8 +4545,8 @@ Chillmane Rager
 	3.1174402074968204% chance to roll an item from table mt_hu_miscconstitution_a01.dbr
 	3.3% chance to roll an item from table mt_comp_beastfur_a01.dbr
 	Bristly Fur - 2.4%
-	Chipped Yeti Horn - 23.04%
-	Yeti Horn - 0.96%
+	Chipped Yeti Horn - 22.08%
+	Yeti Horn - 1.92%
 
 Chillmane Icesplitter
 
@@ -4557,8 +4557,8 @@ Chillmane Icesplitter
 	3.1174402074968204% chance to roll an item from table mt_hu_miscconstitution_a01.dbr
 	3.3% chance to roll an item from table mt_comp_beastfur_a01.dbr
 	Bristly Fur - 2.4%
-	Chipped Yeti Horn - 23.04%
-	Yeti Horn - 0.96%
+	Chipped Yeti Horn - 22.08%
+	Yeti Horn - 1.92%
 
 Chillmane Alpha
 
@@ -4569,8 +4569,8 @@ Chillmane Alpha
 	6.6% chance to roll an item from table mt_comp_beastfur_a01.dbr
 	87.44643905607815% chance to roll an item from table mt_hu_miscall_a01.dbr
 	Bristly Fur - 4.8%
-	Chipped Yeti Horn - 32.9%
-	Yeti Horn - 2.1%
+	Chipped Yeti Horn - 31.5%
+	Yeti Horn - 3.5%
 
 Walking Dead
 
@@ -10654,10 +10654,8 @@ Eldon "Snakeskin" ~ Regenerator
 
 Leander "Blackwater" Greene
 
-	0.004945598417408506% chance to roll an item from table mt_geararmorhands_d01.dbr
 	0.01483679525222552% chance to roll an item from table mt_geararmorfeet_d01.dbr
 	0.03913894324853229% chance to roll an item from table mt_geararmorhead_d01.dbr
-	0.04945598417408507% chance to roll an item from table mt_geararmorhands_c01.dbr
 	0.09891196834817013% chance to roll an item from table mt_gearweaponsranged1h_d01.dbr
 	0.14836795252225518% chance to roll an item from table mt_geararmorfeet_c01.dbr
 	0.3913894324853229% chance to roll an item from table mt_geararmorhead_c01.dbr
@@ -10667,7 +10665,6 @@ Leander "Blackwater" Greene
 	19.569471624266146% chance to roll an item from table mt_geararmor_monster_headheavy_a01.dbr
 	24.0% chance to roll an item from table mt_comp_human_a01.dbr
 	4.5% chance to roll an item from table mt_comp_magical_a01.dbr
-	4.945598417408506% chance to roll an item from table mt_geararmorhands_a01.dbr
 	Empowered Leander Greene's Hand Cannon - 0.17662851490744666%
 	Leander Greene's Hand Cannon - 0.17662851490744666%
 	Scrap - 100.0%

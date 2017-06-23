@@ -4037,7 +4037,6 @@ Eldon "Snakeskin" ~ Regenerator
 
 Leander "Blackwater" Greene
 
-	0.004945598417408506% chance to roll an item from table mt_geararmorhands_d01.dbr
 	0.01483679525222552% chance to roll an item from table mt_geararmorfeet_d01.dbr
 	0.03913894324853229% chance to roll an item from table mt_geararmorhead_d01.dbr
 	0.09891196834817013% chance to roll an item from table mt_gearweaponsranged1h_d01.dbr

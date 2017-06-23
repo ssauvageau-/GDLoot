@@ -7117,7 +7117,6 @@ Leander "Blackwater" Greene
 	19.569471624266146% chance to roll an item from table mt_geararmor_monster_headheavy_a01.dbr
 	24.0% chance to roll an item from table mt_comp_human_a01.dbr
 	4.5% chance to roll an item from table mt_comp_magical_a01.dbr
-	4.945598417408506% chance to roll an item from table mt_geararmorhands_a01.dbr
 	Scrap - 100.0%
 	Vital Essence/Food Ration - 100.0%
 
