@@ -8,9 +8,9 @@ root_base = ""
 root1 = ""
 root2 = ""
 prefix = ""
-item_fn = ""
-quest_fn = ""
-enemy_fn = ""
+item_fn = []
+quest_fn = []
+enemy_fn = []
 
 enemies = []
 
@@ -41,11 +41,11 @@ def init():
     prefix = install_prefix + r"\database"
 
     global item_fn
-    item_fn = install_prefix + r"\resources\text_en\tags_items.txt"
+    item_fn = [install_prefix + x for x in [r"\resources\text_en\tags_items.txt", r"\resources\text_en\tagsgdx1_items.txt"]]
     global quest_fn
-    quest_fn = install_prefix + r"\resources\text_en\tags_storyelements.txt"
+    quest_fn = [install_prefix + x for x in [r"\resources\text_en\tags_storyelements.txt", r"\resources\text_en\tagsgdx1_storyelements.txt"]]
     global enemy_fn
-    enemy_fn = install_prefix + r"\resources\text_en\tags_creatures.txt"
+    enemy_fn = [install_prefix + x for x in [r"\resources\text_en\tags_creatures.txt", r"\resources\text_en\tagsgdx1_creatures.txt"]]
 
     return 1
 
@@ -200,6 +200,8 @@ def handle_master(mt, chance):
     return res
 
 def handle_enemy(enemy):
+    if r"special\nemesis_aetherialvanguard_01.dbr" in enemy:
+        return []
     f = open(enemy)
     changed = False
     name = ""
@@ -285,24 +287,27 @@ def main():
     global has_read
     if not has_read:
         sys.stdout.write("Building textual info from GD resources...\n")
-        for line in open(enemy_fn):
-            if "=" in line:
-                string = line.rsplit("=")
-                enemy_names[string[0]] = string[1].strip()
-        for line in open(item_fn):
-            if "=" in line:
-                string = line.rsplit("=")
-                item_names[string[0]] = before(string[1].replace("^k", ""), "\n")
-        for line in open(quest_fn):
-            if "=" in line:
-                string = line.rsplit("=")
-                item_names[string[0]] = before(string[1], "\n")
-        sys.stdout.write("Done\n")
-        sys.stdout.write("Gathering all enemy data...\n")
-        for path, subdirs, files in os.walk(root_base + root1):
-            for name in files:
-                if r"creatures\enemies\bios" not in path and r"\creatures\enemies\anm" not in path:
-                    enemies.append(os.path.join(path, name))
+        for file in enemy_fn:
+            for line in open(file):
+                if "=" in line:
+                    string = line.rsplit("=")
+                    enemy_names[string[0]] = string[1].strip()
+        for file in item_fn:
+            for line in open(file):
+                if "=" in line:
+                    string = line.rsplit("=")
+                    item_names[string[0]] = before(string[1].replace("^k", ""), "\n")
+        for file in quest_fn:
+            for line in open(file):
+                if "=" in line:
+                    string = line.rsplit("=")
+                    item_names[string[0]] = before(string[1], "\n")
+            sys.stdout.write("Done\n")
+            sys.stdout.write("Gathering all enemy data...\n")
+            for path, subdirs, files in os.walk(root_base + root1):
+                for name in files:
+                    if r"creatures\enemies\bios" not in path and r"\creatures\enemies\anm" not in path:
+                        enemies.append(os.path.join(path, name))
         sys.stdout.write("Done\n")
         if use_mt:
             sys.stdout.write("Building mastertable data...\n")
