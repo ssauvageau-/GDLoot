@@ -302,12 +302,12 @@ def main():
                 if "=" in line:
                     string = line.rsplit("=")
                     item_names[string[0]] = before(string[1], "\n")
-            sys.stdout.write("Done\n")
-            sys.stdout.write("Gathering all enemy data...\n")
-            for path, subdirs, files in os.walk(root_base + root1):
-                for name in files:
-                    if r"creatures\enemies\bios" not in path and r"\creatures\enemies\anm" not in path:
-                        enemies.append(os.path.join(path, name))
+        sys.stdout.write("Done\n")
+        sys.stdout.write("Gathering all enemy data...\n")
+        for path, subdirs, files in os.walk(root_base + root1):
+            for name in files:
+                if r"creatures\enemies\bios" not in path and r"\creatures\enemies\anm" not in path:
+																	enemies.append(os.path.join(path, name))
         sys.stdout.write("Done\n")
         if use_mt:
             sys.stdout.write("Building mastertable data...\n")
